@@ -1,0 +1,20 @@
+[
+  {
+    "server": "proxy.proxymtproto.net",
+    "port": 443,
+    "secret": "dd97caa3c6888366f26b12f994f02ecf1a",
+    "url": "tg://proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a"
+  },
+  {
+    "server": "connect.tproxyru.live",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+  },
+  {
+    "server": "y.vkgosuslugi.ru",
+    "port": 443,
+    "secret": "eef7f61a772049acbf6712254678726d8477622e7275",
+    "url": "tg://proxy?server=y.vkgosuslugi.ru&port=443&secret=eef7f61a772049acbf6712254678726d8477622e7275"
+  }
+]
