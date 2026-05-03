@@ -1,20 +1,20 @@
 [
   {
-    "server": "r.vkgosuslugi.ru",
+    "server": "proxy.proxymtproto.net",
     "port": 443,
-    "secret": "eeb3c40cca79ad207666c65909f2b281be77622e7275",
-    "url": "tg://proxy?server=r.vkgosuslugi.ru&port=443&secret=eeb3c40cca79ad207666c65909f2b281be77622e7275"
+    "secret": "dd97caa3c6888366f26b12f994f02ecf1a",
+    "url": "tg://proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a"
   },
   {
-    "server": "89.125.32.174",
-    "port": 8888,
-    "secret": "eec8a8187ba8a4b7483c547981b3cf88eb73332e616d617a6f6e6177732e636f6d",
-    "url": "tg://proxy?server=89.125.32.174&port=8888&secret=eec8a8187ba8a4b7483c547981b3cf88eb73332e616d617a6f6e6177732e636f6d"
+    "server": "connect.tproxyru.live",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-    "server": "51.250.64.161",
+    "server": "y.vkgosuslugi.ru",
     "port": 443,
-    "secret": "4e43ae171d135959078c3ea87a0fcd38",
-    "url": "tg://proxy?server=51.250.64.161&port=443&secret=4e43ae171d135959078c3ea87a0fcd38"
+    "secret": "eef7f61a772049acbf6712254678726d8477622e7275",
+    "url": "tg://proxy?server=y.vkgosuslugi.ru&port=443&secret=eef7f61a772049acbf6712254678726d8477622e7275"
   }
 ]
