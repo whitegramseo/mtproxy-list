@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxytg.fit",
-    "port": 443,
-    "secret": "eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974",
-    "url": "tg://proxy?server=proxytg.fit&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974"
-  },
-  {
-    "server": "ctfd-is-shit.top",
+    "server": "pinklove.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=ctfd-is-shit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+    "url": "tg://proxy?server=pinklove.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "fast.tg.toggle.org",
+    "server": "proxysb.xyz",
     "port": 443,
-    "secret": "ee4ef574bb2e39f96833252cdfa792eee4676f6f676c652e636f6d",
-    "url": "tg://proxy?server=fast.tg.toggle.org&port=443&secret=ee4ef574bb2e39f96833252cdfa792eee4676f6f676c652e636f6d"
+    "secret": "eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a",
+    "url": "tg://proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a"
+  },
+  {
+    "server": "proxytg.live",
+    "port": 443,
+    "secret": "ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665",
+    "url": "tg://proxy?server=proxytg.live&port=443&secret=ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665"
   }
 ]
