@@ -1,20 +1,20 @@
 [
   {
-    "server": "i-love-boobs.top",
+    "server": "0xb00b5.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=i-love-boobs.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+    "url": "tg://proxy?server=0xb00b5.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "proxy.proxymtproto.net",
-    "port": 443,
-    "secret": "dd97caa3c6888366f26b12f994f02ecf1a",
-    "url": "tg://proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a"
+    "server": "193.23.199.16",
+    "port": 8443,
+    "secret": "eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=193.23.199.16&port=8443&secret=eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d"
   },
   {
-    "server": "proxytg.live",
+    "server": "130.49.218.57",
     "port": 443,
-    "secret": "ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665",
-    "url": "tg://proxy?server=proxytg.live&port=443&secret=ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665"
+    "secret": "ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=130.49.218.57&port=443&secret=ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d"
   }
 ]
