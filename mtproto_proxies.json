@@ -1,20 +1,20 @@
 [
   {
-    "server": "linkflowhub.shop",
+    "server": "getfastlink.click",
     "port": 443,
-    "secret": "ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70",
-    "url": "tg://proxy?server=linkflowhub.shop&port=443&secret=ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70"
+    "secret": "ee47e3a8b2c1f4e9d0a6b5c8d7e4f3a2b1676574666173746c696e6b2e636c69636b",
+    "url": "tg://proxy?server=getfastlink.click&port=443&secret=ee47e3a8b2c1f4e9d0a6b5c8d7e4f3a2b1676574666173746c696e6b2e636c69636b"
   },
   {
-    "server": "i-love-femboys.top",
+    "server": "skill-issue.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+    "url": "tg://proxy?server=skill-issue.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "connect.tproxyru.click",
-    "port": 8980,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "server": "wow.etherealvpn.uk",
+    "port": 443,
+    "secret": "eeafb51059be4e6d73ec385bf2235406fa706574726f766963682e7275",
+    "url": "tg://proxy?server=wow.etherealvpn.uk&port=443&secret=eeafb51059be4e6d73ec385bf2235406fa706574726f766963682e7275"
   }
 ]
