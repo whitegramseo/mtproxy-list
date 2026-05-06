@@ -1,20 +1,20 @@
 [
   {
-    "server": "193.23.199.57",
+    "server": "win.sosproxy.space",
     "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=193.23.199.57&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d"
+    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "5.230.201.129",
+    "server": "free-niderl.kimt.space",
     "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=5.230.201.129&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d"
+    "secret": "ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275",
+    "url": "tg://proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275"
   },
   {
-    "server": "free-nl-ru.kimt.space",
-    "port": 443,
-    "secret": "ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365",
-    "url": "tg://proxy?server=free-nl-ru.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365"
+    "server": "calcium-credit.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "url": "tg://proxy?server=calcium-credit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   }
 ]
