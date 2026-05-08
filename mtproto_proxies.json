@@ -1,20 +1,20 @@
 [
   {
-    "server": "win.sosproxy.space",
+    "server": "194.50.94.98",
     "port": 443,
-    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d"
+    "secret": "ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275",
+    "url": "tg://proxy?server=194.50.94.98&port=443&secret=ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275"
   },
   {
-    "server": "132.243.235.201",
+    "server": "89.125.113.8",
     "port": 443,
-    "secret": "ee9e0de647c5d593c800e577d6cc16f41d79616e6465782e7275",
-    "url": "tg://proxy?server=132.243.235.201&port=443&secret=ee9e0de647c5d593c800e577d6cc16f41d79616e6465782e7275"
+    "secret": "ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275",
+    "url": "tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275"
   },
   {
-    "server": "194.50.94.65",
+    "server": "89.125.113.9",
     "port": 443,
-    "secret": "ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275",
-    "url": "tg://proxy?server=194.50.94.65&port=443&secret=ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275"
+    "secret": "ee270da96d88f34c5719b892a3b1ce156379616e6465782e7275",
+    "url": "tg://proxy?server=89.125.113.9&port=443&secret=ee270da96d88f34c5719b892a3b1ce156379616e6465782e7275"
   }
 ]
