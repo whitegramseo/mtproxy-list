@@ -1,20 +1,20 @@
 [
   {
-    "server": "tgobhod.forum",
+    "server": "quickrouteapp.xyz",
     "port": 443,
-    "secret": "ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d74676f62686f642e666f72756d",
-    "url": "tg://proxy?server=tgobhod.forum&port=443&secret=ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d74676f62686f642e666f72756d"
+    "secret": "7n5PHIs9Kl6cbwtNihxefytxdWlja3JvdXRlYXBwLnh5eg",
+    "url": "tg://proxy?server=quickrouteapp.xyz&port=443&secret=7n5PHIs9Kl6cbwtNihxefytxdWlja3JvdXRlYXBwLnh5eg"
   },
   {
-    "server": "espress0-macch1ato-p0r-favor3.top",
+    "server": "owner-explain.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=espress0-macch1ato-p0r-favor3.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+    "url": "tg://proxy?server=owner-explain.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "dedicated.love.mambabot.net",
-    "port": 4515,
-    "secret": "ee33b4081c23579f7d6ca619d38baf0b46626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=dedicated.love.mambabot.net&port=4515&secret=ee33b4081c23579f7d6ca619d38baf0b46626973636f7474692e79656b74616e65742e636f6d"
+    "server": "45.80.229.214",
+    "port": 443,
+    "secret": "ee89c7bd01d5cd8a1687f74c0fa5842c6879612e7275",
+    "url": "tg://proxy?server=45.80.229.214&port=443&secret=ee89c7bd01d5cd8a1687f74c0fa5842c6879612e7275"
   }
 ]
