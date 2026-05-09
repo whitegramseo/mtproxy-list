@@ -1,20 +1,20 @@
 [
   {
-    "server": "mtp.fsoc-app.online",
-    "port": 853,
-    "secret": "ee1d49946a9bd11022149e2c68f1d75f6774656c2e66736f632d6170702e6f6e6c696e65",
-    "url": "tg://proxy?server=mtp.fsoc-app.online&port=853&secret=ee1d49946a9bd11022149e2c68f1d75f6774656c2e66736f632d6170702e6f6e6c696e65"
+    "server": "proxy.proxymtproto.net",
+    "port": 443,
+    "secret": "dd97caa3c6888366f26b12f994f02ecf1a",
+    "url": "tg://proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a"
   },
   {
-    "server": "ninja.spectranet.pro",
+    "server": "arixo.shop",
     "port": 443,
-    "secret": "eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f",
-    "url": "tg://proxy?server=ninja.spectranet.pro&port=443&secret=eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f"
+    "secret": "eec11798ab008831b474066c9e1ebf5c9978352e7275",
+    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c9978352e7275"
   },
   {
-    "server": "quickrouteapp.xyz",
+    "server": "2.26.98.239",
     "port": 443,
-    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=quickrouteapp.xyz&port=443&secret=ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
+    "secret": "ee2b65f9171b435d2eee91225b93089127d186d1",
+    "url": "tg://proxy?server=2.26.98.239&port=443&secret=ee2b65f9171b435d2eee91225b93089127d186d1"
   }
 ]
