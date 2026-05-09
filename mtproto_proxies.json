@@ -1,20 +1,20 @@
 [
   {
-    "server": "rkn.lat",
-    "port": 443,
-    "secret": "eed33cc1365fef45292c52736f6695df6f6d61782e7275",
-    "url": "tg://proxy?server=rkn.lat&port=443&secret=eed33cc1365fef45292c52736f6695df6f6d61782e7275"
+    "server": "lovevesper.zoryx.tech",
+    "port": 853,
+    "secret": "ee2a43151ca1c75d56a2f8f63c87bfaae374726176656c6c696e652e7275",
+    "url": "tg://proxy?server=lovevesper.zoryx.tech&port=853&secret=ee2a43151ca1c75d56a2f8f63c87bfaae374726176656c6c696e652e7275"
   },
   {
-    "server": "quickrouteapp.xyz",
-    "port": 443,
-    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=quickrouteapp.xyz&port=443&secret=ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
+    "server": "connect.tproxyru.live",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-    "server": "another.life.mambabot.net",
-    "port": 4515,
-    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=another.life.mambabot.net&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
+    "server": "tproxyru.live",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
   }
 ]
