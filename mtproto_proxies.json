@@ -1,20 +1,20 @@
 [
   {
-    "server": "free-nl.kimt.space",
+    "server": "y.vkgosuslugi.ru",
     "port": 443,
-    "secret": "ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365",
-    "url": "tg://proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365"
+    "secret": "eef7f61a772049acbf6712254678726d8477622e7275",
+    "url": "tg://proxy?server=y.vkgosuslugi.ru&port=443&secret=eef7f61a772049acbf6712254678726d8477622e7275"
   },
   {
-    "server": "free-finland.kimt.space",
+    "server": "r.vkgosuslugi.ru",
     "port": 443,
-    "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
-    "url": "tg://proxy?server=free-finland.kimt.space&port=443&secret=ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275"
+    "secret": "eeb3c40cca79ad207666c65909f2b281be77622e7275",
+    "url": "tg://proxy?server=r.vkgosuslugi.ru&port=443&secret=eeb3c40cca79ad207666c65909f2b281be77622e7275"
   },
   {
-    "server": "194.50.94.65",
+    "server": "quickrouteapp.xyz",
     "port": 443,
-    "secret": "ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275",
-    "url": "tg://proxy?server=194.50.94.65&port=443&secret=ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275"
+    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=quickrouteapp.xyz&port=443&secret=ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
   }
 ]
