@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy.nolags.pw",
+    "server": "tgobhod.forum",
     "port": 443,
-    "secret": "dde8f80bb2dbf4105c07ca7559599924c9",
-    "url": "tg://proxy?server=proxy.nolags.pw&port=443&secret=dde8f80bb2dbf4105c07ca7559599924c9"
+    "secret": "ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d74676f62686f642e666f72756d",
+    "url": "tg://proxy?server=tgobhod.forum&port=443&secret=ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d74676f62686f642e666f72756d"
   },
   {
-    "server": "free-nl.kimt.space",
+    "server": "y.vkgosuslugi.ru",
     "port": 443,
-    "secret": "ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365",
-    "url": "tg://proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365"
+    "secret": "eef7f61a772049acbf6712254678726d8477622e7275",
+    "url": "tg://proxy?server=y.vkgosuslugi.ru&port=443&secret=eef7f61a772049acbf6712254678726d8477622e7275"
   },
   {
-    "server": "free-finland.kimt.space",
+    "server": "r.vkgosuslugi.ru",
     "port": 443,
-    "secret": "ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275",
-    "url": "tg://proxy?server=free-finland.kimt.space&port=443&secret=ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275"
+    "secret": "eeb3c40cca79ad207666c65909f2b281be77622e7275",
+    "url": "tg://proxy?server=r.vkgosuslugi.ru&port=443&secret=eeb3c40cca79ad207666c65909f2b281be77622e7275"
   }
 ]
