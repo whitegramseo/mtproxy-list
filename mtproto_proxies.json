@@ -1,20 +1,20 @@
 [
   {
-    "server": "rkn.lat",
-    "port": 443,
-    "secret": "eed33cc1365fef45292c52736f6695df6f6d61782e7275",
-    "url": "tg://proxy?server=rkn.lat&port=443&secret=eed33cc1365fef45292c52736f6695df6f6d61782e7275"
-  },
-  {
-    "server": "connect.tproxyru.live",
+    "server": "connect.tproxyru.click",
     "port": 8980,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "url": "tg://proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-    "server": "tproxyru.live",
+    "server": "now.tproxyru.click",
     "port": 8980,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "url": "tg://proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+  },
+  {
+    "server": "lovevesper.zoryx.tech",
+    "port": 853,
+    "secret": "ee2a43151ca1c75d56a2f8f63c87bfaae374726176656c6c696e652e7275",
+    "url": "tg://proxy?server=lovevesper.zoryx.tech&port=853&secret=ee2a43151ca1c75d56a2f8f63c87bfaae374726176656c6c696e652e7275"
   }
 ]
