@@ -1,20 +1,20 @@
 [
   {
-    "server": "loly.etherealvpn.uk",
+    "server": "194.50.94.98",
     "port": 443,
-    "secret": "ee2e7799fb9db11363814b3191898b4822706574726f766963682e7275",
-    "url": "tg://proxy?server=loly.etherealvpn.uk&port=443&secret=ee2e7799fb9db11363814b3191898b4822706574726f766963682e7275"
+    "secret": "ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275",
+    "url": "tg://proxy?server=194.50.94.98&port=443&secret=ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275"
+  },
+  {
+    "server": "89.125.113.8",
+    "port": 443,
+    "secret": "ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275",
+    "url": "tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275"
   },
   {
     "server": "arixo.shop",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99706574726f766963682e7275",
-    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99706574726f766963682e7275"
-  },
-  {
-    "server": "arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c9978352e7275",
-    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c9978352e7275"
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
   }
 ]
