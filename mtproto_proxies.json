@@ -1,20 +1,20 @@
 [
   {
-    "server": "t.hhelios.ru",
+    "server": "arixo.shop",
     "port": 443,
-    "secret": "eebfe8fc1c84e404ccdfb33c0990ba5c4435706f73742d676174652e78352e7275",
-    "url": "tg://proxy?server=t.hhelios.ru&port=443&secret=eebfe8fc1c84e404ccdfb33c0990ba5c4435706f73742d676174652e78352e7275"
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
   },
   {
-    "server": "tg.hhelios.ru",
+    "server": "fast.etherealvpn.uk",
     "port": 443,
-    "secret": "eed2082d28b4c047cc2a783b84e9a52a1635706f73742d676174652e78352e7275",
-    "url": "tg://proxy?server=tg.hhelios.ru&port=443&secret=eed2082d28b4c047cc2a783b84e9a52a1635706f73742d676174652e78352e7275"
+    "secret": "ee2a6c4a57692c97e9a8bf7bab7ae8479f706574726f766963682e7275",
+    "url": "tg://proxy?server=fast.etherealvpn.uk&port=443&secret=ee2a6c4a57692c97e9a8bf7bab7ae8479f706574726f766963682e7275"
   },
   {
-    "server": "2.27.22.112",
+    "server": "5.231.56.165",
     "port": 443,
-    "secret": "ee17ea0a2562ea669ebe7308ee7f9ae63b706574726f766963682e7275",
-    "url": "tg://proxy?server=2.27.22.112&port=443&secret=ee17ea0a2562ea669ebe7308ee7f9ae63b706574726f766963682e7275"
+    "secret": "7c81481b8a23812706cbd96fb2c8b0b8",
+    "url": "tg://proxy?server=5.231.56.165&port=443&secret=7c81481b8a23812706cbd96fb2c8b0b8"
   }
 ]
