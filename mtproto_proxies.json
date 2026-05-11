@@ -1,20 +1,20 @@
 [
   {
-    "server": "arixo.shop",
+    "server": "quickrouteapp.xyz",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
+    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=quickrouteapp.xyz&port=443&secret=ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
   },
   {
-    "server": "fast.etherealvpn.uk",
+    "server": "win.sosproxy.space",
     "port": 443,
-    "secret": "ee2a6c4a57692c97e9a8bf7bab7ae8479f706574726f766963682e7275",
-    "url": "tg://proxy?server=fast.etherealvpn.uk&port=443&secret=ee2a6c4a57692c97e9a8bf7bab7ae8479f706574726f766963682e7275"
+    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "5.231.56.165",
+    "server": "s.arixo.shop",
     "port": 443,
-    "secret": "7c81481b8a23812706cbd96fb2c8b0b8",
-    "url": "tg://proxy?server=5.231.56.165&port=443&secret=7c81481b8a23812706cbd96fb2c8b0b8"
+    "secret": "eec11798ab008831b474066c9e1ebf5c997777772e617669746f2e7275",
+    "url": "tg://proxy?server=s.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c997777772e617669746f2e7275"
   }
 ]
