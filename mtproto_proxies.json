@@ -1,20 +1,20 @@
 [
   {
-    "server": "tg1.tgproxy1.fun",
-    "port": 8443,
-    "secret": "ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e",
-    "url": "tg://proxy?server=tg1.tgproxy1.fun&port=8443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e"
+    "server": "connect.tproxyru.click",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-    "server": "calcium-credit.top",
+    "server": "now.tproxyru.click",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+  },
+  {
+    "server": "s.rkn.tg",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=calcium-credit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
-  },
-  {
-    "server": "i-love-femboys.etherealvpn.uk",
-    "port": 443,
-    "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
-    "url": "tg://proxy?server=i-love-femboys.etherealvpn.uk&port=443&secret=ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275"
+    "url": "tg://proxy?server=s.rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   }
 ]
