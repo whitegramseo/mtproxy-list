@@ -1,20 +1,20 @@
 [
   {
-    "server": "vfast.proxytg.space",
-    "port": 443,
-    "secret": "ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=vfast.proxytg.space&port=443&secret=ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d"
+    "server": "tg1.tgproxy1.fun",
+    "port": 8443,
+    "secret": "ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e",
+    "url": "tg://proxy?server=tg1.tgproxy1.fun&port=8443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e"
   },
   {
-    "server": "147.45.166.163",
-    "port": 443,
-    "secret": "eee320b18016cfb493f6ca37e07c67e6bf617669746f2e7275",
-    "url": "tg://proxy?server=147.45.166.163&port=443&secret=eee320b18016cfb493f6ca37e07c67e6bf617669746f2e7275"
+    "server": "calcium-credit.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "url": "tg://proxy?server=calcium-credit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "arixo.shop",
+    "server": "i-love-femboys.etherealvpn.uk",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
+    "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
+    "url": "tg://proxy?server=i-love-femboys.etherealvpn.uk&port=443&secret=ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275"
   }
 ]
