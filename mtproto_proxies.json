@@ -1,20 +1,20 @@
 [
   {
-    "server": "proproxiesnl.grittytarantula.sbs",
-    "port": 443,
-    "secret": "ee6f60810259ee86ef3103377d528366aa70726f70726f786965736e6c2e677269747479746172616e74756c612e736273",
-    "url": "tg://proxy?server=proproxiesnl.grittytarantula.sbs&port=443&secret=ee6f60810259ee86ef3103377d528366aa70726f70726f786965736e6c2e677269747479746172616e74756c612e736273"
-  },
-  {
-    "server": "swekitty2.grittytarantula.sbs",
-    "port": 443,
-    "secret": "ee614a102098075294c7d7445df8d084167377656b69747479322e677269747479746172616e74756c612e736273",
-    "url": "tg://proxy?server=swekitty2.grittytarantula.sbs&port=443&secret=ee614a102098075294c7d7445df8d084167377656b69747479322e677269747479746172616e74756c612e736273"
-  },
-  {
-    "server": "proxy.xomodz.fit",
+    "server": "i-love-femboys.top",
     "port": 853,
-    "secret": "ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974",
-    "url": "tg://proxy?server=proxy.xomodz.fit&port=853&secret=ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974"
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "url": "tg://proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+  },
+  {
+    "server": "xycrastination.org",
+    "port": 443,
+    "secret": "eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=xycrastination.org&port=443&secret=eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d"
+  },
+  {
+    "server": "tp.ascel.la",
+    "port": 543,
+    "secret": "eec1f71e1f27f7169fff4d48d2d03ca39e7777772e7472656c6c6f2e636f6d",
+    "url": "tg://proxy?server=tp.ascel.la&port=543&secret=eec1f71e1f27f7169fff4d48d2d03ca39e7777772e7472656c6c6f2e636f6d"
   }
 ]
