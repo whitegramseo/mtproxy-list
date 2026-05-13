@@ -1,20 +1,20 @@
 [
   {
-    "server": "vfast.proxytg.space",
-    "port": 443,
-    "secret": "ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=vfast.proxytg.space&port=443&secret=ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d"
+    "server": "germany.tgproxysokol.pro",
+    "port": 8443,
+    "secret": "ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275",
+    "url": "tg://proxy?server=germany.tgproxysokol.pro&port=8443&secret=ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275"
   },
   {
-    "server": "proxy.nolags.pw",
-    "port": 443,
-    "secret": "dd1ceee809992f1b5205b6fc3cea02aac7",
-    "url": "tg://proxy?server=proxy.nolags.pw&port=443&secret=dd1ceee809992f1b5205b6fc3cea02aac7"
+    "server": "i-love-cu.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "url": "tg://proxy?server=i-love-cu.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "fast.etherealvpn.uk",
+    "server": "i-dontlike-femboys.etherealvpn.uk",
     "port": 443,
-    "secret": "ee369e4778721f2f5a1cc54e802e379c62706574726f766963682e7275",
-    "url": "tg://proxy?server=fast.etherealvpn.uk&port=443&secret=ee369e4778721f2f5a1cc54e802e379c62706574726f766963682e7275"
+    "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
+    "url": "tg://proxy?server=i-dontlike-femboys.etherealvpn.uk&port=443&secret=ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275"
   }
 ]
