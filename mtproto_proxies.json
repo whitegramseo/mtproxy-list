@@ -1,20 +1,20 @@
 [
   {
-    "server": "fit.proxytg.space",
-    "port": 443,
-    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=fit.proxytg.space&port=443&secret=ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d"
+    "server": "germany.tgproxysokol.pro",
+    "port": 8443,
+    "secret": "ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275",
+    "url": "tg://proxy?server=germany.tgproxysokol.pro&port=8443&secret=ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275"
   },
   {
-    "server": "i-love-femboys.top",
+    "server": "i-love-cu.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+    "url": "tg://proxy?server=i-love-cu.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "vfast.proxytg.space",
+    "server": "proxy.nolags.pw",
     "port": 443,
-    "secret": "ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=vfast.proxytg.space&port=443&secret=ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d"
+    "secret": "dd1ceee809992f1b5205b6fc3cea02aac7",
+    "url": "tg://proxy?server=proxy.nolags.pw&port=443&secret=dd1ceee809992f1b5205b6fc3cea02aac7"
   }
 ]
