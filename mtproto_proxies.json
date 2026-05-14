@@ -1,20 +1,20 @@
 [
   {
-    "server": "138.124.79.102",
+    "server": "xd.rkn.lat",
     "port": 443,
-    "secret": "eeef989ce1d22d2afce85121376fed00176d61782e7275",
-    "url": "tg://proxy?server=138.124.79.102&port=443&secret=eeef989ce1d22d2afce85121376fed00176d61782e7275"
+    "secret": "eec58bbb0e46e9fe769afc157088d87a076d61782e7275",
+    "url": "tg://proxy?server=xd.rkn.lat&port=443&secret=eec58bbb0e46e9fe769afc157088d87a076d61782e7275"
   },
   {
-    "server": "hello.proxytg.space",
+    "server": "87.120.108.48",
     "port": 443,
-    "secret": "ee57b7509fe484325abedc85f18804843768656c6c6f2e70726f787974672e7370616365",
-    "url": "tg://proxy?server=hello.proxytg.space&port=443&secret=ee57b7509fe484325abedc85f18804843768656c6c6f2e70726f787974672e7370616365"
+    "secret": "074e7d1d37cc043746fd0c823f20d21a",
+    "url": "tg://proxy?server=87.120.108.48&port=443&secret=074e7d1d37cc043746fd0c823f20d21a"
   },
   {
-    "server": "predator-artist.top",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=predator-artist.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+    "server": "87.120.108.38",
+    "port": 443,
+    "secret": "f212b4ee21a6f1026aadae4ce0b08f98",
+    "url": "tg://proxy?server=87.120.108.38&port=443&secret=f212b4ee21a6f1026aadae4ce0b08f98"
   }
 ]
