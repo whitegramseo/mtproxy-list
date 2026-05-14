@@ -1,20 +1,20 @@
 [
   {
-    "server": "77.110.98.131",
+    "server": "144.31.221.15",
     "port": 443,
-    "secret": "eee81e60b985ab58eb0d4c219ed761f249616d617a6f6e2e636f6d",
-    "url": "tg://proxy?server=77.110.98.131&port=443&secret=eee81e60b985ab58eb0d4c219ed761f249616d617a6f6e2e636f6d"
+    "secret": "a882fe13626155c2ea56b8b79639576c",
+    "url": "tg://proxy?server=144.31.221.15&port=443&secret=a882fe13626155c2ea56b8b79639576c"
   },
   {
-    "server": "pika.proxytg.space",
-    "port": 443,
-    "secret": "ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365",
-    "url": "tg://proxy?server=pika.proxytg.space&port=443&secret=ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365"
+    "server": "i-love-boobs.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "url": "tg://proxy?server=i-love-boobs.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "xd.rkn.lat",
+    "server": "2.27.41.207",
     "port": 443,
-    "secret": "eec58bbb0e46e9fe769afc157088d87a076d61782e7275",
-    "url": "tg://proxy?server=xd.rkn.lat&port=443&secret=eec58bbb0e46e9fe769afc157088d87a076d61782e7275"
+    "secret": "ee9436fa39ab47ccb34f217ac6d06b4e58617669746f2e7275",
+    "url": "tg://proxy?server=2.27.41.207&port=443&secret=ee9436fa39ab47ccb34f217ac6d06b4e58617669746f2e7275"
   }
 ]
