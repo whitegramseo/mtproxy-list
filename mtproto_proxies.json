@@ -1,20 +1,20 @@
 [
   {
-    "server": "xd.rkn.lat",
+    "server": "2.27.41.207",
     "port": 443,
-    "secret": "eec58bbb0e46e9fe769afc157088d87a076d61782e7275",
-    "url": "tg://proxy?server=xd.rkn.lat&port=443&secret=eec58bbb0e46e9fe769afc157088d87a076d61782e7275"
+    "secret": "ee9436fa39ab47ccb34f217ac6d06b4e58617669746f2e7275",
+    "url": "tg://proxy?server=2.27.41.207&port=443&secret=ee9436fa39ab47ccb34f217ac6d06b4e58617669746f2e7275"
   },
   {
-    "server": "87.120.108.48",
+    "server": "s.arixo.shop",
     "port": 443,
-    "secret": "074e7d1d37cc043746fd0c823f20d21a",
-    "url": "tg://proxy?server=87.120.108.48&port=443&secret=074e7d1d37cc043746fd0c823f20d21a"
+    "secret": "7sEXmKsAiDG0dAZsnh6_XJlhdml0by5ydQ",
+    "url": "tg://proxy?server=s.arixo.shop&port=443&secret=7sEXmKsAiDG0dAZsnh6_XJlhdml0by5ydQ"
   },
   {
-    "server": "87.120.108.38",
+    "server": "proxy.chunkycorp.shop",
     "port": 443,
-    "secret": "f212b4ee21a6f1026aadae4ce0b08f98",
-    "url": "tg://proxy?server=87.120.108.38&port=443&secret=f212b4ee21a6f1026aadae4ce0b08f98"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "url": "tg://proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275"
   }
 ]
