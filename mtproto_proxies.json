@@ -1,20 +1,20 @@
 [
   {
-    "server": "34.51.189.93",
+    "server": "hot.proxytg.space",
     "port": 443,
-    "secret": "dd2d7d9877fd3e4240f2ffd5596a39c68c",
-    "url": "tg://proxy?server=34.51.189.93&port=443&secret=dd2d7d9877fd3e4240f2ffd5596a39c68c"
+    "secret": "ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365",
+    "url": "tg://proxy?server=hot.proxytg.space&port=443&secret=ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365"
   },
   {
-    "server": "f1.kurduk.store",
-    "port": 443,
-    "secret": "ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275",
-    "url": "tg://proxy?server=f1.kurduk.store&port=443&secret=ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275"
+    "server": "ctfd-is-shit.top",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "url": "tg://proxy?server=ctfd-is-shit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "f2.kurduk.store",
+    "server": "217.60.98.160",
     "port": 443,
-    "secret": "ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275",
-    "url": "tg://proxy?server=f2.kurduk.store&port=443&secret=ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275"
+    "secret": "eed9fd89062ab62abcbf1bd82dfe9140047777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=217.60.98.160&port=443&secret=eed9fd89062ab62abcbf1bd82dfe9140047777772e6d6963726f736f66742e636f6d"
   }
 ]
