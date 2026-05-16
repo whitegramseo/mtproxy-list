@@ -1,20 +1,20 @@
 [
   {
-    "server": "swekitty.grittytarantula.sbs",
+    "server": "104.253.43.230",
     "port": 443,
-    "secret": "ee51cb8137d7fc9ac4ef73184f45d6208e7377656b697474792e677269747479746172616e74756c612e736273",
-    "url": "tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee51cb8137d7fc9ac4ef73184f45d6208e7377656b697474792e677269747479746172616e74756c612e736273"
+    "secret": "ee415fbec3218718b534391d4439ab184579616e6465782e7275",
+    "url": "tg://proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275"
   },
   {
-    "server": "s1.proxytg.space",
+    "server": "104.253.43.94",
     "port": 443,
-    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=s1.proxytg.space&port=443&secret=ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d"
+    "secret": "ee48158585a131fc19a62c263035654f8179616e6465782e7275",
+    "url": "tg://proxy?server=104.253.43.94&port=443&secret=ee48158585a131fc19a62c263035654f8179616e6465782e7275"
   },
   {
-    "server": "proxy.subs-sosavpn.ru",
+    "server": "dealer3-swe.dealer.ac",
     "port": 8443,
-    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
-    "url": "tg://proxy?server=proxy.subs-sosavpn.ru&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69"
+    "secret": "ee5afcdc6cd0823c91e8c453b0fd37be207477656e7475722e636f6d",
+    "url": "tg://proxy?server=dealer3-swe.dealer.ac&port=8443&secret=ee5afcdc6cd0823c91e8c453b0fd37be207477656e7475722e636f6d"
   }
 ]
