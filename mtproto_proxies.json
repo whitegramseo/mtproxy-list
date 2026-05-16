@@ -1,20 +1,20 @@
 [
   {
-    "server": "ethereal.arixo.shop",
+    "server": "swekitty.grittytarantula.sbs",
     "port": 443,
-    "secret": "eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275",
-    "url": "tg://proxy?server=ethereal.arixo.shop&port=443&secret=eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275"
+    "secret": "ee51cb8137d7fc9ac4ef73184f45d6208e7377656b697474792e677269747479746172616e74756c612e736273",
+    "url": "tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee51cb8137d7fc9ac4ef73184f45d6208e7377656b697474792e677269747479746172616e74756c612e736273"
   },
   {
-    "server": "femboy.arixo.shop",
+    "server": "s1.proxytg.space",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-    "url": "tg://proxy?server=femboy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
+    "secret": "ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=s1.proxytg.space&port=443&secret=ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "104.253.43.252",
-    "port": 443,
-    "secret": "eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275",
-    "url": "tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275"
+    "server": "proxy.subs-sosavpn.ru",
+    "port": 8443,
+    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
+    "url": "tg://proxy?server=proxy.subs-sosavpn.ru&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69"
   }
 ]
