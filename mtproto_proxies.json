@@ -1,20 +1,20 @@
 [
   {
-    "server": "104.253.43.230",
-    "port": 443,
-    "secret": "ee415fbec3218718b534391d4439ab184579616e6465782e7275",
-    "url": "tg://proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275"
-  },
-  {
-    "server": "104.253.43.94",
-    "port": 443,
-    "secret": "ee48158585a131fc19a62c263035654f8179616e6465782e7275",
-    "url": "tg://proxy?server=104.253.43.94&port=443&secret=ee48158585a131fc19a62c263035654f8179616e6465782e7275"
-  },
-  {
-    "server": "dealer3-swe.dealer.ac",
+    "server": "dealer1-de.dealer.ac",
     "port": 8443,
-    "secret": "ee5afcdc6cd0823c91e8c453b0fd37be207477656e7475722e636f6d",
-    "url": "tg://proxy?server=dealer3-swe.dealer.ac&port=8443&secret=ee5afcdc6cd0823c91e8c453b0fd37be207477656e7475722e636f6d"
+    "secret": "ee1d5ddd766b5581496d020d394d0cb66d7477656e7475722e636f6d",
+    "url": "tg://proxy?server=dealer1-de.dealer.ac&port=8443&secret=ee1d5ddd766b5581496d020d394d0cb66d7477656e7475722e636f6d"
+  },
+  {
+    "server": "dealer2-de.dealer.ac",
+    "port": 8443,
+    "secret": "ee81535a864acce5de15b221500c24f3357477656e7475722e636f6d",
+    "url": "tg://proxy?server=dealer2-de.dealer.ac&port=8443&secret=ee81535a864acce5de15b221500c24f3357477656e7475722e636f6d"
+  },
+  {
+    "server": "dealer4-fin.dealer.ac",
+    "port": 8443,
+    "secret": "ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d",
+    "url": "tg://proxy?server=dealer4-fin.dealer.ac&port=8443&secret=ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d"
   }
 ]
