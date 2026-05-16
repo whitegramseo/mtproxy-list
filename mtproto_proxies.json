@@ -1,20 +1,20 @@
 [
   {
-    "server": "dealer1-de.dealer.ac",
-    "port": 8443,
-    "secret": "ee1d5ddd766b5581496d020d394d0cb66d7477656e7475722e636f6d",
-    "url": "tg://proxy?server=dealer1-de.dealer.ac&port=8443&secret=ee1d5ddd766b5581496d020d394d0cb66d7477656e7475722e636f6d"
+    "server": "95.216.222.63",
+    "port": 443,
+    "secret": "ee85f51151981bd69a6281f9e85395161a676f6f676c65617069732e636f6d",
+    "url": "tg://proxy?server=95.216.222.63&port=443&secret=ee85f51151981bd69a6281f9e85395161a676f6f676c65617069732e636f6d"
   },
   {
-    "server": "dealer2-de.dealer.ac",
-    "port": 8443,
-    "secret": "ee81535a864acce5de15b221500c24f3357477656e7475722e636f6d",
-    "url": "tg://proxy?server=dealer2-de.dealer.ac&port=8443&secret=ee81535a864acce5de15b221500c24f3357477656e7475722e636f6d"
+    "server": "178.105.141.172",
+    "port": 443,
+    "secret": "ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d",
+    "url": "tg://proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d"
   },
   {
-    "server": "dealer4-fin.dealer.ac",
-    "port": 8443,
-    "secret": "ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d",
-    "url": "tg://proxy?server=dealer4-fin.dealer.ac&port=8443&secret=ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d"
+    "server": "femboy.arixo.shop",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "url": "tg://proxy?server=femboy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
   }
 ]
