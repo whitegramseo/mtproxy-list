@@ -1,20 +1,20 @@
 [
   {
-    "server": "pika.proxytg.space",
+    "server": "89.125.188.111",
     "port": 443,
-    "secret": "ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365",
-    "url": "tg://proxy?server=pika.proxytg.space&port=443&secret=ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365"
+    "secret": "eeb07da4931e2e88e60496723a88462a9279616e6465782e7275",
+    "url": "tg://proxy?server=89.125.188.111&port=443&secret=eeb07da4931e2e88e60496723a88462a9279616e6465782e7275"
   },
   {
-    "server": "germany.tgproxysokol.pro",
-    "port": 8443,
-    "secret": "ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275",
-    "url": "tg://proxy?server=germany.tgproxysokol.pro&port=8443&secret=ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275"
+    "server": "91.108.248.15",
+    "port": 443,
+    "secret": "eec42cb4ae81a45f8c81cd512599925c7c79616e6465782e7275",
+    "url": "tg://proxy?server=91.108.248.15&port=443&secret=eec42cb4ae81a45f8c81cd512599925c7c79616e6465782e7275"
   },
   {
-    "server": "95.216.222.63",
+    "server": "hot.proxytg.space",
     "port": 443,
-    "secret": "ee85f51151981bd69a6281f9e85395161a676f6f676c65617069732e636f6d",
-    "url": "tg://proxy?server=95.216.222.63&port=443&secret=ee85f51151981bd69a6281f9e85395161a676f6f676c65617069732e636f6d"
+    "secret": "ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365",
+    "url": "tg://proxy?server=hot.proxytg.space&port=443&secret=ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365"
   }
 ]
