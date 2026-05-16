@@ -1,20 +1,20 @@
 [
   {
-    "server": "104.253.43.252",
-    "port": 443,
-    "secret": "eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275",
-    "url": "tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275"
+    "server": "proxy.subs-sosavpn.ru",
+    "port": 8443,
+    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
+    "url": "tg://proxy?server=proxy.subs-sosavpn.ru&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69"
   },
   {
-    "server": "104.253.43.74",
-    "port": 443,
-    "secret": "ee05e177309b81b87d379e9f454c49374f79616e6465782e7275",
-    "url": "tg://proxy?server=104.253.43.74&port=443&secret=ee05e177309b81b87d379e9f454c49374f79616e6465782e7275"
+    "server": "204.168.255.33",
+    "port": 8080,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=204.168.255.33&port=8080&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "hello.proxytg.space",
-    "port": 443,
-    "secret": "ee57b7509fe484325abedc85f18804843768656c6c6f2e70726f787974672e7370616365",
-    "url": "tg://proxy?server=hello.proxytg.space&port=443&secret=ee57b7509fe484325abedc85f18804843768656c6c6f2e70726f787974672e7370616365"
+    "server": "88.198.203.112",
+    "port": 8080,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=88.198.203.112&port=8080&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
