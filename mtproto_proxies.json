@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy.nexorabust.ru",
+    "server": "144.31.221.15",
     "port": 443,
-    "secret": "dd1cebd1dd4f8441f8af01177087ee9918",
-    "url": "tg://proxy?server=proxy.nexorabust.ru&port=443&secret=dd1cebd1dd4f8441f8af01177087ee9918"
+    "secret": "bfb063cc6d861de10f6a39c795fc66e4",
+    "url": "tg://proxy?server=144.31.221.15&port=443&secret=bfb063cc6d861de10f6a39c795fc66e4"
   },
   {
-    "server": "ark.proxytg.space",
+    "server": "arixo.shop",
     "port": 443,
-    "secret": "eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365",
-    "url": "tg://proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365"
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
   },
   {
-    "server": "186.246.16.55",
+    "server": "132.243.213.215",
     "port": 443,
-    "secret": "ee7d21ac88a75bdb5887ec4918a20386927777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=186.246.16.55&port=443&secret=ee7d21ac88a75bdb5887ec4918a20386927777772e6d6963726f736f66742e636f6d"
+    "secret": "ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275",
+    "url": "tg://proxy?server=132.243.213.215&port=443&secret=ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275"
   }
 ]
