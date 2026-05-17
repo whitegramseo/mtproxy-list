@@ -1,20 +1,20 @@
 [
   {
-    "server": "132.243.213.221",
-    "port": 443,
-    "secret": "eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275",
-    "url": "tg://proxy?server=132.243.213.221&port=443&secret=eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275"
+    "server": "alpina.agency",
+    "port": 8443,
+    "secret": "eea02597a68d4821f58d17e6405c389da16164732e78352e7275",
+    "url": "tg://proxy?server=alpina.agency&port=8443&secret=eea02597a68d4821f58d17e6405c389da16164732e78352e7275"
   },
   {
-    "server": "132.243.213.245",
+    "server": "tg1.tgproxy1.fun",
     "port": 443,
-    "secret": "ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275",
-    "url": "tg://proxy?server=132.243.213.245&port=443&secret=ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275"
+    "secret": "ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e",
+    "url": "tg://proxy?server=tg1.tgproxy1.fun&port=443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e"
   },
   {
-    "server": "ark.proxytg.space",
+    "server": "atg.proxytg.space",
     "port": 443,
-    "secret": "eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365",
-    "url": "tg://proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365"
+    "secret": "eef9632da3b0ea3b51ab5840f93b2ddaff6174672e70726f787974672e7370616365",
+    "url": "tg://proxy?server=atg.proxytg.space&port=443&secret=eef9632da3b0ea3b51ab5840f93b2ddaff6174672e70726f787974672e7370616365"
   }
 ]
