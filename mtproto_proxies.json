@@ -1,20 +1,20 @@
 [
   {
-    "server": "ark.proxytg.space",
+    "server": "132.243.213.215",
     "port": 443,
-    "secret": "eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365",
-    "url": "tg://proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365"
+    "secret": "ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275",
+    "url": "tg://proxy?server=132.243.213.215&port=443&secret=ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275"
   },
   {
-    "server": "186.246.16.55",
+    "server": "132.243.213.216",
     "port": 443,
-    "secret": "ee7d21ac88a75bdb5887ec4918a20386927777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=186.246.16.55&port=443&secret=ee7d21ac88a75bdb5887ec4918a20386927777772e6d6963726f736f66742e636f6d"
+    "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
+    "url": "tg://proxy?server=132.243.213.216&port=443&secret=eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275"
   },
   {
-    "server": "tyan.arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-    "url": "tg://proxy?server=tyan.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
+    "server": "dealer4-fin.dealer.ac",
+    "port": 8443,
+    "secret": "ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d",
+    "url": "tg://proxy?server=dealer4-fin.dealer.ac&port=8443&secret=ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d"
   }
 ]
