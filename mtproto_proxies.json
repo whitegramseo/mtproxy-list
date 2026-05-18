@@ -1,20 +1,20 @@
 [
   {
-    "server": "79.137.196.223",
-    "port": 4443,
-    "secret": "eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d",
-    "url": "tg://proxy?server=79.137.196.223&port=4443&secret=eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d"
+    "server": "ark.proxytg.space",
+    "port": 443,
+    "secret": "eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365",
+    "url": "tg://proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365"
   },
   {
-    "server": "144.31.221.15",
-    "port": 443,
-    "secret": "1d704dc7fbf37924bc72f016a8f91b0d",
-    "url": "tg://proxy?server=144.31.221.15&port=443&secret=1d704dc7fbf37924bc72f016a8f91b0d"
+    "server": "peyk.acharbashi.info",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "rkn.proxytg.space",
-    "port": 443,
-    "secret": "eedab8c006cdc477f71b1825b3082b1017726b6e2e70726f787974672e7370616365",
-    "url": "tg://proxy?server=rkn.proxytg.space&port=443&secret=eedab8c006cdc477f71b1825b3082b1017726b6e2e70726f787974672e7370616365"
+    "server": "alo.acharbashi.info",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
   }
 ]
