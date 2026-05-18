@@ -1,20 +1,20 @@
 [
   {
-    "server": "178.105.137.152",
+    "server": "78.17.71.42",
     "port": 443,
-    "secret": "eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d",
-    "url": "tg://proxy?server=178.105.137.152&port=443&secret=eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d"
+    "secret": "eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275",
+    "url": "tg://proxy?server=78.17.71.42&port=443&secret=eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275"
   },
   {
-    "server": "89.167.40.214",
+    "server": "hl.routefastnet.online",
     "port": 443,
-    "secret": "eea21bf437ed6f38a5b03c6e66b036d301676f6f676c65617069732e636f6d",
-    "url": "tg://proxy?server=89.167.40.214&port=443&secret=eea21bf437ed6f38a5b03c6e66b036d301676f6f676c65617069732e636f6d"
+    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65",
+    "url": "tg://proxy?server=hl.routefastnet.online&port=443&secret=eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
   },
   {
-    "server": "mt.nowaboost.com",
-    "port": 853,
-    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
-    "url": "tg://proxy?server=mt.nowaboost.com&port=853&secret=4fd95a487c5c87ae82b6639a9b6b5ff2"
+    "server": "186.246.16.221",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "url": "tg://proxy?server=186.246.16.221&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
   }
 ]
