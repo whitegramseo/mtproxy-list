@@ -1,20 +1,20 @@
 [
   {
-    "server": "ak.yourline.online",
+    "server": "rn.quantadc.online",
     "port": 443,
-    "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
-    "url": "tg://proxy?server=ak.yourline.online&port=443&secret=eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65"
+    "secret": "ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65",
+    "url": "tg://proxy?server=rn.quantadc.online&port=443&secret=ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65"
   },
   {
-    "server": "mt.corph.ru",
+    "server": "rkn.prxtoday.space",
     "port": 443,
-    "secret": "dd2ed7517b077ef414e24b106e0729335d",
-    "url": "tg://proxy?server=mt.corph.ru&port=443&secret=dd2ed7517b077ef414e24b106e0729335d"
+    "secret": "eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365",
+    "url": "tg://proxy?server=rkn.prxtoday.space&port=443&secret=eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365"
   },
   {
-    "server": "hl.routefastnet.online",
+    "server": "proxy.chunkycorp.shop",
     "port": 443,
-    "secret": "eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65",
-    "url": "tg://proxy?server=hl.routefastnet.online&port=443&secret=eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "url": "tg://proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275"
   }
 ]
