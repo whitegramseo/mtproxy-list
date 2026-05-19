@@ -1,20 +1,20 @@
 [
   {
-    "server": "212.192.23.209",
+    "server": "sex.etherealvpn.uk",
     "port": 443,
-    "secret": "ee0fdb7b375ea7edf4d054be58763fcccc7777772e636c6f7564666c6172652e636f6d",
-    "url": "tg://proxy?server=212.192.23.209&port=443&secret=ee0fdb7b375ea7edf4d054be58763fcccc7777772e636c6f7564666c6172652e636f6d"
+    "secret": "ee0701bd90bfa663c01c08d1e293209e287777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=sex.etherealvpn.uk&port=443&secret=ee0701bd90bfa663c01c08d1e293209e287777772e6d6963726f736f66742e636f6d"
   },
   {
-    "server": "alpina.hatecens.cc",
-    "port": 8443,
-    "secret": "ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363",
-    "url": "tg://proxy?server=alpina.hatecens.cc&port=8443&secret=ee3402ba73468309ea53338f1eb8ecea0c616c70696e612e6861746563656e732e6363"
+    "server": "72.56.40.220",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c98617669746f2e7275",
+    "url": "tg://proxy?server=72.56.40.220&port=443&secret=eec11798ab008831b474066c9e1ebf5c98617669746f2e7275"
   },
   {
-    "server": "proxy.chunkycorp.shop",
+    "server": "win.sosproxy.space",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "url": "tg://proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275"
+    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d"
   }
 ]
