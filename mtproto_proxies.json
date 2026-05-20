@@ -1,20 +1,20 @@
 [
   {
-    "server": "mt.nowaboost.com",
-    "port": 853,
-    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
-    "url": "tg://proxy?server=mt.nowaboost.com&port=853&secret=4fd95a487c5c87ae82b6639a9b6b5ff2"
+    "server": "s3.neo-trading.org",
+    "port": 443,
+    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de79612e7275",
+    "url": "tg://proxy?server=s3.neo-trading.org&port=443&secret=eec3fefd89a25d37ca3af1a602c7bfd8de79612e7275"
   },
   {
-    "server": "hop1.proxytg.space",
+    "server": "hop3.proxytg.space",
     "port": 443,
-    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
-    "url": "tg://proxy?server=hop1.proxytg.space&port=443&secret=ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275"
+    "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
+    "url": "tg://proxy?server=hop3.proxytg.space&port=443&secret=ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275"
   },
   {
-    "server": "hl.routefastnet.online",
+    "server": "45.39.33.160",
     "port": 443,
-    "secret": "7qml9WdAadmCCIta0n3KRYRobC5yb3V0ZWZhc3RuZXQub25saW5l",
-    "url": "tg://proxy?server=hl.routefastnet.online&port=443&secret=7qml9WdAadmCCIta0n3KRYRobC5yb3V0ZWZhc3RuZXQub25saW5l"
+    "secret": "ee39f8e9a2673ca05251ec002f7e7eff6e7777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=45.39.33.160&port=443&secret=ee39f8e9a2673ca05251ec002f7e7eff6e7777772e6d6963726f736f66742e636f6d"
   }
 ]
