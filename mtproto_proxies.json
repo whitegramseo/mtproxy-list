@@ -1,20 +1,20 @@
 [
   {
-    "server": "win.sosproxy.space",
+    "server": "fastproxy.chunkycorp.shop",
     "port": 443,
-    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "url": "tg://proxy?server=fastproxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275"
   },
   {
-    "server": "ak.yourline.online",
+    "server": "5.181.0.202",
     "port": 443,
-    "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
-    "url": "tg://proxy?server=ak.yourline.online&port=443&secret=eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65"
+    "secret": "eec11798ab008831b474066c9e1ebf5c96617669746f2e7275",
+    "url": "tg://proxy?server=5.181.0.202&port=443&secret=eec11798ab008831b474066c9e1ebf5c96617669746f2e7275"
   },
   {
-    "server": "amorecoin.duckdns.org",
+    "server": "103.110.64.210",
     "port": 443,
-    "secret": "7mYW_5fPLJzJxcvUupkA3pN3d3cuZ29vZ2xlLmNvbQ",
-    "url": "tg://proxy?server=amorecoin.duckdns.org&port=443&secret=7mYW_5fPLJzJxcvUupkA3pN3d3cuZ29vZ2xlLmNvbQ"
+    "secret": "eeaf249464f27f61e3c8f0e0dce07f413379616e6465782e7275",
+    "url": "tg://proxy?server=103.110.64.210&port=443&secret=eeaf249464f27f61e3c8f0e0dce07f413379616e6465782e7275"
   }
 ]
