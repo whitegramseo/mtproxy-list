@@ -1,20 +1,20 @@
 [
   {
-    "server": "mtp.webvirt.cloud",
+    "server": "103.110.64.212",
     "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "url": "tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
+    "secret": "eeb4559cb6722f727d849090621e7aba8f79616e6465782e7275",
+    "url": "tg://proxy?server=103.110.64.212&port=443&secret=eeb4559cb6722f727d849090621e7aba8f79616e6465782e7275"
   },
   {
-    "server": "193.23.199.16",
-    "port": 8443,
-    "secret": "eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=193.23.199.16&port=8443&secret=eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d"
+    "server": "103.110.64.213",
+    "port": 443,
+    "secret": "eecb034302623216896e2887011d848d6479616e6465782e7275",
+    "url": "tg://proxy?server=103.110.64.213&port=443&secret=eecb034302623216896e2887011d848d6479616e6465782e7275"
   },
   {
-    "server": "130.49.218.57",
+    "server": "186.246.18.175",
     "port": 443,
-    "secret": "ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=130.49.218.57&port=443&secret=ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d"
+    "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
+    "url": "tg://proxy?server=186.246.18.175&port=443&secret=eec11798ab008831b474066c9e1ebf5c97617669746f2e7275"
   }
 ]
