@@ -1,20 +1,20 @@
 [
   {
-    "server": "hop2.proxytg.space",
+    "server": "5.252.20.116",
     "port": 443,
-    "secret": "eec5428740a808240ccf21f21547fc843f6d61782e7275",
-    "url": "tg://proxy?server=hop2.proxytg.space&port=443&secret=eec5428740a808240ccf21f21547fc843f6d61782e7275"
+    "secret": "eec11798ab008831b474066c9e1ebf5c93617669746f2e7275",
+    "url": "tg://proxy?server=5.252.20.116&port=443&secret=eec11798ab008831b474066c9e1ebf5c93617669746f2e7275"
   },
   {
-    "server": "2.26.86.207",
-    "port": 8443,
-    "secret": "7d805a0e2fcc89a731277cd098634fcc",
-    "url": "tg://proxy?server=2.26.86.207&port=8443&secret=7d805a0e2fcc89a731277cd098634fcc"
+    "server": "185.139.215.136",
+    "port": 443,
+    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=185.139.215.136&port=443&secret=eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d"
   },
   {
-    "server": "2.27.20.169",
-    "port": 8443,
-    "secret": "9f60a844dffc0498423716281fad33a5",
-    "url": "tg://proxy?server=2.27.20.169&port=8443&secret=9f60a844dffc0498423716281fad33a5"
+    "server": "fastproxy.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "url": "tg://proxy?server=fastproxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275"
   }
 ]
