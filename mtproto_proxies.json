@@ -1,20 +1,20 @@
 [
   {
-    "server": "fastproxy.chunkycorp.shop",
+    "server": "win.sosproxy.space",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "url": "tg://proxy?server=fastproxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275"
+    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "87.120.244.129",
+    "server": "185.139.215.136",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c95617669746f2e7275",
-    "url": "tg://proxy?server=87.120.244.129&port=443&secret=eec11798ab008831b474066c9e1ebf5c95617669746f2e7275"
+    "secret": "eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=185.139.215.136&port=443&secret=eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d"
   },
   {
-    "server": "s3.neo-trading.org",
+    "server": "hop1.proxytg.space",
     "port": 443,
-    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de79612e7275",
-    "url": "tg://proxy?server=s3.neo-trading.org&port=443&secret=eec3fefd89a25d37ca3af1a602c7bfd8de79612e7275"
+    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
+    "url": "tg://proxy?server=hop1.proxytg.space&port=443&secret=ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275"
   }
 ]
