@@ -1,20 +1,20 @@
 [
   {
-    "server": "mt.nowabst.com",
-    "port": 853,
-    "secret": "7t16ej1vTPH3w_rpz_KLc3lhZHMueDUucnU",
-    "url": "tg://proxy?server=mt.nowabst.com&port=853&secret=7t16ej1vTPH3w_rpz_KLc3lhZHMueDUucnU"
+    "server": "hop1.proxytg.space",
+    "port": 443,
+    "secret": "ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275",
+    "url": "tg://proxy?server=hop1.proxytg.space&port=443&secret=ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275"
   },
   {
-    "server": "hop3.proxytg.space",
-    "port": 443,
-    "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
-    "url": "tg://proxy?server=hop3.proxytg.space&port=443&secret=ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275"
+    "server": "alpinavpn.hatecens.cc",
+    "port": 7443,
+    "secret": "eef8dc254a4c2af8afcab54c8a5f9bb4fb616c70696e6176706e2e6861746563656e732e6363",
+    "url": "tg://proxy?server=alpinavpn.hatecens.cc&port=7443&secret=eef8dc254a4c2af8afcab54c8a5f9bb4fb616c70696e6176706e2e6861746563656e732e6363"
   },
   {
-    "server": "hop2.proxytg.space",
+    "server": "82.114.228.74",
     "port": 443,
-    "secret": "eec5428740a808240ccf21f21547fc843f6d61782e7275",
-    "url": "tg://proxy?server=hop2.proxytg.space&port=443&secret=eec5428740a808240ccf21f21547fc843f6d61782e7275"
+    "secret": "ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275",
+    "url": "tg://proxy?server=82.114.228.74&port=443&secret=ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275"
   }
 ]
