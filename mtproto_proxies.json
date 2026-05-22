@@ -1,20 +1,20 @@
 [
   {
-    "server": "mt.nowabst.com",
-    "port": 853,
-    "secret": "7t16ej1vTPH3w_rpz_KLc3lhZHMueDUucnU",
-    "url": "tg://proxy?server=mt.nowabst.com&port=853&secret=7t16ej1vTPH3w_rpz_KLc3lhZHMueDUucnU"
+    "server": "94.241.175.144",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c89617669746f2e7275",
+    "url": "tg://proxy?server=94.241.175.144&port=443&secret=eec11798ab008831b474066c9e1ebf5c89617669746f2e7275"
   },
   {
-    "server": "hop3.proxytg.space",
+    "server": "31.56.178.15",
     "port": 443,
-    "secret": "ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275",
-    "url": "tg://proxy?server=hop3.proxytg.space&port=443&secret=ee8e8e148190ecbc4cda5090ec52e9613e6d61782e7275"
+    "secret": "eed33ad49000653396b81c94d98eba0ee57777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=31.56.178.15&port=443&secret=eed33ad49000653396b81c94d98eba0ee57777772e6d6963726f736f66742e636f6d"
   },
   {
-    "server": "hop2.proxytg.space",
+    "server": "tg.chunkycorp.shop",
     "port": 443,
-    "secret": "eec5428740a808240ccf21f21547fc843f6d61782e7275",
-    "url": "tg://proxy?server=hop2.proxytg.space&port=443&secret=eec5428740a808240ccf21f21547fc843f6d61782e7275"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
+    "url": "tg://proxy?server=tg.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275"
   }
 ]
