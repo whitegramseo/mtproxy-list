@@ -1,20 +1,20 @@
 [
   {
-    "server": "2.26.99.245",
-    "port": 8443,
-    "secret": "ee17263409876123456712342349876554322e32362e39392e323435",
-    "url": "tg://proxy?server=2.26.99.245&port=8443&secret=ee17263409876123456712342349876554322e32362e39392e323435"
-  },
-  {
-    "server": "176.125.240.195",
+    "server": "dream.nolags.pw",
     "port": 443,
-    "secret": "eeae49fc0cb49514612b72494665fffa167777772e79616e6465782e7275",
-    "url": "tg://proxy?server=176.125.240.195&port=443&secret=eeae49fc0cb49514612b72494665fffa167777772e79616e6465782e7275"
+    "secret": "dd9b8378a9bc2bfc1eb0bed0c2b3ba7584",
+    "url": "tg://proxy?server=dream.nolags.pw&port=443&secret=dd9b8378a9bc2bfc1eb0bed0c2b3ba7584"
   },
   {
-    "server": "tproxy.mom",
+    "server": "www.tproxy.mom",
     "port": 8090,
     "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "url": "tg://proxy?server=www.tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+  },
+  {
+    "server": "89.35.131.217",
+    "port": 443,
+    "secret": "ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275",
+    "url": "tg://proxy?server=89.35.131.217&port=443&secret=ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275"
   }
 ]
