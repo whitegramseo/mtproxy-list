@@ -1,20 +1,20 @@
 [
   {
-    "server": "94.125.102.217",
-    "port": 443,
-    "secret": "ee244217408227effcd6234e992d9bd9827777772e77702e706c",
-    "url": "tg://proxy?server=94.125.102.217&port=443&secret=ee244217408227effcd6234e992d9bd9827777772e77702e706c"
+    "server": "plg-proxy.duckdns.org",
+    "port": 9443,
+    "secret": "7nI_RL0Z_1CkMYeMay0LRqBwbGctcHJveHkuZHVja2Rucy5vcmc",
+    "url": "tg://proxy?server=plg-proxy.duckdns.org&port=9443&secret=7nI_RL0Z_1CkMYeMay0LRqBwbGctcHJveHkuZHVja2Rucy5vcmc"
   },
   {
-    "server": "2.26.255.73",
+    "server": "premium1.fsproxy.site",
     "port": 443,
-    "secret": "eeab03f51ca82ec9e172a5eba3b169f6cd7777772e77702e706c",
-    "url": "tg://proxy?server=2.26.255.73&port=443&secret=eeab03f51ca82ec9e172a5eba3b169f6cd7777772e77702e706c"
+    "secret": "eed29605852bf2e034c63c6f866062600f696e2e6d7974686963616c2e686f757365",
+    "url": "tg://proxy?server=premium1.fsproxy.site&port=443&secret=eed29605852bf2e034c63c6f866062600f696e2e6d7974686963616c2e686f757365"
   },
   {
-    "server": "hop2.proxytg.space",
-    "port": 8443,
-    "secret": "eeaaa47352535a38478c5c9954a708f4ff6e686c2e636f6d",
-    "url": "tg://proxy?server=hop2.proxytg.space&port=8443&secret=eeaaa47352535a38478c5c9954a708f4ff6e686c2e636f6d"
+    "server": "proxy1.fsproxy.site",
+    "port": 443,
+    "secret": "ee13f2a6bfe1db76b08a45c16eee55a543617669746f2e7275",
+    "url": "tg://proxy?server=proxy1.fsproxy.site&port=443&secret=ee13f2a6bfe1db76b08a45c16eee55a543617669746f2e7275"
   }
 ]
