@@ -1,20 +1,20 @@
 [
   {
-    "server": "s.proxytg.space",
-    "port": 8443,
-    "secret": "eefefc4f17248e59437bb451447a9170b2732e70726f787974672e7370616365",
-    "url": "tg://proxy?server=s.proxytg.space&port=8443&secret=eefefc4f17248e59437bb451447a9170b2732e70726f787974672e7370616365"
-  },
-  {
-    "server": "m.proxytg.space",
-    "port": 8443,
-    "secret": "ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365",
-    "url": "tg://proxy?server=m.proxytg.space&port=8443&secret=ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365"
+    "server": "another.life.mambabot.net",
+    "port": 4515,
+    "secret": "eec485b564c0178c338d8bf4f3f17539c4613234382e652e616b616d61692e6e6574",
+    "url": "tg://proxy?server=another.life.mambabot.net&port=4515&secret=eec485b564c0178c338d8bf4f3f17539c4613234382e652e616b616d61692e6e6574"
   },
   {
     "server": "195.133.20.10",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c82617669746f2e7275",
-    "url": "tg://proxy?server=195.133.20.10&port=443&secret=eec11798ab008831b474066c9e1ebf5c82617669746f2e7275"
+    "secret": "7sEXmKsAiDG0dAZsnh6_XIJhdml0by5ydQ",
+    "url": "tg://proxy?server=195.133.20.10&port=443&secret=7sEXmKsAiDG0dAZsnh6_XIJhdml0by5ydQ"
+  },
+  {
+    "server": "186.246.16.232",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c81617669746f2e7275",
+    "url": "tg://proxy?server=186.246.16.232&port=443&secret=eec11798ab008831b474066c9e1ebf5c81617669746f2e7275"
   }
 ]
