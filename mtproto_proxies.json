@@ -1,20 +1,20 @@
 [
   {
-    "server": "tproxy.ink",
-    "port": 443,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "server": "m.proxytg.space",
+    "port": 8443,
+    "secret": "ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365",
+    "url": "tg://proxy?server=m.proxytg.space&port=8443&secret=ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365"
   },
   {
-    "server": "www.tproxy.ink",
-    "port": 443,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=www.tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "server": "g.proxytg.space",
+    "port": 8443,
+    "secret": "eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365",
+    "url": "tg://proxy?server=g.proxytg.space&port=8443&secret=eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365"
   },
   {
-    "server": "public4.mtproxygram.lol",
+    "server": "amoreszi.duckdns.org",
     "port": 443,
-    "secret": "ee09839bacb75811a19dec37d274273f8f62726f777365722e79616e6465782e636f6d",
-    "url": "tg://proxy?server=public4.mtproxygram.lol&port=443&secret=ee09839bacb75811a19dec37d274273f8f62726f777365722e79616e6465782e636f6d"
+    "secret": "7uZ0yg4fr7vIQ5i_MUfeWQB3d3cuYXBwbGUuY29t",
+    "url": "tg://proxy?server=amoreszi.duckdns.org&port=443&secret=7uZ0yg4fr7vIQ5i_MUfeWQB3d3cuYXBwbGUuY29t"
   }
 ]
