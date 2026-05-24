@@ -1,20 +1,20 @@
 [
   {
-    "server": "m.proxytg.space",
-    "port": 8443,
-    "secret": "ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365",
-    "url": "tg://proxy?server=m.proxytg.space&port=8443&secret=ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365"
-  },
-  {
-    "server": "g.proxytg.space",
-    "port": 8443,
-    "secret": "eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365",
-    "url": "tg://proxy?server=g.proxytg.space&port=8443&secret=eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365"
-  },
-  {
-    "server": "amoreszi.duckdns.org",
+    "server": "dreams.nolags.pw",
     "port": 443,
-    "secret": "7uZ0yg4fr7vIQ5i_MUfeWQB3d3cuYXBwbGUuY29t",
-    "url": "tg://proxy?server=amoreszi.duckdns.org&port=443&secret=7uZ0yg4fr7vIQ5i_MUfeWQB3d3cuYXBwbGUuY29t"
+    "secret": "dd2d558135931b5e0c5da5e7501724b32c",
+    "url": "tg://proxy?server=dreams.nolags.pw&port=443&secret=dd2d558135931b5e0c5da5e7501724b32c"
+  },
+  {
+    "server": "s3.neo-trading.org",
+    "port": 443,
+    "secret": "eec3fefd89a25d37ca3af1a602c7bfd8de79612e7275",
+    "url": "tg://proxy?server=s3.neo-trading.org&port=443&secret=eec3fefd89a25d37ca3af1a602c7bfd8de79612e7275"
+  },
+  {
+    "server": "s4.neo-trading.org",
+    "port": 443,
+    "secret": "ee181e2ad5e63c27262781187f2dedc4bb79612e7275",
+    "url": "tg://proxy?server=s4.neo-trading.org&port=443&secret=ee181e2ad5e63c27262781187f2dedc4bb79612e7275"
   }
 ]
