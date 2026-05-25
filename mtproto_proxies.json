@@ -1,20 +1,20 @@
 [
   {
-    "server": "dns.vdl.lat",
-    "port": 853,
-    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
-    "url": "tg://proxy?server=dns.vdl.lat&port=853&secret=ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275"
+    "server": "146.103.96.129",
+    "port": 443,
+    "secret": "ee627bdd42b085906e41105ddd7dab8cca706574726f766963682e7275",
+    "url": "tg://proxy?server=146.103.96.129&port=443&secret=ee627bdd42b085906e41105ddd7dab8cca706574726f766963682e7275"
   },
   {
-    "server": "r1.proxytg.space",
-    "port": 8443,
-    "secret": "eecd671d2032569f6cea0fb4c61c32756972312e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r1.proxytg.space&port=8443&secret=eecd671d2032569f6cea0fb4c61c32756972312e70726f787974672e7370616365"
+    "server": "dr1.dedus.pro",
+    "port": 443,
+    "secret": "eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275",
+    "url": "tg://proxy?server=dr1.dedus.pro&port=443&secret=eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275"
   },
   {
-    "server": "g.proxytg.space",
-    "port": 8443,
-    "secret": "eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365",
-    "url": "tg://proxy?server=g.proxytg.space&port=8443&secret=eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365"
+    "server": "dr4.dedus.pro",
+    "port": 443,
+    "secret": "eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275",
+    "url": "tg://proxy?server=dr4.dedus.pro&port=443&secret=eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275"
   }
 ]
