@@ -1,20 +1,20 @@
 [
   {
-    "server": "72.56.41.35",
-    "port": 443,
-    "secret": "7sEXmKsAiDG0dAZsnh6_XINhdml0by5ydQ",
-    "url": "tg://proxy?server=72.56.41.35&port=443&secret=7sEXmKsAiDG0dAZsnh6_XINhdml0by5ydQ"
+    "server": "s15.proxyru.top",
+    "port": 993,
+    "secret": "eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d",
+    "url": "tg://proxy?server=s15.proxyru.top&port=993&secret=eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d"
   },
   {
-    "server": "185.147.127.50",
+    "server": "s24.neo-trading.org",
     "port": 443,
-    "secret": "7sEXmKsAiDG0dAZsnh6_XHlhdml0by5ydQ",
-    "url": "tg://proxy?server=185.147.127.50&port=443&secret=7sEXmKsAiDG0dAZsnh6_XHlhdml0by5ydQ"
+    "secret": "ee17b59d905a546c7bf7355cf95c4ecfed79612e7275",
+    "url": "tg://proxy?server=s24.neo-trading.org&port=443&secret=ee17b59d905a546c7bf7355cf95c4ecfed79612e7275"
   },
   {
-    "server": "178.105.150.126",
+    "server": "offni-vpn.nolags.pw",
     "port": 443,
-    "secret": "eec96b6d60154b353e16b514651c87f15b676f6f676c65617069732e636f6d",
-    "url": "tg://proxy?server=178.105.150.126&port=443&secret=eec96b6d60154b353e16b514651c87f15b676f6f676c65617069732e636f6d"
+    "secret": "dda69632d86d88061ea6e94523027b0470",
+    "url": "tg://proxy?server=offni-vpn.nolags.pw&port=443&secret=dda69632d86d88061ea6e94523027b0470"
   }
 ]
