@@ -1,20 +1,20 @@
 [
   {
-    "server": "186.246.21.34",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c75617669746f2e7275",
-    "url": "tg://proxy?server=186.246.21.34&port=443&secret=eec11798ab008831b474066c9e1ebf5c75617669746f2e7275"
+    "server": "dns.vdl.lat",
+    "port": 853,
+    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
+    "url": "tg://proxy?server=dns.vdl.lat&port=853&secret=ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275"
   },
   {
-    "server": "185.147.127.50",
-    "port": 443,
-    "secret": "7sEXmKsAiDG0dAZsnh6_XHlhdml0by5ydQ",
-    "url": "tg://proxy?server=185.147.127.50&port=443&secret=7sEXmKsAiDG0dAZsnh6_XHlhdml0by5ydQ"
+    "server": "r1.proxytg.space",
+    "port": 8443,
+    "secret": "eecd671d2032569f6cea0fb4c61c32756972312e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r1.proxytg.space&port=8443&secret=eecd671d2032569f6cea0fb4c61c32756972312e70726f787974672e7370616365"
   },
   {
-    "server": "72.56.87.28",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c76617669746f2e7275",
-    "url": "tg://proxy?server=72.56.87.28&port=443&secret=eec11798ab008831b474066c9e1ebf5c76617669746f2e7275"
+    "server": "g.proxytg.space",
+    "port": 8443,
+    "secret": "eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365",
+    "url": "tg://proxy?server=g.proxytg.space&port=8443&secret=eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365"
   }
 ]
