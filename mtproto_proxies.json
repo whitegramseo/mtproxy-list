@@ -1,20 +1,20 @@
 [
   {
-    "server": "dreams.nolags.pw",
+    "server": "72.56.41.35",
     "port": 443,
-    "secret": "dd2d558135931b5e0c5da5e7501724b32c",
-    "url": "tg://proxy?server=dreams.nolags.pw&port=443&secret=dd2d558135931b5e0c5da5e7501724b32c"
+    "secret": "7sEXmKsAiDG0dAZsnh6_XINhdml0by5ydQ",
+    "url": "tg://proxy?server=72.56.41.35&port=443&secret=7sEXmKsAiDG0dAZsnh6_XINhdml0by5ydQ"
   },
   {
-    "server": "server-1.shustrik.world",
+    "server": "185.147.127.50",
     "port": 443,
-    "secret": "ee53fed7a45b8fcb2ef5a2e0223c76bb4e766b766964656f2e7275",
-    "url": "tg://proxy?server=server-1.shustrik.world&port=443&secret=ee53fed7a45b8fcb2ef5a2e0223c76bb4e766b766964656f2e7275"
+    "secret": "7sEXmKsAiDG0dAZsnh6_XHlhdml0by5ydQ",
+    "url": "tg://proxy?server=185.147.127.50&port=443&secret=7sEXmKsAiDG0dAZsnh6_XHlhdml0by5ydQ"
   },
   {
-    "server": "tproxy.monster",
-    "port": 2053,
-    "secret": "ee104462821249bd7ac519130220c25d096d61696c2e7275",
-    "url": "tg://proxy?server=tproxy.monster&port=2053&secret=ee104462821249bd7ac519130220c25d096d61696c2e7275"
+    "server": "178.105.150.126",
+    "port": 443,
+    "secret": "eec96b6d60154b353e16b514651c87f15b676f6f676c65617069732e636f6d",
+    "url": "tg://proxy?server=178.105.150.126&port=443&secret=eec96b6d60154b353e16b514651c87f15b676f6f676c65617069732e636f6d"
   }
 ]
