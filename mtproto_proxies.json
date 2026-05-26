@@ -1,20 +1,20 @@
 [
   {
-    "server": "nd1.mowork.twc1.net",
+    "server": "186.246.21.40",
     "port": 443,
-    "secret": "ee79faca7ec8bd1b9125007dee535716f47777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=nd1.mowork.twc1.net&port=443&secret=ee79faca7ec8bd1b9125007dee535716f47777772e6d6963726f736f66742e636f6d"
+    "secret": "eec11798ab008831b474066c9e1ebf5c74617669746f2e7275",
+    "url": "tg://proxy?server=186.246.21.40&port=443&secret=eec11798ab008831b474066c9e1ebf5c74617669746f2e7275"
   },
   {
-    "server": "gm1.mowork.twc1.net",
+    "server": "186.246.21.31",
     "port": 443,
-    "secret": "ee787ec52793641dad735f01313b33f82b7462616e6b2e7275",
-    "url": "tg://proxy?server=gm1.mowork.twc1.net&port=443&secret=ee787ec52793641dad735f01313b33f82b7462616e6b2e7275"
+    "secret": "eeb4977787e9a3f4c9d51ec528688f922e617669746f2e7275",
+    "url": "tg://proxy?server=186.246.21.31&port=443&secret=eeb4977787e9a3f4c9d51ec528688f922e617669746f2e7275"
   },
   {
-    "server": "45.12.109.223",
+    "server": "vk.chunkycorp.shop",
     "port": 443,
-    "secret": "ee43db025a33093757dadf5ab0aa9966b1676f6f676c65617069732e636f6d",
-    "url": "tg://proxy?server=45.12.109.223&port=443&secret=ee43db025a33093757dadf5ab0aa9966b1676f6f676c65617069732e636f6d"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=vk.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   }
 ]
