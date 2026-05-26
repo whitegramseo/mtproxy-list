@@ -1,20 +1,20 @@
 [
   {
-    "server": "mt.nowaboost.com",
+    "server": "otklyuchi-vpn.nolags.pw",
     "port": 443,
-    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
-    "url": "tg://proxy?server=mt.nowaboost.com&port=443&secret=4fd95a487c5c87ae82b6639a9b6b5ff2"
+    "secret": "dd5a4411851bef1cf92cc9fe3ed99c72e1",
+    "url": "tg://proxy?server=otklyuchi-vpn.nolags.pw&port=443&secret=dd5a4411851bef1cf92cc9fe3ed99c72e1"
   },
   {
-    "server": "mtp.hypershark.net",
-    "port": 443,
-    "secret": "7kLt7CJi_3Dpz2b1JKDDuro1cG9zdC1nYXRlLXRlc3QueDUucnU",
-    "url": "tg://proxy?server=mtp.hypershark.net&port=443&secret=7kLt7CJi_3Dpz2b1JKDDuro1cG9zdC1nYXRlLXRlc3QueDUucnU"
-  },
-  {
-    "server": "65.109.210.202",
-    "port": 8443,
+    "server": "2.26.146.71",
+    "port": 8080,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "url": "tg://proxy?server=65.109.210.202&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    "url": "tg://proxy?server=2.26.146.71&port=8080&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+    "server": "194.154.25.238",
+    "port": 443,
+    "secret": "886ace76f7a9a1e3219537fe5dfd04d5",
+    "url": "tg://proxy?server=194.154.25.238&port=443&secret=886ace76f7a9a1e3219537fe5dfd04d5"
   }
 ]
