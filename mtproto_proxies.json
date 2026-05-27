@@ -1,20 +1,20 @@
 [
   {
-    "server": "5.78.228.124",
-    "port": 42341,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "url": "tg://proxy?server=5.78.228.124&port=42341&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    "server": "mtp.webvirt.cloud",
+    "port": 443,
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "url": "tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
   },
   {
-    "server": "186.246.21.188",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c70617669746f2e7275",
-    "url": "tg://proxy?server=186.246.21.188&port=443&secret=eec11798ab008831b474066c9e1ebf5c70617669746f2e7275"
+    "server": "853a.mtproxygram.pro",
+    "port": 853,
+    "secret": "ee38f6acb959381bc6816ce7ccc2a213c162726f777365722e79616e6465782e636f6d",
+    "url": "tg://proxy?server=853a.mtproxygram.pro&port=853&secret=ee38f6acb959381bc6816ce7ccc2a213c162726f777365722e79616e6465782e636f6d"
   },
   {
-    "server": "gov.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "url": "tg://proxy?server=gov.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
+    "server": "853b.mtproxygram.pro",
+    "port": 853,
+    "secret": "ee8ab91704501397ec6e30525ac2e33d1862726f777365722e79616e6465782e636f6d",
+    "url": "tg://proxy?server=853b.mtproxygram.pro&port=853&secret=ee8ab91704501397ec6e30525ac2e33d1862726f777365722e79616e6465782e636f6d"
   }
 ]
