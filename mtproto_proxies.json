@@ -1,20 +1,20 @@
 [
   {
-    "server": "otklyuchi-vpn.nolags.pw",
+    "server": "5.78.228.124",
+    "port": 42341,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "url": "tg://proxy?server=5.78.228.124&port=42341&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+    "server": "186.246.21.188",
     "port": 443,
-    "secret": "dd5a4411851bef1cf92cc9fe3ed99c72e1",
-    "url": "tg://proxy?server=otklyuchi-vpn.nolags.pw&port=443&secret=dd5a4411851bef1cf92cc9fe3ed99c72e1"
+    "secret": "eec11798ab008831b474066c9e1ebf5c70617669746f2e7275",
+    "url": "tg://proxy?server=186.246.21.188&port=443&secret=eec11798ab008831b474066c9e1ebf5c70617669746f2e7275"
   },
   {
-    "server": "r10.proxytg.space",
-    "port": 8443,
-    "secret": "ee65032756d1cfb78ebbd0ea8db83d43937231302e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r10.proxytg.space&port=8443&secret=ee65032756d1cfb78ebbd0ea8db83d43937231302e70726f787974672e7370616365"
-  },
-  {
-    "server": "r14.proxytg.space",
-    "port": 8443,
-    "secret": "ee20085b424592e30b46373c98b0b0a1737231342e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r14.proxytg.space&port=8443&secret=ee20085b424592e30b46373c98b0b0a1737231342e70726f787974672e7370616365"
+    "server": "gov.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=gov.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   }
 ]
