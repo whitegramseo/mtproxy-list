@@ -1,20 +1,20 @@
 [
   {
-    "server": "otklyuchi-vpn.nolags.pw",
-    "port": 443,
-    "secret": "dd5a4411851bef1cf92cc9fe3ed99c72e1",
-    "url": "tg://proxy?server=otklyuchi-vpn.nolags.pw&port=443&secret=dd5a4411851bef1cf92cc9fe3ed99c72e1"
+    "server": "tproxy.monster",
+    "port": 2053,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=tproxy.monster&port=2053&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-    "server": "2.26.146.71",
-    "port": 8080,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "url": "tg://proxy?server=2.26.146.71&port=8080&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    "server": "tproxy.mom",
+    "port": 8090,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-    "server": "194.154.25.238",
+    "server": "mt.nowaboost.com",
     "port": 443,
-    "secret": "886ace76f7a9a1e3219537fe5dfd04d5",
-    "url": "tg://proxy?server=194.154.25.238&port=443&secret=886ace76f7a9a1e3219537fe5dfd04d5"
+    "secret": "4fd95a487c5c87ae82b6639a9b6b5ff2",
+    "url": "tg://proxy?server=mt.nowaboost.com&port=443&secret=4fd95a487c5c87ae82b6639a9b6b5ff2"
   }
 ]
