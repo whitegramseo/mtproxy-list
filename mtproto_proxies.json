@@ -1,20 +1,20 @@
 [
   {
-    "server": "dns.vdl.lat",
-    "port": 853,
-    "secret": "ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275",
-    "url": "tg://proxy?server=dns.vdl.lat&port=853&secret=ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275"
+    "server": "r18.proxytg.space",
+    "port": 8443,
+    "secret": "eeeaf4cdef4ff30b4e3308e93f8a881ddd7231382e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r18.proxytg.space&port=8443&secret=eeeaf4cdef4ff30b4e3308e93f8a881ddd7231382e70726f787974672e7370616365"
   },
   {
-    "server": "mtp.webvirt.cloud",
+    "server": "otklyuchi-vpn.nolags.pw",
     "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "url": "tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
+    "secret": "dd5a4411851bef1cf92cc9fe3ed99c72e1",
+    "url": "tg://proxy?server=otklyuchi-vpn.nolags.pw&port=443&secret=dd5a4411851bef1cf92cc9fe3ed99c72e1"
   },
   {
-    "server": "853a.mtproxygram.pro",
-    "port": 853,
-    "secret": "ee38f6acb959381bc6816ce7ccc2a213c162726f777365722e79616e6465782e636f6d",
-    "url": "tg://proxy?server=853a.mtproxygram.pro&port=853&secret=ee38f6acb959381bc6816ce7ccc2a213c162726f777365722e79616e6465782e636f6d"
+    "server": "connect.tproxy.store",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "url": "tg://proxy?server=connect.tproxy.store&port=8443&secret=dd79e7010200010007f0030386e24c3add"
   }
 ]
