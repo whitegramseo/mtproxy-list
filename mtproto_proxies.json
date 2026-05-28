@@ -1,20 +1,20 @@
 [
   {
-    "server": "elevenproxy.pro",
-    "port": 444,
-    "secret": "aa1234567890abcdef1234567890abcd",
-    "url": "tg://proxy?server=elevenproxy.pro&port=444&secret=aa1234567890abcdef1234567890abcd"
+    "server": "77.73.135.70",
+    "port": 443,
+    "secret": "ee24fc31cd01228525d9052a343acbe717766b2e636f6d",
+    "url": "tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d"
   },
   {
-    "server": "otklyuchi-vpn.nolags.pw",
+    "server": "186.246.19.17",
     "port": 443,
-    "secret": "dd5a4411851bef1cf92cc9fe3ed99c72e1",
-    "url": "tg://proxy?server=otklyuchi-vpn.nolags.pw&port=443&secret=dd5a4411851bef1cf92cc9fe3ed99c72e1"
+    "secret": "eec11798ab008831b474066c9e1ebf5c67617669746f2e7275",
+    "url": "tg://proxy?server=186.246.19.17&port=443&secret=eec11798ab008831b474066c9e1ebf5c67617669746f2e7275"
   },
   {
-    "server": "hotmtpro.duckdns.org",
+    "server": "sosal.chunkycorp.shop",
     "port": 443,
-    "secret": "7u-wXMxodyqALbbZW3bovVF3d3cuYW1hem9uLmNvbQ",
-    "url": "tg://proxy?server=hotmtpro.duckdns.org&port=443&secret=7u-wXMxodyqALbbZW3bovVF3d3cuYW1hem9uLmNvbQ"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=sosal.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   }
 ]
