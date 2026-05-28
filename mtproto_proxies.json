@@ -1,20 +1,20 @@
 [
   {
-    "server": "77.73.135.70",
-    "port": 443,
-    "secret": "ee24fc31cd01228525d9052a343acbe717766b2e636f6d",
-    "url": "tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d"
+    "server": "r24.proxytg.space",
+    "port": 8443,
+    "secret": "eeade4e42a3bee4969fcb706467380da727232342e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r24.proxytg.space&port=8443&secret=eeade4e42a3bee4969fcb706467380da727232342e70726f787974672e7370616365"
   },
   {
-    "server": "186.246.19.17",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c67617669746f2e7275",
-    "url": "tg://proxy?server=186.246.19.17&port=443&secret=eec11798ab008831b474066c9e1ebf5c67617669746f2e7275"
+    "server": "r23.proxytg.space",
+    "port": 8443,
+    "secret": "eed8f9cb134573d3eff7e4e031965625177232332e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r23.proxytg.space&port=8443&secret=eed8f9cb134573d3eff7e4e031965625177232332e70726f787974672e7370616365"
   },
   {
-    "server": "sosal.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "url": "tg://proxy?server=sosal.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
+    "server": "r22.proxytg.space",
+    "port": 8443,
+    "secret": "eeace5ab7ab128f81a0b16ada143ec10807232322e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r22.proxytg.space&port=8443&secret=eeace5ab7ab128f81a0b16ada143ec10807232322e70726f787974672e7370616365"
   }
 ]
