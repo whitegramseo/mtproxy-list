@@ -1,20 +1,20 @@
 [
   {
-    "server": "r19.proxytg.space",
-    "port": 8443,
-    "secret": "eea5e937176fb9385a90ee837da1f589aa7231392e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r19.proxytg.space&port=8443&secret=eea5e937176fb9385a90ee837da1f589aa7231392e70726f787974672e7370616365"
+    "server": "elevenproxy.pro",
+    "port": 444,
+    "secret": "aa1234567890abcdef1234567890abcd",
+    "url": "tg://proxy?server=elevenproxy.pro&port=444&secret=aa1234567890abcdef1234567890abcd"
   },
   {
-    "server": "r18.proxytg.space",
-    "port": 8443,
-    "secret": "eeeaf4cdef4ff30b4e3308e93f8a881ddd7231382e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r18.proxytg.space&port=8443&secret=eeeaf4cdef4ff30b4e3308e93f8a881ddd7231382e70726f787974672e7370616365"
+    "server": "otklyuchi-vpn.nolags.pw",
+    "port": 443,
+    "secret": "dd5a4411851bef1cf92cc9fe3ed99c72e1",
+    "url": "tg://proxy?server=otklyuchi-vpn.nolags.pw&port=443&secret=dd5a4411851bef1cf92cc9fe3ed99c72e1"
   },
   {
-    "server": "thisis.tproxy.store",
-    "port": 8443,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "url": "tg://proxy?server=thisis.tproxy.store&port=8443&secret=dd79e7010200010007f0030386e24c3add"
+    "server": "hotmtpro.duckdns.org",
+    "port": 443,
+    "secret": "7u-wXMxodyqALbbZW3bovVF3d3cuYW1hem9uLmNvbQ",
+    "url": "tg://proxy?server=hotmtpro.duckdns.org&port=443&secret=7u-wXMxodyqALbbZW3bovVF3d3cuYW1hem9uLmNvbQ"
   }
 ]
