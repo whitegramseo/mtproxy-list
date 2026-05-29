@@ -1,20 +1,20 @@
 [
   {
-    "server": "186.246.21.111",
-    "port": 443,
-    "secret": "eec974a3a31e6a91e39d873e2f62701151617669746f2e7275",
-    "url": "tg://proxy?server=186.246.21.111&port=443&secret=eec974a3a31e6a91e39d873e2f62701151617669746f2e7275"
+    "server": "r23.proxytg.space",
+    "port": 8443,
+    "secret": "eed8f9cb134573d3eff7e4e031965625177232332e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r23.proxytg.space&port=8443&secret=eed8f9cb134573d3eff7e4e031965625177232332e70726f787974672e7370616365"
   },
   {
-    "server": "186.246.19.82",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c65617669746f2e7275",
-    "url": "tg://proxy?server=186.246.19.82&port=443&secret=eec11798ab008831b474066c9e1ebf5c65617669746f2e7275"
+    "server": "r22.proxytg.space",
+    "port": 8443,
+    "secret": "eeace5ab7ab128f81a0b16ada143ec10807232322e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r22.proxytg.space&port=8443&secret=eeace5ab7ab128f81a0b16ada143ec10807232322e70726f787974672e7370616365"
   },
   {
-    "server": "5.189.165.109",
+    "server": "perfect.nolags.pw",
     "port": 443,
-    "secret": "ee417d3d7571c540ec9fbc4fd1995058a1676f6f676c65617069732e636f6d",
-    "url": "tg://proxy?server=5.189.165.109&port=443&secret=ee417d3d7571c540ec9fbc4fd1995058a1676f6f676c65617069732e636f6d"
+    "secret": "dd4658543dd0973d78171da4552480fd23",
+    "url": "tg://proxy?server=perfect.nolags.pw&port=443&secret=dd4658543dd0973d78171da4552480fd23"
   }
 ]
