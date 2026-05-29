@@ -1,20 +1,20 @@
 [
   {
-    "server": "russia.nolags.pw",
+    "server": "186.246.21.111",
     "port": 443,
-    "secret": "dd04dbf1f1459ffbc5e646db206794163a",
-    "url": "tg://proxy?server=russia.nolags.pw&port=443&secret=dd04dbf1f1459ffbc5e646db206794163a"
+    "secret": "eec974a3a31e6a91e39d873e2f62701151617669746f2e7275",
+    "url": "tg://proxy?server=186.246.21.111&port=443&secret=eec974a3a31e6a91e39d873e2f62701151617669746f2e7275"
   },
   {
-    "server": "r22.proxytg.space",
-    "port": 8443,
-    "secret": "eeace5ab7ab128f81a0b16ada143ec10807232322e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r22.proxytg.space&port=8443&secret=eeace5ab7ab128f81a0b16ada143ec10807232322e70726f787974672e7370616365"
+    "server": "186.246.19.82",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c65617669746f2e7275",
+    "url": "tg://proxy?server=186.246.19.82&port=443&secret=eec11798ab008831b474066c9e1ebf5c65617669746f2e7275"
   },
   {
-    "server": "r21.proxytg.space",
-    "port": 8443,
-    "secret": "eec5963870566a7e0d9a04f5f792d9faf47232312e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r21.proxytg.space&port=8443&secret=eec5963870566a7e0d9a04f5f792d9faf47232312e70726f787974672e7370616365"
+    "server": "5.189.165.109",
+    "port": 443,
+    "secret": "ee417d3d7571c540ec9fbc4fd1995058a1676f6f676c65617069732e636f6d",
+    "url": "tg://proxy?server=5.189.165.109&port=443&secret=ee417d3d7571c540ec9fbc4fd1995058a1676f6f676c65617069732e636f6d"
   }
 ]
