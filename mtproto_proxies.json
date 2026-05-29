@@ -1,20 +1,20 @@
 [
   {
-    "server": "r26.proxytg.space",
-    "port": 8443,
-    "secret": "eec479c1a98aa5c149647459a1c098634c7232362e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r26.proxytg.space&port=8443&secret=eec479c1a98aa5c149647459a1c098634c7232362e70726f787974672e7370616365"
-  },
-  {
-    "server": "r25.proxytg.space",
-    "port": 8443,
-    "secret": "eecc4a140a0d61e4ead7c5fede495c6cd97232352e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r25.proxytg.space&port=8443&secret=eecc4a140a0d61e4ead7c5fede495c6cd97232352e70726f787974672e7370616365"
-  },
-  {
-    "server": "hotmtpro2.duckdns.org",
+    "server": "147.45.68.25",
     "port": 443,
-    "secret": "7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ",
-    "url": "tg://proxy?server=hotmtpro2.duckdns.org&port=443&secret=7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ"
+    "secret": "ee17352c284a418ed218cc6bbda02c0aac766b2e636f6d",
+    "url": "tg://proxy?server=147.45.68.25&port=443&secret=ee17352c284a418ed218cc6bbda02c0aac766b2e636f6d"
+  },
+  {
+    "server": "r24.proxytg.space",
+    "port": 8443,
+    "secret": "eeade4e42a3bee4969fcb706467380da727232342e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r24.proxytg.space&port=8443&secret=eeade4e42a3bee4969fcb706467380da727232342e70726f787974672e7370616365"
+  },
+  {
+    "server": "r23.proxytg.space",
+    "port": 8443,
+    "secret": "eed8f9cb134573d3eff7e4e031965625177232332e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r23.proxytg.space&port=8443&secret=eed8f9cb134573d3eff7e4e031965625177232332e70726f787974672e7370616365"
   }
 ]
