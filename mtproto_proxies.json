@@ -1,20 +1,20 @@
 [
   {
-    "server": "ad.canvas-proxy.com",
+    "server": "89.23.108.23",
     "port": 443,
-    "secret": "eeb7f10957fcefd87d5e8c336fc9851d8d61642e63616e7661732d70726f78792e636f6d",
-    "url": "tg://proxy?server=ad.canvas-proxy.com&port=443&secret=eeb7f10957fcefd87d5e8c336fc9851d8d61642e63616e7661732d70726f78792e636f6d"
+    "secret": "ee4b23e33a9d1122e920a81aef2172b5e87477697463682e7476",
+    "url": "tg://proxy?server=89.23.108.23&port=443&secret=ee4b23e33a9d1122e920a81aef2172b5e87477697463682e7476"
   },
   {
-    "server": "sexy.arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "url": "tg://proxy?server=sexy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275"
-  },
-  {
-    "server": "r27.proxytg.space",
+    "server": "5.78.133.252",
     "port": 8443,
-    "secret": "eefc330cd4811b83045e7621b94e0ecb147232372e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r27.proxytg.space&port=8443&secret=eefc330cd4811b83045e7621b94e0ecb147232372e70726f787974672e7370616365"
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "url": "tg://proxy?server=5.78.133.252&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+    "server": "evening.nolags.pw",
+    "port": 443,
+    "secret": "dd29b3afb209c4427676b4c43eecb7f556",
+    "url": "tg://proxy?server=evening.nolags.pw&port=443&secret=dd29b3afb209c4427676b4c43eecb7f556"
   }
 ]
