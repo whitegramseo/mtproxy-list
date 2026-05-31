@@ -1,20 +1,20 @@
 [
   {
-    "server": "topproxy.fml-subs.ru",
+    "server": "79.137.205.22",
     "port": 443,
-    "secret": "dde71c854efc71f477856bd59728888359",
-    "url": "tg://proxy?server=topproxy.fml-subs.ru&port=443&secret=dde71c854efc71f477856bd59728888359"
+    "secret": "ee47849470a70a19f5e6d0767b7440e90f766b2e636f6d",
+    "url": "tg://proxy?server=79.137.205.22&port=443&secret=ee47849470a70a19f5e6d0767b7440e90f766b2e636f6d"
   },
   {
-    "server": "live.tproxy.info",
-    "port": 15,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=live.tproxy.info&port=15&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "jadidporsorat.co.uk",
+    "port": 85,
+    "secret": "FgMBAgABAAH8AxOG4kw63Q",
+    "url": "tg://proxy?server=jadidporsorat.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q"
   },
   {
-    "server": "79.137.196.223",
-    "port": 7443,
-    "secret": "eeeeb30662ee79541fb143515ad872d2e9dd7777772e636c6f7564666c6172652e636f6d",
-    "url": "tg://proxy?server=79.137.196.223&port=7443&secret=eeeeb30662ee79541fb143515ad872d2e9dd7777772e636c6f7564666c6172652e636f6d"
+    "server": "sexy.arixo.shop",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
+    "url": "tg://proxy?server=sexy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275"
   }
 ]
