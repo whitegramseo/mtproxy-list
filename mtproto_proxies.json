@@ -1,20 +1,20 @@
 [
   {
-    "server": "79.137.205.22",
+    "server": "vktop.chunkycorp.shop",
     "port": 443,
-    "secret": "ee47849470a70a19f5e6d0767b7440e90f766b2e636f6d",
-    "url": "tg://proxy?server=79.137.205.22&port=443&secret=ee47849470a70a19f5e6d0767b7440e90f766b2e636f6d"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=vktop.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   },
   {
-    "server": "jadidporsorat.co.uk",
-    "port": 85,
-    "secret": "FgMBAgABAAH8AxOG4kw63Q",
-    "url": "tg://proxy?server=jadidporsorat.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q"
+    "server": "rkn.nolags.pw",
+    "port": 443,
+    "secret": "dd0851e76efbf462822e1ae6c3ac8b7ffa",
+    "url": "tg://proxy?server=rkn.nolags.pw&port=443&secret=dd0851e76efbf462822e1ae6c3ac8b7ffa"
   },
   {
-    "server": "sexy.arixo.shop",
+    "server": "sex.arixo.shop",
     "port": 443,
     "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "url": "tg://proxy?server=sexy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275"
+    "url": "tg://proxy?server=sex.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275"
   }
 ]
