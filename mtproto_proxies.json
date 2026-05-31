@@ -1,20 +1,20 @@
 [
   {
-    "server": "89.208.113.182",
-    "port": 443,
-    "secret": "ee171a9375170afdb5095d7bc9c19cc562766b2e636f6d",
-    "url": "tg://proxy?server=89.208.113.182&port=443&secret=ee171a9375170afdb5095d7bc9c19cc562766b2e636f6d"
+    "server": "r33.proxytg.space",
+    "port": 8443,
+    "secret": "eec38451cb166b3ed3a1bbf1d4e7e382817233332e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r33.proxytg.space&port=8443&secret=eec38451cb166b3ed3a1bbf1d4e7e382817233332e70726f787974672e7370616365"
   },
   {
-    "server": "5.78.217.202",
-    "port": 42341,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=5.78.217.202&port=42341&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "r34.proxytg.space",
+    "port": 8443,
+    "secret": "eebb8fe6fb6d181e454f4454195b880e627233342e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r34.proxytg.space&port=8443&secret=eebb8fe6fb6d181e454f4454195b880e627233342e70726f787974672e7370616365"
   },
   {
-    "server": "sexy.arixo.shop",
+    "server": "87.58.201.189",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "url": "tg://proxy?server=sexy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275"
+    "secret": "ee1caa97e5002aec0421f8c5b04a53c0e37362657262616e6b2e7275",
+    "url": "tg://proxy?server=87.58.201.189&port=443&secret=ee1caa97e5002aec0421f8c5b04a53c0e37362657262616e6b2e7275"
   }
 ]
