@@ -1,20 +1,20 @@
 [
   {
-    "server": "r29.proxytg.space",
-    "port": 8443,
-    "secret": "ee5b741234768d8dda7d1c17e7e7cff98a7232392e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r29.proxytg.space&port=8443&secret=ee5b741234768d8dda7d1c17e7e7cff98a7232392e70726f787974672e7370616365"
-  },
-  {
-    "server": "r28.proxytg.space",
-    "port": 8443,
-    "secret": "eed5f4455563d14c2b8c8a38868c7d91607232382e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r28.proxytg.space&port=8443&secret=eed5f4455563d14c2b8c8a38868c7d91607232382e70726f787974672e7370616365"
-  },
-  {
-    "server": "77.73.131.117",
+    "server": "topproxy.fml-subs.ru",
     "port": 443,
-    "secret": "ee97500cee8fa3bf21435e27cf09de8b72766b2e636f6d",
-    "url": "tg://proxy?server=77.73.131.117&port=443&secret=ee97500cee8fa3bf21435e27cf09de8b72766b2e636f6d"
+    "secret": "dde71c854efc71f477856bd59728888359",
+    "url": "tg://proxy?server=topproxy.fml-subs.ru&port=443&secret=dde71c854efc71f477856bd59728888359"
+  },
+  {
+    "server": "live.tproxy.info",
+    "port": 15,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=live.tproxy.info&port=15&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "79.137.196.223",
+    "port": 7443,
+    "secret": "eeeeb30662ee79541fb143515ad872d2e9dd7777772e636c6f7564666c6172652e636f6d",
+    "url": "tg://proxy?server=79.137.196.223&port=7443&secret=eeeeb30662ee79541fb143515ad872d2e9dd7777772e636c6f7564666c6172652e636f6d"
   }
 ]
