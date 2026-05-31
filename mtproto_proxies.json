@@ -1,20 +1,20 @@
 [
   {
-    "server": "r35.proxytg.space",
-    "port": 8443,
-    "secret": "ee11c7cb7399e1f38aaec2f5152c4f051c7233352e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r35.proxytg.space&port=8443&secret=ee11c7cb7399e1f38aaec2f5152c4f051c7233352e70726f787974672e7370616365"
+    "server": "alpinavpn.hatecens.cc",
+    "port": 7443,
+    "secret": "ee27a9fe4d55c1a9dabfcb2b872b00b6e6616c70696e6176706e2e6861746563656e732e6363",
+    "url": "tg://proxy?server=alpinavpn.hatecens.cc&port=7443&secret=ee27a9fe4d55c1a9dabfcb2b872b00b6e6616c70696e6176706e2e6861746563656e732e6363"
   },
   {
-    "server": "r36.proxytg.space",
+    "server": "connect.tproxy.store",
     "port": 8443,
-    "secret": "eee3df338e2eddce462101e6eecbdd9ee87233362e70726f787974672e7370616365",
-    "url": "tg://proxy?server=r36.proxytg.space&port=8443&secret=eee3df338e2eddce462101e6eecbdd9ee87233362e70726f787974672e7370616365"
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "url": "tg://proxy?server=connect.tproxy.store&port=8443&secret=dd79e7010200010007f0030386e24c3add"
   },
   {
-    "server": "heart.nolags.pw",
-    "port": 443,
-    "secret": "dd1d8f1aa6cb8726a39f24cc3943099e33",
-    "url": "tg://proxy?server=heart.nolags.pw&port=443&secret=dd1d8f1aa6cb8726a39f24cc3943099e33"
+    "server": "thisis.tproxy.store",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "url": "tg://proxy?server=thisis.tproxy.store&port=8443&secret=dd79e7010200010007f0030386e24c3add"
   }
 ]
