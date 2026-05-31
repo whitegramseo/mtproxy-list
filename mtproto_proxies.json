@@ -1,20 +1,20 @@
 [
   {
-    "server": "heart.nolags.pw",
-    "port": 443,
-    "secret": "dd1d8f1aa6cb8726a39f24cc3943099e33",
-    "url": "tg://proxy?server=heart.nolags.pw&port=443&secret=dd1d8f1aa6cb8726a39f24cc3943099e33"
+    "server": "alpinavpn.hatecens.cc",
+    "port": 7443,
+    "secret": "ee27a9fe4d55c1a9dabfcb2b872b00b6e6616c70696e6176706e2e6861746563656e732e6363",
+    "url": "tg://proxy?server=alpinavpn.hatecens.cc&port=7443&secret=ee27a9fe4d55c1a9dabfcb2b872b00b6e6616c70696e6176706e2e6861746563656e732e6363"
   },
   {
-    "server": "crystal.nolags.pw",
-    "port": 443,
-    "secret": "dd830d4ed967d6deb679cf74c9b10d0ddb",
-    "url": "tg://proxy?server=crystal.nolags.pw&port=443&secret=dd830d4ed967d6deb679cf74c9b10d0ddb"
+    "server": "connect.tproxy.store",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "url": "tg://proxy?server=connect.tproxy.store&port=8443&secret=dd79e7010200010007f0030386e24c3add"
   },
   {
-    "server": "www.minetor.co.uk",
-    "port": 443,
-    "secret": "ee104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=www.minetor.co.uk&port=443&secret=ee104462821249bd7ac519130220c25d09"
+    "server": "thisis.tproxy.store",
+    "port": 8443,
+    "secret": "dd79e7010200010007f0030386e24c3add",
+    "url": "tg://proxy?server=thisis.tproxy.store&port=8443&secret=dd79e7010200010007f0030386e24c3add"
   }
 ]
