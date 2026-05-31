@@ -1,20 +1,20 @@
 [
   {
-    "server": "sexy.arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "url": "tg://proxy?server=sexy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275"
+    "server": "r29.proxytg.space",
+    "port": 8443,
+    "secret": "ee5b741234768d8dda7d1c17e7e7cff98a7232392e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r29.proxytg.space&port=8443&secret=ee5b741234768d8dda7d1c17e7e7cff98a7232392e70726f787974672e7370616365"
   },
   {
-    "server": "top.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "url": "tg://proxy?server=top.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
+    "server": "r28.proxytg.space",
+    "port": 8443,
+    "secret": "eed5f4455563d14c2b8c8a38868c7d91607232382e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r28.proxytg.space&port=8443&secret=eed5f4455563d14c2b8c8a38868c7d91607232382e70726f787974672e7370616365"
   },
   {
-    "server": "fresh.t-proxy.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "77.73.131.117",
+    "port": 443,
+    "secret": "ee97500cee8fa3bf21435e27cf09de8b72766b2e636f6d",
+    "url": "tg://proxy?server=77.73.131.117&port=443&secret=ee97500cee8fa3bf21435e27cf09de8b72766b2e636f6d"
   }
 ]
