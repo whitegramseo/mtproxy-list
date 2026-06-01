@@ -1,20 +1,20 @@
 [
   {
-    "server": "usa.nolags.pw",
+    "server": "ether.nolags.pw",
     "port": 443,
-    "secret": "dd1a0658ae4bb081c4270cd674e7b5ef5b",
-    "url": "tg://proxy?server=usa.nolags.pw&port=443&secret=dd1a0658ae4bb081c4270cd674e7b5ef5b"
+    "secret": "dd86e17c6a253f59eac4b4909095ba3019",
+    "url": "tg://proxy?server=ether.nolags.pw&port=443&secret=dd86e17c6a253f59eac4b4909095ba3019"
   },
   {
-    "server": "security.chunkycorp.shop",
+    "server": "www.minetor.co.uk",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "url": "tg://proxy?server=security.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
+    "secret": "ee104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=www.minetor.co.uk&port=443&secret=ee104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "gov.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "url": "tg://proxy?server=gov.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
+    "server": "proxy.dreamerlook.ru",
+    "port": 444,
+    "secret": "ee00000000000000000000000000000000766b2e636f6d",
+    "url": "tg://proxy?server=proxy.dreamerlook.ru&port=444&secret=ee00000000000000000000000000000000766b2e636f6d"
   }
 ]
