@@ -1,20 +1,20 @@
 [
   {
-    "server": "yandex.chunkycorp.shop",
+    "server": "usa.nolags.pw",
+    "port": 443,
+    "secret": "dd1a0658ae4bb081c4270cd674e7b5ef5b",
+    "url": "tg://proxy?server=usa.nolags.pw&port=443&secret=dd1a0658ae4bb081c4270cd674e7b5ef5b"
+  },
+  {
+    "server": "security.chunkycorp.shop",
     "port": 443,
     "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "url": "tg://proxy?server=yandex.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
+    "url": "tg://proxy?server=security.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   },
   {
-    "server": "sex.arixo.shop",
+    "server": "gov.chunkycorp.shop",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "url": "tg://proxy?server=sex.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275"
-  },
-  {
-    "server": "alpinavpn.hatecens.cc",
-    "port": 7443,
-    "secret": "ee27a9fe4d55c1a9dabfcb2b872b00b6e6616c70696e6176706e2e6861746563656e732e6363",
-    "url": "tg://proxy?server=alpinavpn.hatecens.cc&port=7443&secret=ee27a9fe4d55c1a9dabfcb2b872b00b6e6616c70696e6176706e2e6861746563656e732e6363"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=gov.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   }
 ]
