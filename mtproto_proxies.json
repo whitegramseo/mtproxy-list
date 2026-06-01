@@ -1,20 +1,20 @@
 [
   {
-    "server": "ether.nolags.pw",
+    "server": "nether.nolags.pw",
     "port": 443,
-    "secret": "dd86e17c6a253f59eac4b4909095ba3019",
-    "url": "tg://proxy?server=ether.nolags.pw&port=443&secret=dd86e17c6a253f59eac4b4909095ba3019"
+    "secret": "dd0ed82c381c8fccacbe15605dec874662",
+    "url": "tg://proxy?server=nether.nolags.pw&port=443&secret=dd0ed82c381c8fccacbe15605dec874662"
   },
   {
-    "server": "www.minetor.co.uk",
-    "port": 443,
-    "secret": "ee104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=www.minetor.co.uk&port=443&secret=ee104462821249bd7ac519130220c25d09"
+    "server": "r44.proxytg.space",
+    "port": 8443,
+    "secret": "eebf7b9e22c9202130923254db55f17ed07234342e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r44.proxytg.space&port=8443&secret=eebf7b9e22c9202130923254db55f17ed07234342e70726f787974672e7370616365"
   },
   {
-    "server": "proxy.dreamerlook.ru",
-    "port": 444,
-    "secret": "ee00000000000000000000000000000000766b2e636f6d",
-    "url": "tg://proxy?server=proxy.dreamerlook.ru&port=444&secret=ee00000000000000000000000000000000766b2e636f6d"
+    "server": "r39.proxytg.space",
+    "port": 8443,
+    "secret": "eeda4e9c22fd9b2dcf174ceb3beef08a2d7233392e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r39.proxytg.space&port=8443&secret=eeda4e9c22fd9b2dcf174ceb3beef08a2d7233392e70726f787974672e7370616365"
   }
 ]
