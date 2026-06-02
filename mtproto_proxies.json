@@ -1,20 +1,20 @@
 [
   {
-    "server": "rf.arixo.shop",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
-    "url": "tg://proxy?server=rf.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275"
-  },
-  {
-    "server": "trump.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "url": "tg://proxy?server=trump.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
-  },
-  {
-    "server": "rkn.quickrouteapp.xyz",
+    "server": "nolags.quickrouteapp.xyz",
     "port": 8443,
-    "secret": "eeae82b9fd491e0fde6eb677e47099729b726b6e2e717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=rkn.quickrouteapp.xyz&port=8443&secret=eeae82b9fd491e0fde6eb677e47099729b726b6e2e717569636b726f7574656170702e78797a"
+    "secret": "ee6220eec9be6b790ee969f86c6c7baaa46e6f6c6167732e717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=nolags.quickrouteapp.xyz&port=8443&secret=ee6220eec9be6b790ee969f86c6c7baaa46e6f6c6167732e717569636b726f7574656170702e78797a"
+  },
+  {
+    "server": "big3.mtproxygram.lol",
+    "port": 853,
+    "secret": "ee9909e7aa6bc62461a0b60f33af14a68462726f777365722e79616e6465782e636f6d",
+    "url": "tg://proxy?server=big3.mtproxygram.lol&port=853&secret=ee9909e7aa6bc62461a0b60f33af14a68462726f777365722e79616e6465782e636f6d"
+  },
+  {
+    "server": "big2.mtproxygram.lol",
+    "port": 853,
+    "secret": "ee60ff1261786c2cfe88dec67ba0348e1462726f777365722e79616e6465782e636f6d",
+    "url": "tg://proxy?server=big2.mtproxygram.lol&port=853&secret=ee60ff1261786c2cfe88dec67ba0348e1462726f777365722e79616e6465782e636f6d"
   }
 ]
