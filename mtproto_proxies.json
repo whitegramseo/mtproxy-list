@@ -1,20 +1,20 @@
 [
   {
-    "server": "moon.nolags.pw",
-    "port": 443,
-    "secret": "dd2c611b53a9c82f662081daed93cc3cb3",
-    "url": "tg://proxy?server=moon.nolags.pw&port=443&secret=dd2c611b53a9c82f662081daed93cc3cb3"
-  },
-  {
-    "server": "fast.quickrouteapp.xyz",
+    "server": "nolags.quickrouteapp.xyz",
     "port": 8443,
-    "secret": "ee80aa4a3c8b88e873af8b323a6c485efa666173742e717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=fast.quickrouteapp.xyz&port=8443&secret=ee80aa4a3c8b88e873af8b323a6c485efa666173742e717569636b726f7574656170702e78797a"
+    "secret": "ee6220eec9be6b790ee969f86c6c7baaa46e6f6c6167732e717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=nolags.quickrouteapp.xyz&port=8443&secret=ee6220eec9be6b790ee969f86c6c7baaa46e6f6c6167732e717569636b726f7574656170702e78797a"
   },
   {
-    "server": "fresh.t-proxy.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "wb.flowaccess.site",
+    "port": 8443,
+    "secret": "ee2fcc64ad41fc313d96fb8cb686e5620677622e666c6f776163636573732e73697465",
+    "url": "tg://proxy?server=wb.flowaccess.site&port=8443&secret=ee2fcc64ad41fc313d96fb8cb686e5620677622e666c6f776163636573732e73697465"
+  },
+  {
+    "server": "eboybey.flowaccess.site",
+    "port": 8443,
+    "secret": "ee1a3341522f265448a11cbb608f42166f65626f796265792e666c6f776163636573732e73697465",
+    "url": "tg://proxy?server=eboybey.flowaccess.site&port=8443&secret=ee1a3341522f265448a11cbb608f42166f65626f796265792e666c6f776163636573732e73697465"
   }
 ]
