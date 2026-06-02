@@ -1,20 +1,20 @@
 [
   {
-    "server": "mc-ssh.t-proxyru.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "nether.nolags.pw",
+    "port": 443,
+    "secret": "dd0ed82c381c8fccacbe15605dec874662",
+    "url": "tg://proxy?server=nether.nolags.pw&port=443&secret=dd0ed82c381c8fccacbe15605dec874662"
   },
   {
-    "server": "poll900.mtproxygram.pro",
-    "port": 853,
-    "secret": "ee18ccad215fa76f14969bb6da115ed56b62726f777365722e79616e6465782e636f6d",
-    "url": "tg://proxy?server=poll900.mtproxygram.pro&port=853&secret=ee18ccad215fa76f14969bb6da115ed56b62726f777365722e79616e6465782e636f6d"
+    "server": "r44.proxytg.space",
+    "port": 8443,
+    "secret": "eebf7b9e22c9202130923254db55f17ed07234342e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r44.proxytg.space&port=8443&secret=eebf7b9e22c9202130923254db55f17ed07234342e70726f787974672e7370616365"
   },
   {
-    "server": "poll900b1.mtproxygram.pro",
-    "port": 853,
-    "secret": "eecb0336ed7f59a2c868cc3083f64c607162726f777365722e79616e6465782e636f6d",
-    "url": "tg://proxy?server=poll900b1.mtproxygram.pro&port=853&secret=eecb0336ed7f59a2c868cc3083f64c607162726f777365722e79616e6465782e636f6d"
+    "server": "r39.proxytg.space",
+    "port": 8443,
+    "secret": "eeda4e9c22fd9b2dcf174ceb3beef08a2d7233392e70726f787974672e7370616365",
+    "url": "tg://proxy?server=r39.proxytg.space&port=8443&secret=eeda4e9c22fd9b2dcf174ceb3beef08a2d7233392e70726f787974672e7370616365"
   }
 ]
