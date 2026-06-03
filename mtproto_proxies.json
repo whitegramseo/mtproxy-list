@@ -1,20 +1,20 @@
 [
   {
-    "server": "moon.nolags.pw",
+    "server": "tele.chunkycorp.shop",
     "port": 443,
-    "secret": "dd2c611b53a9c82f662081daed93cc3cb3",
-    "url": "tg://proxy?server=moon.nolags.pw&port=443&secret=dd2c611b53a9c82f662081daed93cc3cb3"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=tele.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   },
   {
-    "server": "fast.quickrouteapp.xyz",
-    "port": 8443,
-    "secret": "ee80aa4a3c8b88e873af8b323a6c485efa666173742e717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=fast.quickrouteapp.xyz&port=8443&secret=ee80aa4a3c8b88e873af8b323a6c485efa666173742e717569636b726f7574656170702e78797a"
+    "server": "84.252.139.115",
+    "port": 443,
+    "secret": "eefea62269225a14fac3c9e8c7ba6205fe617669746f2e7275",
+    "url": "tg://proxy?server=84.252.139.115&port=443&secret=eefea62269225a14fac3c9e8c7ba6205fe617669746f2e7275"
   },
   {
-    "server": "fresh.t-proxy.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "51.250.105.29",
+    "port": 443,
+    "secret": "eeac09153b446e946a1b59a29df9ca6020617669746f2e7275",
+    "url": "tg://proxy?server=51.250.105.29&port=443&secret=eeac09153b446e946a1b59a29df9ca6020617669746f2e7275"
   }
 ]
