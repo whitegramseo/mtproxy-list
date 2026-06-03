@@ -1,20 +1,20 @@
 [
   {
-    "server": "network.nolags.pw",
-    "port": 443,
-    "secret": "dd8ee55939bfea58827fd6f140bca62a63",
-    "url": "tg://proxy?server=network.nolags.pw&port=443&secret=dd8ee55939bfea58827fd6f140bca62a63"
+    "server": "ytrw134-4.mtproxygram.lol",
+    "port": 853,
+    "secret": "ee3b5bcab52337c98260146659a677d48862726f777365722e79616e6465782e636f6d",
+    "url": "tg://proxy?server=ytrw134-4.mtproxygram.lol&port=853&secret=ee3b5bcab52337c98260146659a677d48862726f777365722e79616e6465782e636f6d"
   },
   {
-    "server": "dash.flowstreamhub.site",
-    "port": 8443,
-    "secret": "eeef254d73d0f3c934acf304ca0e6b9cc2646173682e666c6f7773747265616d6875622e73697465",
-    "url": "tg://proxy?server=dash.flowstreamhub.site&port=8443&secret=eeef254d73d0f3c934acf304ca0e6b9cc2646173682e666c6f7773747265616d6875622e73697465"
+    "server": "neww1727.mtproxygram.lol",
+    "port": 853,
+    "secret": "eea773d496c7fcdc05bd24c91a30e3090d62726f777365722e79616e6465782e636f6d",
+    "url": "tg://proxy?server=neww1727.mtproxygram.lol&port=853&secret=eea773d496c7fcdc05bd24c91a30e3090d62726f777365722e79616e6465782e636f6d"
   },
   {
-    "server": "byebyerkn.flowstreamhub.site",
+    "server": "zoom.flowaccess.site",
     "port": 8443,
-    "secret": "ee3fc2d76c0ccce856e812748d56c458dd627965627965726b6e2e666c6f7773747265616d6875622e73697465",
-    "url": "tg://proxy?server=byebyerkn.flowstreamhub.site&port=8443&secret=ee3fc2d76c0ccce856e812748d56c458dd627965627965726b6e2e666c6f7773747265616d6875622e73697465"
+    "secret": "ee47a48cbe73dd91aa66fb6f8961c5e25a7a6f6f6d2e666c6f776163636573732e73697465",
+    "url": "tg://proxy?server=zoom.flowaccess.site&port=8443&secret=ee47a48cbe73dd91aa66fb6f8961c5e25a7a6f6f6d2e666c6f776163636573732e73697465"
   }
 ]
