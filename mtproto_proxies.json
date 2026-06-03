@@ -1,20 +1,20 @@
 [
   {
-    "server": "rapid.flowstreamhub.site",
-    "port": 8443,
-    "secret": "ee10a576008fd642b6e0427f9b2b22447f72617069642e666c6f7773747265616d6875622e73697465",
-    "url": "tg://proxy?server=rapid.flowstreamhub.site&port=8443&secret=ee10a576008fd642b6e0427f9b2b22447f72617069642e666c6f7773747265616d6875622e73697465"
-  },
-  {
-    "server": "swift.quickrouteapp.xyz",
-    "port": 8443,
-    "secret": "ee68a56bf93ff9c02daa862d3830de722773776966742e717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=swift.quickrouteapp.xyz&port=8443&secret=ee68a56bf93ff9c02daa862d3830de722773776966742e717569636b726f7574656170702e78797a"
-  },
-  {
-    "server": "some.nolags.pw",
+    "server": "prime.nolags.pw",
     "port": 443,
-    "secret": "ddc63eab2c309e7915a09622cedc7c9a7d",
-    "url": "tg://proxy?server=some.nolags.pw&port=443&secret=ddc63eab2c309e7915a09622cedc7c9a7d"
+    "secret": "ddb01da288baa59189c1db3c7bb1490895",
+    "url": "tg://proxy?server=prime.nolags.pw&port=443&secret=ddb01da288baa59189c1db3c7bb1490895"
+  },
+  {
+    "server": "mc-ssh.t-proxyru.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "zoom.flowaccess.site",
+    "port": 8443,
+    "secret": "ee47a48cbe73dd91aa66fb6f8961c5e25a7a6f6f6d2e666c6f776163636573732e73697465",
+    "url": "tg://proxy?server=zoom.flowaccess.site&port=8443&secret=ee47a48cbe73dd91aa66fb6f8961c5e25a7a6f6f6d2e666c6f776163636573732e73697465"
   }
 ]
