@@ -1,20 +1,20 @@
 [
   {
-    "server": "tele.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "url": "tg://proxy?server=tele.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
+    "server": "rapid.flowstreamhub.site",
+    "port": 8443,
+    "secret": "ee10a576008fd642b6e0427f9b2b22447f72617069642e666c6f7773747265616d6875622e73697465",
+    "url": "tg://proxy?server=rapid.flowstreamhub.site&port=8443&secret=ee10a576008fd642b6e0427f9b2b22447f72617069642e666c6f7773747265616d6875622e73697465"
   },
   {
-    "server": "84.252.139.115",
-    "port": 443,
-    "secret": "eefea62269225a14fac3c9e8c7ba6205fe617669746f2e7275",
-    "url": "tg://proxy?server=84.252.139.115&port=443&secret=eefea62269225a14fac3c9e8c7ba6205fe617669746f2e7275"
+    "server": "swift.quickrouteapp.xyz",
+    "port": 8443,
+    "secret": "ee68a56bf93ff9c02daa862d3830de722773776966742e717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=swift.quickrouteapp.xyz&port=8443&secret=ee68a56bf93ff9c02daa862d3830de722773776966742e717569636b726f7574656170702e78797a"
   },
   {
-    "server": "51.250.105.29",
+    "server": "some.nolags.pw",
     "port": 443,
-    "secret": "eeac09153b446e946a1b59a29df9ca6020617669746f2e7275",
-    "url": "tg://proxy?server=51.250.105.29&port=443&secret=eeac09153b446e946a1b59a29df9ca6020617669746f2e7275"
+    "secret": "ddc63eab2c309e7915a09622cedc7c9a7d",
+    "url": "tg://proxy?server=some.nolags.pw&port=443&secret=ddc63eab2c309e7915a09622cedc7c9a7d"
   }
 ]
