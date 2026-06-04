@@ -1,20 +1,20 @@
 [
   {
-    "server": "spain.nolags.pw",
+    "server": "durov.chunkycorp.shop",
     "port": 443,
-    "secret": "ddda11050e6e98fb151d0094b549b0344a",
-    "url": "tg://proxy?server=spain.nolags.pw&port=443&secret=ddda11050e6e98fb151d0094b549b0344a"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=durov.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   },
   {
-    "server": "wave.flowaccess.site",
+    "server": "31.76.39.36",
+    "port": 443,
+    "secret": "ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275",
+    "url": "tg://proxy?server=31.76.39.36&port=443&secret=ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275"
+  },
+  {
+    "server": "surf.flowaccess.site",
     "port": 8443,
-    "secret": "eeea2f80ea6628006a3db2a8678d65bd07776176652e666c6f776163636573732e73697465",
-    "url": "tg://proxy?server=wave.flowaccess.site&port=8443&secret=eeea2f80ea6628006a3db2a8678d65bd07776176652e666c6f776163636573732e73697465"
-  },
-  {
-    "server": "fresh-c.gamelande.info",
-    "port": 25565,
-    "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=fresh-c.gamelande.info&port=25565&secret=ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
+    "secret": "eeea26c2508652bcbd35ac3116045eb939737572662e666c6f776163636573732e73697465",
+    "url": "tg://proxy?server=surf.flowaccess.site&port=8443&secret=eeea26c2508652bcbd35ac3116045eb939737572662e666c6f776163636573732e73697465"
   }
 ]
