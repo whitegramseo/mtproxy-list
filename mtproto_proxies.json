@@ -1,20 +1,20 @@
 [
   {
-    "server": "network.nolags.pw",
-    "port": 443,
-    "secret": "dd8ee55939bfea58827fd6f140bca62a63",
-    "url": "tg://proxy?server=network.nolags.pw&port=443&secret=dd8ee55939bfea58827fd6f140bca62a63"
+    "server": "turbo.quickrouteapp.xyz",
+    "port": 8443,
+    "secret": "ee7e87773423c90bb0792a4e005f54119d747572626f2e717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=turbo.quickrouteapp.xyz&port=8443&secret=ee7e87773423c90bb0792a4e005f54119d747572626f2e717569636b726f7574656170702e78797a"
   },
   {
-    "server": "dash.flowstreamhub.site",
+    "server": "jet.quickrouteapp.xyz",
     "port": 8443,
-    "secret": "eeef254d73d0f3c934acf304ca0e6b9cc2646173682e666c6f7773747265616d6875622e73697465",
-    "url": "tg://proxy?server=dash.flowstreamhub.site&port=8443&secret=eeef254d73d0f3c934acf304ca0e6b9cc2646173682e666c6f7773747265616d6875622e73697465"
+    "secret": "eeedca657d767c71c26de484e74182c3076a65742e717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=jet.quickrouteapp.xyz&port=8443&secret=eeedca657d767c71c26de484e74182c3076a65742e717569636b726f7574656170702e78797a"
   },
   {
-    "server": "byebyerkn.flowstreamhub.site",
-    "port": 8443,
-    "secret": "ee3fc2d76c0ccce856e812748d56c458dd627965627965726b6e2e666c6f7773747265616d6875622e73697465",
-    "url": "tg://proxy?server=byebyerkn.flowstreamhub.site&port=8443&secret=ee3fc2d76c0ccce856e812748d56c458dd627965627965726b6e2e666c6f7773747265616d6875622e73697465"
+    "server": "65.109.245.52",
+    "port": 7980,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=65.109.245.52&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
 ]
