@@ -1,20 +1,20 @@
 [
   {
-    "server": "turbo.quickrouteapp.xyz",
-    "port": 8443,
-    "secret": "ee7e87773423c90bb0792a4e005f54119d747572626f2e717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=turbo.quickrouteapp.xyz&port=8443&secret=ee7e87773423c90bb0792a4e005f54119d747572626f2e717569636b726f7574656170702e78797a"
+    "server": "spain.nolags.pw",
+    "port": 443,
+    "secret": "ddda11050e6e98fb151d0094b549b0344a",
+    "url": "tg://proxy?server=spain.nolags.pw&port=443&secret=ddda11050e6e98fb151d0094b549b0344a"
   },
   {
-    "server": "jet.quickrouteapp.xyz",
+    "server": "wave.flowaccess.site",
     "port": 8443,
-    "secret": "eeedca657d767c71c26de484e74182c3076a65742e717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=jet.quickrouteapp.xyz&port=8443&secret=eeedca657d767c71c26de484e74182c3076a65742e717569636b726f7574656170702e78797a"
+    "secret": "eeea2f80ea6628006a3db2a8678d65bd07776176652e666c6f776163636573732e73697465",
+    "url": "tg://proxy?server=wave.flowaccess.site&port=8443&secret=eeea2f80ea6628006a3db2a8678d65bd07776176652e666c6f776163636573732e73697465"
   },
   {
-    "server": "65.109.245.52",
-    "port": 7980,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=65.109.245.52&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "server": "fresh-c.gamelande.info",
+    "port": 25565,
+    "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=fresh-c.gamelande.info&port=25565&secret=ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
   }
 ]
