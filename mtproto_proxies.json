@@ -1,20 +1,20 @@
 [
   {
-    "server": "warsaw.nolags.pw",
+    "server": "65.109.254.108",
     "port": 443,
-    "secret": "dd68c2ee708b2e88d8d12802479d4d5026",
-    "url": "tg://proxy?server=warsaw.nolags.pw&port=443&secret=dd68c2ee708b2e88d8d12802479d4d5026"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=65.109.254.108&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "pulse.flowstreamhub.site",
+    "server": "promo.dealer.ac",
+    "port": 443,
+    "secret": "ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d",
+    "url": "tg://proxy?server=promo.dealer.ac&port=443&secret=ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d"
+  },
+  {
+    "server": "api.my-miner.info",
     "port": 8443,
-    "secret": "ee993b027bf939e8b65e48c633930c8b6770756c73652e666c6f7773747265616d6875622e73697465",
-    "url": "tg://proxy?server=pulse.flowstreamhub.site&port=8443&secret=ee993b027bf939e8b65e48c633930c8b6770756c73652e666c6f7773747265616d6875622e73697465"
-  },
-  {
-    "server": "186.246.19.134",
-    "port": 443,
-    "secret": "ee17867c11b83c2c36a3de356743602b2c617669746f2e7275",
-    "url": "tg://proxy?server=186.246.19.134&port=443&secret=ee17867c11b83c2c36a3de356743602b2c617669746f2e7275"
+    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
+    "url": "tg://proxy?server=api.my-miner.info&port=8443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v"
   }
 ]
