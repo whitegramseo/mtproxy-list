@@ -1,20 +1,20 @@
 [
   {
-    "server": "highspeed.nolags.pw",
+    "server": "flash.quickrouteapp.xyz",
     "port": 443,
-    "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
-    "url": "tg://proxy?server=highspeed.nolags.pw&port=443&secret=dd6e87000d80db522523b5ab5bb58ab3af"
+    "secret": "eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=flash.quickrouteapp.xyz&port=443&secret=eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a"
   },
   {
-    "server": "178.105.226.11",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=178.105.226.11&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "sonic.quickrouteapp.xyz",
+    "port": 443,
+    "secret": "eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=sonic.quickrouteapp.xyz&port=443&secret=eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a"
   },
   {
-    "server": "178.105.232.49",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=178.105.232.49&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "rocket.flowaccess.site",
+    "port": 443,
+    "secret": "ee03d3d1b9bda832390669bc06167720d8726f636b65742e666c6f776163636573732e73697465",
+    "url": "tg://proxy?server=rocket.flowaccess.site&port=443&secret=ee03d3d1b9bda832390669bc06167720d8726f636b65742e666c6f776163636573732e73697465"
   }
 ]
