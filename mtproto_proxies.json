@@ -1,20 +1,20 @@
 [
   {
-    "server": "boost.flowstreamhub.site",
-    "port": 8443,
-    "secret": "ee7ee0a641b78ecc8d210e47981904a50a626f6f73742e666c6f7773747265616d6875622e73697465",
-    "url": "tg://proxy?server=boost.flowstreamhub.site&port=8443&secret=ee7ee0a641b78ecc8d210e47981904a50a626f6f73742e666c6f7773747265616d6875622e73697465"
+    "server": "connect.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=connect.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   },
   {
-    "server": "turbo.quickrouteapp.xyz",
-    "port": 8443,
-    "secret": "ee7e87773423c90bb0792a4e005f54119d747572626f2e717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=turbo.quickrouteapp.xyz&port=8443&secret=ee7e87773423c90bb0792a4e005f54119d747572626f2e717569636b726f7574656170702e78797a"
+    "server": "connect.arixo.shop",
+    "port": 443,
+    "secret": "eeed5518514cf40187d905c5b7c9e4d595617669746f2e7275",
+    "url": "tg://proxy?server=connect.arixo.shop&port=443&secret=eeed5518514cf40187d905c5b7c9e4d595617669746f2e7275"
   },
   {
-    "server": "ghtash.co.uk",
-    "port": 9965,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=ghtash.co.uk&port=9965&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "london.nolags.pw",
+    "port": 443,
+    "secret": "dd6fe89c6d1f5f8b54afc931cf4f640b91",
+    "url": "tg://proxy?server=london.nolags.pw&port=443&secret=dd6fe89c6d1f5f8b54afc931cf4f640b91"
   }
 ]
