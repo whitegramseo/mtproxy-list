@@ -1,20 +1,20 @@
 [
   {
-    "server": "whiltelist-prx1.getvelora.space",
+    "server": "connect.arixo.shop",
     "port": 443,
-    "secret": "ee6f8c5619eef69de325d0c3ff8a9b7a336d61782e7275",
-    "url": "tg://proxy?server=whiltelist-prx1.getvelora.space&port=443&secret=ee6f8c5619eef69de325d0c3ff8a9b7a336d61782e7275"
+    "secret": "ee46636c0c3ff70a1d97ff70bb96ecd6ce617669746f2e7275",
+    "url": "tg://proxy?server=connect.arixo.shop&port=443&secret=ee46636c0c3ff70a1d97ff70bb96ecd6ce617669746f2e7275"
   },
   {
-    "server": "159.69.100.158",
+    "server": "51.250.82.46",
     "port": 443,
-    "secret": "f0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=159.69.100.158&port=443&secret=f0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee2147d08d35506c24aad6bd92df99e44e617669746f2e7275",
+    "url": "tg://proxy?server=51.250.82.46&port=443&secret=ee2147d08d35506c24aad6bd92df99e44e617669746f2e7275"
   },
   {
-    "server": "65.109.245.52",
-    "port": 7980,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=65.109.245.52&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "server": "mc-ssh.t-proxyru.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   }
 ]
