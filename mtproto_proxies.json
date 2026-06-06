@@ -1,20 +1,20 @@
 [
   {
-    "server": "highspeed.nolags.pw",
+    "server": "russia.chunkycorp.shop",
     "port": 443,
-    "secret": "dd6e87000d80db522523b5ab5bb58ab3af",
-    "url": "tg://proxy?server=highspeed.nolags.pw&port=443&secret=dd6e87000d80db522523b5ab5bb58ab3af"
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=russia.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   },
   {
-    "server": "178.105.226.11",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=178.105.226.11&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "connect.arixo.shop",
+    "port": 443,
+    "secret": "ee3ccfb5178a6607b7e3818dc4dc9813fa617669746f2e7275",
+    "url": "tg://proxy?server=connect.arixo.shop&port=443&secret=ee3ccfb5178a6607b7e3818dc4dc9813fa617669746f2e7275"
   },
   {
-    "server": "178.105.232.49",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=178.105.232.49&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "flash.quickrouteapp.xyz",
+    "port": 443,
+    "secret": "eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=flash.quickrouteapp.xyz&port=443&secret=eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a"
   }
 ]
