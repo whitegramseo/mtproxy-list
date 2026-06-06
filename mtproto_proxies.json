@@ -1,20 +1,20 @@
 [
   {
-    "server": "russia.arixo.shop",
+    "server": "www.alp-drtop.info",
     "port": 443,
-    "secret": "eed015b7c384e8023672d5355b0bb6e531617669746f2e7275",
-    "url": "tg://proxy?server=russia.arixo.shop&port=443&secret=eed015b7c384e8023672d5355b0bb6e531617669746f2e7275"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=www.alp-drtop.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "russia.chunkycorp.shop",
+    "server": "light.nolags.pw",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
-    "url": "tg://proxy?server=russia.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
+    "secret": "dd84b5a5dbe775244bd0b061c72f4e4c73",
+    "url": "tg://proxy?server=light.nolags.pw&port=443&secret=dd84b5a5dbe775244bd0b061c72f4e4c73"
   },
   {
-    "server": "ghtash.co.uk",
-    "port": 9965,
+    "server": "84.32.189.74",
+    "port": 8443,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=ghtash.co.uk&port=9965&secret=dd104462821249bd7ac519130220c25d09"
+    "url": "tg://proxy?server=84.32.189.74&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
