@@ -1,20 +1,20 @@
 [
   {
-    "server": "fast.proxytelega.store",
-    "port": 8443,
-    "secret": "ee3d75d4605342be40f01e37f606946e81666173742e70726f787974656c6567612e73746f7265",
-    "url": "tg://proxy?server=fast.proxytelega.store&port=8443&secret=ee3d75d4605342be40f01e37f606946e81666173742e70726f787974656c6567612e73746f7265"
+    "server": "russia.arixo.shop",
+    "port": 443,
+    "secret": "eed015b7c384e8023672d5355b0bb6e531617669746f2e7275",
+    "url": "tg://proxy?server=russia.arixo.shop&port=443&secret=eed015b7c384e8023672d5355b0bb6e531617669746f2e7275"
   },
   {
-    "server": "rkn.proxytelega.store",
-    "port": 8443,
-    "secret": "eeec48b14805acf33a64f494fe7cf6656a726b6e2e70726f787974656c6567612e73746f7265",
-    "url": "tg://proxy?server=rkn.proxytelega.store&port=8443&secret=eeec48b14805acf33a64f494fe7cf6656a726b6e2e70726f787974656c6567612e73746f7265"
+    "server": "russia.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275",
+    "url": "tg://proxy?server=russia.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275"
   },
   {
-    "server": "65.109.245.52",
-    "port": 7980,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=65.109.245.52&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "server": "ghtash.co.uk",
+    "port": 9965,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=ghtash.co.uk&port=9965&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
