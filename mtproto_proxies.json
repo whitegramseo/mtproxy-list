@@ -1,20 +1,20 @@
 [
   {
-    "server": "ice.nolags.pw",
+    "server": "russia.arixo.shop",
     "port": 443,
-    "secret": "dd53df731994a1368ad70990c9a88794dd",
-    "url": "tg://proxy?server=ice.nolags.pw&port=443&secret=dd53df731994a1368ad70990c9a88794dd"
+    "secret": "eed015b7c384e8023672d5355b0bb6e531617669746f2e7275",
+    "url": "tg://proxy?server=russia.arixo.shop&port=443&secret=eed015b7c384e8023672d5355b0bb6e531617669746f2e7275"
   },
   {
-    "server": "tproxy.monster",
-    "port": 2053,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=tproxy.monster&port=2053&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "server": "legend.chunkycorp.shop",
+    "port": 443,
+    "secret": "eef7fa42938dc7150beba27c0cc0df2f1d617669746f2e7275",
+    "url": "tg://proxy?server=legend.chunkycorp.shop&port=443&secret=eef7fa42938dc7150beba27c0cc0df2f1d617669746f2e7275"
   },
   {
-    "server": "www.tproxy.monster",
-    "port": 2053,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=www.tproxy.monster&port=2053&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "server": "ya.proxyobhod.online",
+    "port": 8443,
+    "secret": "ee2419e93e2af4bddd80bb8bc8936ea49879612e70726f78796f62686f642e6f6e6c696e65",
+    "url": "tg://proxy?server=ya.proxyobhod.online&port=8443&secret=ee2419e93e2af4bddd80bb8bc8936ea49879612e70726f78796f62686f642e6f6e6c696e65"
   }
 ]
