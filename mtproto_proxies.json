@@ -1,20 +1,20 @@
 [
   {
-    "server": "mc-ssh.t-proxyru.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "s02.neo-trading.org",
+    "port": 443,
+    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+    "url": "tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
-    "server": "zoom.flowaccess.site",
-    "port": 443,
-    "secret": "ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465",
-    "url": "tg://proxy?server=zoom.flowaccess.site&port=443&secret=ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465"
+    "server": "ghtash.co.uk",
+    "port": 9965,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=ghtash.co.uk&port=9965&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "rapid.quickrouteapp.xyz",
+    "server": "europe.nolags.pw",
     "port": 443,
-    "secret": "eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=rapid.quickrouteapp.xyz&port=443&secret=eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a"
+    "secret": "dd35cf6d34b82d8531a8c93aea1fa2f72b",
+    "url": "tg://proxy?server=europe.nolags.pw&port=443&secret=dd35cf6d34b82d8531a8c93aea1fa2f72b"
   }
 ]
