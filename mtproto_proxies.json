@@ -1,20 +1,20 @@
 [
   {
-    "server": "132.243.213.221",
+    "server": "waves.nolags.pw",
     "port": 443,
-    "secret": "ee4d3cf6b01fed616495b9651ebe37313f766b2e7275",
-    "url": "tg://proxy?server=132.243.213.221&port=443&secret=ee4d3cf6b01fed616495b9651ebe37313f766b2e7275"
+    "secret": "dd0208abd7e65df801ec0550d8ba07c1b3",
+    "url": "tg://proxy?server=waves.nolags.pw&port=443&secret=dd0208abd7e65df801ec0550d8ba07c1b3"
   },
   {
-    "server": "yard-yaystal-menyat.yard-tg-bot.online",
+    "server": "www.alp-drtop.info",
     "port": 443,
-    "secret": "ee6a441d3845f1bfec1100662ce671d8ed76762e636f6d",
-    "url": "tg://proxy?server=yard-yaystal-menyat.yard-tg-bot.online&port=443&secret=ee6a441d3845f1bfec1100662ce671d8ed76762e636f6d"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=www.alp-drtop.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "s01.neo-trading.org",
+    "server": "legend.chunkycorp.shop",
     "port": 443,
-    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275",
-    "url": "tg://proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+    "secret": "eef7fa42938dc7150beba27c0cc0df2f1d617669746f2e7275",
+    "url": "tg://proxy?server=legend.chunkycorp.shop&port=443&secret=eef7fa42938dc7150beba27c0cc0df2f1d617669746f2e7275"
   }
 ]
