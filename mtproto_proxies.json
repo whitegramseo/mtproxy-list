@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy.arixo.shop",
-    "port": 443,
-    "secret": "ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275",
-    "url": "tg://proxy?server=proxy.arixo.shop&port=443&secret=ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275"
+    "server": "mc-ssh.t-proxyru.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "51.250.71.16",
+    "server": "zoom.flowaccess.site",
     "port": 443,
-    "secret": "ee83664d92de321661cc33e6839bbeef1e617669746f2e7275",
-    "url": "tg://proxy?server=51.250.71.16&port=443&secret=ee83664d92de321661cc33e6839bbeef1e617669746f2e7275"
+    "secret": "ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465",
+    "url": "tg://proxy?server=zoom.flowaccess.site&port=443&secret=ee50179d3cf3b7e3600efe3b6001fa35c07a6f6f6d2e666c6f776163636573732e73697465"
   },
   {
-    "server": "v2.chunkycorp.shop",
-    "port": 8443,
-    "secret": "ee2531f60e78c70e4906e7265dd86391357777772e636c6f7564666c6172652e636f6d",
-    "url": "tg://proxy?server=v2.chunkycorp.shop&port=8443&secret=ee2531f60e78c70e4906e7265dd86391357777772e636c6f7564666c6172652e636f6d"
+    "server": "rapid.quickrouteapp.xyz",
+    "port": 443,
+    "secret": "eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a",
+    "url": "tg://proxy?server=rapid.quickrouteapp.xyz&port=443&secret=eef759f32d70c17cef76b34ab18561ff7972617069642e717569636b726f7574656170702e78797a"
   }
 ]
