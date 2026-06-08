@@ -1,20 +1,20 @@
 [
   {
-    "server": "mtp10.sosproxy.space",
+    "server": "glide.proxyonline.online",
     "port": 443,
-    "secret": "ee3ab621bbb1dea6b3be09c8f3582c61a364726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=mtp10.sosproxy.space&port=443&secret=ee3ab621bbb1dea6b3be09c8f3582c61a364726976652e676f6f676c652e636f6d"
+    "secret": "eeb4cf448c2c66dc6151b6746bd1799ae5676c6964652e70726f78796f6e6c696e652e6f6e6c696e65",
+    "url": "tg://proxy?server=glide.proxyonline.online&port=443&secret=eeb4cf448c2c66dc6151b6746bd1799ae5676c6964652e70726f78796f6e6c696e652e6f6e6c696e65"
   },
   {
-    "server": "2.26.146.182",
-    "port": 15,
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t",
-    "url": "tg://proxy?server=2.26.146.182&port=15&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t"
+    "server": "orbit.proxyonline.online",
+    "port": 443,
+    "secret": "eea49899bfb9f5b061d6213e6f6480ea006f726269742e70726f78796f6e6c696e652e6f6e6c696e65",
+    "url": "tg://proxy?server=orbit.proxyonline.online&port=443&secret=eea49899bfb9f5b061d6213e6f6480ea006f726269742e70726f78796f6e6c696e652e6f6e6c696e65"
   },
   {
-    "server": "fresh.t-proxy.info",
+    "server": "www.alo-otp.info",
     "port": 25565,
     "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "url": "tg://proxy?server=www.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   }
 ]
