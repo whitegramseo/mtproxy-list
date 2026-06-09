@@ -1,20 +1,20 @@
 [
   {
-    "server": "www.mtp-roto.info",
+    "server": "cab.proxytg.live",
     "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=www.mtp-roto.info&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+    "secret": "ee172f5214b57f137805957e350d01e0946361622e70726f787974672e6c697665",
+    "url": "tg://proxy?server=cab.proxytg.live&port=443&secret=ee172f5214b57f137805957e350d01e0946361622e70726f787974672e6c697665"
   },
   {
-    "server": "desk.proxytg.live",
+    "server": "panel.proxytg.live",
     "port": 443,
-    "secret": "ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665",
-    "url": "tg://proxy?server=desk.proxytg.live&port=443&secret=ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665"
+    "secret": "ee3963b99449e42aab75500a3caee059b870616e656c2e70726f787974672e6c697665",
+    "url": "tg://proxy?server=panel.proxytg.live&port=443&secret=ee3963b99449e42aab75500a3caee059b870616e656c2e70726f787974672e6c697665"
   },
   {
-    "server": "proxy4.arixo.shop",
+    "server": "view.proxytg.live",
     "port": 443,
-    "secret": "ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275",
-    "url": "tg://proxy?server=proxy4.arixo.shop&port=443&secret=ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275"
+    "secret": "ee3624bb4d06c88a513638a3d32327277e766965772e70726f787974672e6c697665",
+    "url": "tg://proxy?server=view.proxytg.live&port=443&secret=ee3624bb4d06c88a513638a3d32327277e766965772e70726f787974672e6c697665"
   }
 ]
