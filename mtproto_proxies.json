@@ -1,20 +1,20 @@
 [
   {
-    "server": "51.250.69.99",
+    "server": "portal.old-but-new.co.uk",
     "port": 443,
-    "secret": "eea20cccd3366ea459a8057d24b1202153617669746f2e7275",
-    "url": "tg://proxy?server=51.250.69.99&port=443&secret=eea20cccd3366ea459a8057d24b1202153617669746f2e7275"
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=portal.old-but-new.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "proxy6.arixo.shop",
-    "port": 443,
-    "secret": "ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275",
-    "url": "tg://proxy?server=proxy6.arixo.shop&port=443&secret=ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275"
+    "server": "ai.kerfilia.info",
+    "port": 6775,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=ai.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "mc-ssh.t-proxyru.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "yours.nolags.pw",
+    "port": 443,
+    "secret": "ddaed3f129a293bdfc23d67204b50bbf87",
+    "url": "tg://proxy?server=yours.nolags.pw&port=443&secret=ddaed3f129a293bdfc23d67204b50bbf87"
   }
 ]
