@@ -1,20 +1,20 @@
 [
   {
-    "server": "vortex.flowstreamhub.site",
+    "server": "bale-ai.vingardium.co.uk",
     "port": 443,
-    "secret": "eeafcde96fcec1b95dd190a95814b0f026766f727465782e666c6f7773747265616d6875622e73697465",
-    "url": "tg://proxy?server=vortex.flowstreamhub.site&port=443&secret=eeafcde96fcec1b95dd190a95814b0f026766f727465782e666c6f7773747265616d6875622e73697465"
+    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=bale-ai.vingardium.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "junior.ir.the-nice-mtproto.info",
-    "port": 88,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-    "url": "tg://proxy?server=junior.ir.the-nice-mtproto.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+    "server": "memory.nolags.pw",
+    "port": 443,
+    "secret": "ddb50d67677180b7c552ffe1ec0579ed76",
+    "url": "tg://proxy?server=memory.nolags.pw&port=443&secret=ddb50d67677180b7c552ffe1ec0579ed76"
   },
   {
-    "server": "kingdom-persia.ir.hey-gardash.info",
-    "port": 1080,
-    "secret": "79e344818749bd7ac519130220c25d09",
-    "url": "tg://proxy?server=kingdom-persia.ir.hey-gardash.info&port=1080&secret=79e344818749bd7ac519130220c25d09"
+    "server": "5.75.199.104",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=5.75.199.104&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
