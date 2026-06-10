@@ -1,20 +1,20 @@
 [
   {
-    "server": "rec.nolags.pw",
+    "server": "office.proxytg.live",
     "port": 443,
-    "secret": "dd0603553657b3f54b6bff0d3759e8db1d",
-    "url": "tg://proxy?server=rec.nolags.pw&port=443&secret=dd0603553657b3f54b6bff0d3759e8db1d"
+    "secret": "eed604acbe90be65ddf34629f1e2234f7d6f66666963652e70726f787974672e6c697665",
+    "url": "tg://proxy?server=office.proxytg.live&port=443&secret=eed604acbe90be65ddf34629f1e2234f7d6f66666963652e70726f787974672e6c697665"
   },
   {
-    "server": "noip.alo-otp.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=noip.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "desk.proxytg.live",
+    "port": 443,
+    "secret": "ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665",
+    "url": "tg://proxy?server=desk.proxytg.live&port=443&secret=ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665"
   },
   {
-    "server": "feed.proxytg.live",
+    "server": "cab.proxytg.live",
     "port": 443,
-    "secret": "ee7c1dc73472aff6b273c603d9713900d1666565642e70726f787974672e6c697665",
-    "url": "tg://proxy?server=feed.proxytg.live&port=443&secret=ee7c1dc73472aff6b273c603d9713900d1666565642e70726f787974672e6c697665"
+    "secret": "ee172f5214b57f137805957e350d01e0946361622e70726f787974672e6c697665",
+    "url": "tg://proxy?server=cab.proxytg.live&port=443&secret=ee172f5214b57f137805957e350d01e0946361622e70726f787974672e6c697665"
   }
 ]
