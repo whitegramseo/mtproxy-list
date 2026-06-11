@@ -1,20 +1,20 @@
 [
   {
-    "server": "jet.quickrouteapp.xyz",
-    "port": 8443,
-    "secret": "eeedca657d767c71c26de484e74182c3076a65742e717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=jet.quickrouteapp.xyz&port=8443&secret=eeedca657d767c71c26de484e74182c3076a65742e717569636b726f7574656170702e78797a"
-  },
-  {
-    "server": "north.nolags.pw",
+    "server": "proxy8.arixo.shop",
     "port": 443,
-    "secret": "dd9760e74174fb9717de21cc7e17027e34",
-    "url": "tg://proxy?server=north.nolags.pw&port=443&secret=dd9760e74174fb9717de21cc7e17027e34"
+    "secret": "eeb244bd047b4e9e68340bf827ab7bd9b1617669746f2e7275",
+    "url": "tg://proxy?server=proxy8.arixo.shop&port=443&secret=eeb244bd047b4e9e68340bf827ab7bd9b1617669746f2e7275"
   },
   {
-    "server": "gw.nowabst.net",
-    "port": 853,
-    "secret": "ee6104d5fd936c4930978f0227166deaa96164732e78352e7275",
-    "url": "tg://proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa96164732e78352e7275"
+    "server": "11.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=11.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+    "server": "proxy7.arixo.shop",
+    "port": 443,
+    "secret": "ee120e6efb5454d0945c4997bf6ea493c4617669746f2e7275",
+    "url": "tg://proxy?server=proxy7.arixo.shop&port=443&secret=ee120e6efb5454d0945c4997bf6ea493c4617669746f2e7275"
   }
 ]
