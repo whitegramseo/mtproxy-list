@@ -1,20 +1,20 @@
 [
   {
-    "server": "zone.nolags.pw",
-    "port": 443,
-    "secret": "dd04d2a884220d45de24af8bade64322ac",
-    "url": "tg://proxy?server=zone.nolags.pw&port=443&secret=dd04d2a884220d45de24af8bade64322ac"
-  },
-  {
-    "server": "fresh.t-proxy.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-    "server": "wb.proxyonline.online",
+    "server": "lava.proxyobhod.online",
     "port": 8443,
-    "secret": "eee8f530985fe58c2518873a7899fd690b77622e70726f78796f6e6c696e652e6f6e6c696e65",
-    "url": "tg://proxy?server=wb.proxyonline.online&port=8443&secret=eee8f530985fe58c2518873a7899fd690b77622e70726f78796f6e6c696e652e6f6e6c696e65"
+    "secret": "eef4a2f9b8134cfed8c6215de541c06cb46c6176612e70726f78796f62686f642e6f6e6c696e65",
+    "url": "tg://proxy?server=lava.proxyobhod.online&port=8443&secret=eef4a2f9b8134cfed8c6215de541c06cb46c6176612e70726f78796f62686f642e6f6e6c696e65"
+  },
+  {
+    "server": "mt.nowabst.net",
+    "port": 853,
+    "secret": "ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275",
+    "url": "tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275"
+  },
+  {
+    "server": "65.109.253.138",
+    "port": 443,
+    "secret": "FgMBAgABAAH8AxOG4kw63Q",
+    "url": "tg://proxy?server=65.109.253.138&port=443&secret=FgMBAgABAAH8AxOG4kw63Q"
   }
 ]
