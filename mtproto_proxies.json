@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy8.arixo.shop",
-    "port": 443,
-    "secret": "eeb244bd047b4e9e68340bf827ab7bd9b1617669746f2e7275",
-    "url": "tg://proxy?server=proxy8.arixo.shop&port=443&secret=eeb244bd047b4e9e68340bf827ab7bd9b1617669746f2e7275"
+    "server": "googel.alo-otp.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=googel.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "11.chunkycorp.shop",
+    "server": "jet.proxyux.site",
     "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=11.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "secret": "eed2024b83c7a14889f7d69bd82ca087c16a65742e70726f787975782e73697465",
+    "url": "tg://proxy?server=jet.proxyux.site&port=443&secret=eed2024b83c7a14889f7d69bd82ca087c16a65742e70726f787975782e73697465"
   },
   {
-    "server": "proxy7.arixo.shop",
+    "server": "flux.proxyux.site",
     "port": 443,
-    "secret": "ee120e6efb5454d0945c4997bf6ea493c4617669746f2e7275",
-    "url": "tg://proxy?server=proxy7.arixo.shop&port=443&secret=ee120e6efb5454d0945c4997bf6ea493c4617669746f2e7275"
+    "secret": "ee0a7ecff0ebda97b34dc84157b8cbfad3666c75782e70726f787975782e73697465",
+    "url": "tg://proxy?server=flux.proxyux.site&port=443&secret=ee0a7ecff0ebda97b34dc84157b8cbfad3666c75782e70726f787975782e73697465"
   }
 ]
