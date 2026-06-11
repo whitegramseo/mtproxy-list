@@ -1,20 +1,20 @@
 [
   {
-    "server": "lava.proxyobhod.online",
-    "port": 8443,
-    "secret": "eef4a2f9b8134cfed8c6215de541c06cb46c6176612e70726f78796f62686f642e6f6e6c696e65",
-    "url": "tg://proxy?server=lava.proxyobhod.online&port=8443&secret=eef4a2f9b8134cfed8c6215de541c06cb46c6176612e70726f78796f62686f642e6f6e6c696e65"
-  },
-  {
-    "server": "mt.nowabst.net",
-    "port": 853,
-    "secret": "ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275",
-    "url": "tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275"
-  },
-  {
-    "server": "65.109.253.138",
+    "server": "country.nolags.pw",
     "port": 443,
-    "secret": "FgMBAgABAAH8AxOG4kw63Q",
-    "url": "tg://proxy?server=65.109.253.138&port=443&secret=FgMBAgABAAH8AxOG4kw63Q"
+    "secret": "ddc5a3afebedae870af378217569f6586c",
+    "url": "tg://proxy?server=country.nolags.pw&port=443&secret=ddc5a3afebedae870af378217569f6586c"
+  },
+  {
+    "server": "the-nice-future.info",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=the-nice-future.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "iranian-cheetah.ir.the-nice-mtproto.info",
+    "port": 88,
+    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=iranian-cheetah.ir.the-nice-mtproto.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   }
 ]
