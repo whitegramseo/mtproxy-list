@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy12.arixo.shop",
+    "server": "proxy14.arixo.shop",
     "port": 443,
-    "secret": "ee353b7f68b074df081359b71a08bac417617669746f2e7275",
-    "url": "tg://proxy?server=proxy12.arixo.shop&port=443&secret=ee353b7f68b074df081359b71a08bac417617669746f2e7275"
+    "secret": "ee3e14c7409631b938a4ad5f0dcee01bc8617669746f2e7275",
+    "url": "tg://proxy?server=proxy14.arixo.shop&port=443&secret=ee3e14c7409631b938a4ad5f0dcee01bc8617669746f2e7275"
   },
   {
-    "server": "12.chunkycorp.shop",
+    "server": "51.250.65.108",
     "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=12.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "secret": "ee3a9f22462890489c0bde045048ff9a17617669746f2e7275",
+    "url": "tg://proxy?server=51.250.65.108&port=443&secret=ee3a9f22462890489c0bde045048ff9a17617669746f2e7275"
   },
   {
-    "server": "167.233.54.153",
+    "server": "rudomain.info",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=167.233.54.153&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   }
 ]
