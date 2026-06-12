@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy14.arixo.shop",
+    "server": "office.proxytg.live",
     "port": 443,
-    "secret": "ee3e14c7409631b938a4ad5f0dcee01bc8617669746f2e7275",
-    "url": "tg://proxy?server=proxy14.arixo.shop&port=443&secret=ee3e14c7409631b938a4ad5f0dcee01bc8617669746f2e7275"
+    "secret": "eed604acbe90be65ddf34629f1e2234f7d6f66666963652e70726f787974672e6c697665",
+    "url": "tg://proxy?server=office.proxytg.live&port=443&secret=eed604acbe90be65ddf34629f1e2234f7d6f66666963652e70726f787974672e6c697665"
   },
   {
-    "server": "51.250.65.108",
+    "server": "desk.proxytg.live",
     "port": 443,
-    "secret": "ee3a9f22462890489c0bde045048ff9a17617669746f2e7275",
-    "url": "tg://proxy?server=51.250.65.108&port=443&secret=ee3a9f22462890489c0bde045048ff9a17617669746f2e7275"
+    "secret": "ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665",
+    "url": "tg://proxy?server=desk.proxytg.live&port=443&secret=ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665"
   },
   {
-    "server": "rudomain.info",
+    "server": "cab.proxytg.live",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "ee172f5214b57f137805957e350d01e0946361622e70726f787974672e6c697665",
+    "url": "tg://proxy?server=cab.proxytg.live&port=443&secret=ee172f5214b57f137805957e350d01e0946361622e70726f787974672e6c697665"
   }
 ]
