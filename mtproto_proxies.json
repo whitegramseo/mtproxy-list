@@ -1,20 +1,20 @@
 [
   {
-    "server": "glide.proxyonline.online",
-    "port": 443,
-    "secret": "eeb4cf448c2c66dc6151b6746bd1799ae5676c6964652e70726f78796f6e6c696e652e6f6e6c696e65",
-    "url": "tg://proxy?server=glide.proxyonline.online&port=443&secret=eeb4cf448c2c66dc6151b6746bd1799ae5676c6964652e70726f78796f6e6c696e652e6f6e6c696e65"
+    "server": "iranian-cheetah.ir.the-nice-mtproto.info",
+    "port": 88,
+    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=iranian-cheetah.ir.the-nice-mtproto.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
-    "server": "desk.proxytg.live",
-    "port": 443,
-    "secret": "ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665",
-    "url": "tg://proxy?server=desk.proxytg.live&port=443&secret=ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665"
+    "server": "new-air-blue-gq.ir.jetish.info",
+    "port": 88,
+    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=new-air-blue-gq.ir.jetish.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   },
   {
-    "server": "office.proxytg.live",
+    "server": "apex.proxytop.space",
     "port": 443,
-    "secret": "eed604acbe90be65ddf34629f1e2234f7d6f66666963652e70726f787974672e6c697665",
-    "url": "tg://proxy?server=office.proxytg.live&port=443&secret=eed604acbe90be65ddf34629f1e2234f7d6f66666963652e70726f787974672e6c697665"
+    "secret": "ee05d3d7463edfb7a674cc1d89ba24eeba617065782e70726f7879746f702e7370616365",
+    "url": "tg://proxy?server=apex.proxytop.space&port=443&secret=ee05d3d7463edfb7a674cc1d89ba24eeba617065782e70726f7879746f702e7370616365"
   }
 ]
