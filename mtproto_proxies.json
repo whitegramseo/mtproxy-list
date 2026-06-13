@@ -1,20 +1,20 @@
 [
   {
-    "server": "last.nolags.pw",
+    "server": "glide.proxyonline.online",
     "port": 443,
-    "secret": "ddab90965a833231bb7c6e024564b75a91",
-    "url": "tg://proxy?server=last.nolags.pw&port=443&secret=ddab90965a833231bb7c6e024564b75a91"
+    "secret": "eeb4cf448c2c66dc6151b6746bd1799ae5676c6964652e70726f78796f6e6c696e652e6f6e6c696e65",
+    "url": "tg://proxy?server=glide.proxyonline.online&port=443&secret=eeb4cf448c2c66dc6151b6746bd1799ae5676c6964652e70726f78796f6e6c696e652e6f6e6c696e65"
   },
   {
-    "server": "just-iraninan.com.the-nice-mtproto.info",
-    "port": 88,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-    "url": "tg://proxy?server=just-iraninan.com.the-nice-mtproto.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+    "server": "desk.proxytg.live",
+    "port": 443,
+    "secret": "ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665",
+    "url": "tg://proxy?server=desk.proxytg.live&port=443&secret=ee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665"
   },
   {
-    "server": "bale-ai.vingardium.co.uk",
+    "server": "office.proxytg.live",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=bale-ai.vingardium.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+    "secret": "eed604acbe90be65ddf34629f1e2234f7d6f66666963652e70726f787974672e6c697665",
+    "url": "tg://proxy?server=office.proxytg.live&port=443&secret=eed604acbe90be65ddf34629f1e2234f7d6f66666963652e70726f787974672e6c697665"
   }
 ]
