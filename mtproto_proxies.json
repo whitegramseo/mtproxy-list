@@ -1,20 +1,20 @@
 [
   {
-    "server": "apex.proxym.world",
-    "port": 443,
-    "secret": "ee4459d77ba2b570d1a593a478d3cd94a4617065782e70726f78796d2e776f726c64",
-    "url": "tg://proxy?server=apex.proxym.world&port=443&secret=ee4459d77ba2b570d1a593a478d3cd94a4617065782e70726f78796d2e776f726c64"
+    "server": "moh.kingproxynewdomailasiatech.ink",
+    "port": 25565,
+    "secret": "FgMBAgABAAH8AxOG4kw63Q",
+    "url": "tg://proxy?server=moh.kingproxynewdomailasiatech.ink&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q"
   },
   {
-    "server": "echo.proxym.world",
+    "server": "portal.old-but-new.co.uk",
     "port": 443,
-    "secret": "ee03856fdd3a0b54784892677df90144a06563686f2e70726f78796d2e776f726c64",
-    "url": "tg://proxy?server=echo.proxym.world&port=443&secret=ee03856fdd3a0b54784892677df90144a06563686f2e70726f78796d2e776f726c64"
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=portal.old-but-new.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "b8rta.co.uk",
+    "server": "jet.proxym.world",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=b8rta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee894a8e1c70d3ec137af76968609e04666a65742e70726f78796d2e776f726c64",
+    "url": "tg://proxy?server=jet.proxym.world&port=443&secret=ee894a8e1c70d3ec137af76968609e04666a65742e70726f78796d2e776f726c64"
   }
 ]
