@@ -1,20 +1,20 @@
 [
   {
-    "server": "moh.kingproxynewdomailasiatech.ink",
-    "port": 25565,
-    "secret": "FgMBAgABAAH8AxOG4kw63Q",
-    "url": "tg://proxy?server=moh.kingproxynewdomailasiatech.ink&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q"
+    "server": "onyx.proxytg.live",
+    "port": 443,
+    "secret": "ee8e4bd7b2a034418fd924aeed3c97cd7b6f6e79782e70726f787974672e6c697665",
+    "url": "tg://proxy?server=onyx.proxytg.live&port=443&secret=ee8e4bd7b2a034418fd924aeed3c97cd7b6f6e79782e70726f787974672e6c697665"
   },
   {
-    "server": "web.prxtoday.store",
+    "server": "176.65.135.69",
     "port": 443,
-    "secret": "ee7a5660b84770213722fe3581bcb17faa7765622e707278746f6461792e73746f7265",
-    "url": "tg://proxy?server=web.prxtoday.store&port=443&secret=ee7a5660b84770213722fe3581bcb17faa7765622e707278746f6461792e73746f7265"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "vpn.prxtoday.store",
+    "server": "my.proxyz.site",
     "port": 443,
-    "secret": "ee29260362b2497c092e631593a534e5a376706e2e707278746f6461792e73746f7265",
-    "url": "tg://proxy?server=vpn.prxtoday.store&port=443&secret=ee29260362b2497c092e631593a534e5a376706e2e707278746f6461792e73746f7265"
+    "secret": "ee0a9ab2b66d72b6797fa11106f55707056d792e70726f78797a2e73697465",
+    "url": "tg://proxy?server=my.proxyz.site&port=443&secret=ee0a9ab2b66d72b6797fa11106f55707056d792e70726f78797a2e73697465"
   }
 ]
