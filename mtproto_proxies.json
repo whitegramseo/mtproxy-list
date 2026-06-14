@@ -1,20 +1,20 @@
 [
   {
-    "server": "fresh.t-proxy.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "static.prxtoday.store",
+    "port": 443,
+    "secret": "ee3740849efd941157c45810d974fd66097374617469632e707278746f6461792e73746f7265",
+    "url": "tg://proxy?server=static.prxtoday.store&port=443&secret=ee3740849efd941157c45810d974fd66097374617469632e707278746f6461792e73746f7265"
   },
   {
-    "server": "cloud.prx.today",
+    "server": "app.prxtoday.store",
     "port": 443,
-    "secret": "eeda2d39fb15ca8ddb6582b915b149465c636c6f75642e7072782e746f646179",
-    "url": "tg://proxy?server=cloud.prx.today&port=443&secret=eeda2d39fb15ca8ddb6582b915b149465c636c6f75642e7072782e746f646179"
+    "secret": "ee1ee902d3b8cc7c7f1691838d544efee96170702e707278746f6461792e73746f7265",
+    "url": "tg://proxy?server=app.prxtoday.store&port=443&secret=ee1ee902d3b8cc7c7f1691838d544efee96170702e707278746f6461792e73746f7265"
   },
   {
-    "server": "files.prx.today",
-    "port": 443,
-    "secret": "eed19f9c1acf32e3b20825add6d073f07866696c65732e7072782e746f646179",
-    "url": "tg://proxy?server=files.prx.today&port=443&secret=eed19f9c1acf32e3b20825add6d073f07866696c65732e7072782e746f646179"
+    "server": "form.quickdl.info",
+    "port": 22,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=form.quickdl.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   }
 ]
