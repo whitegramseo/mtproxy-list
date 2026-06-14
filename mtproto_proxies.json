@@ -1,20 +1,20 @@
 [
   {
-    "server": "static.prxtoday.store",
+    "server": "65.108.126.206",
     "port": 443,
-    "secret": "ee3740849efd941157c45810d974fd66097374617469632e707278746f6461792e73746f7265",
-    "url": "tg://proxy?server=static.prxtoday.store&port=443&secret=ee3740849efd941157c45810d974fd66097374617469632e707278746f6461792e73746f7265"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=65.108.126.206&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "app.prxtoday.store",
+    "server": "65.21.83.248",
     "port": 443,
-    "secret": "ee1ee902d3b8cc7c7f1691838d544efee96170702e707278746f6461792e73746f7265",
-    "url": "tg://proxy?server=app.prxtoday.store&port=443&secret=ee1ee902d3b8cc7c7f1691838d544efee96170702e707278746f6461792e73746f7265"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "form.quickdl.info",
-    "port": 22,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=form.quickdl.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "server": "node.prx.today",
+    "port": 443,
+    "secret": "ee4fc23f27cad414e0ca758692e060323a6e6f64652e7072782e746f646179",
+    "url": "tg://proxy?server=node.prx.today&port=443&secret=ee4fc23f27cad414e0ca758692e060323a6e6f64652e7072782e746f646179"
   }
 ]
