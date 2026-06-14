@@ -1,20 +1,20 @@
 [
   {
-    "server": "51.250.3.250",
+    "server": "live.proxyvpn.site",
     "port": 443,
-    "secret": "eed449877a1e5b7a264124d13085899647617669746f2e7275",
-    "url": "tg://proxy?server=51.250.3.250&port=443&secret=eed449877a1e5b7a264124d13085899647617669746f2e7275"
+    "secret": "eed2430edff0d3fc503099f982282bd0066c6976652e70726f787976706e2e73697465",
+    "url": "tg://proxy?server=live.proxyvpn.site&port=443&secret=eed2430edff0d3fc503099f982282bd0066c6976652e70726f787976706e2e73697465"
   },
   {
-    "server": "proxy18.arixo.shop",
+    "server": "play.proxyvpn.site",
     "port": 443,
-    "secret": "ee819b4efa2397a9470682aae92babee31617669746f2e7275",
-    "url": "tg://proxy?server=proxy18.arixo.shop&port=443&secret=ee819b4efa2397a9470682aae92babee31617669746f2e7275"
+    "secret": "ee4d0c82ca73f261e6933ec36e5d902ff6706c61792e70726f787976706e2e73697465",
+    "url": "tg://proxy?server=play.proxyvpn.site&port=443&secret=ee4d0c82ca73f261e6933ec36e5d902ff6706c61792e70726f787976706e2e73697465"
   },
   {
-    "server": "51.250.75.98",
-    "port": 443,
-    "secret": "ee2af448fb2a21cb48d6b3872514134fb7617669746f2e7275",
-    "url": "tg://proxy?server=51.250.75.98&port=443&secret=ee2af448fb2a21cb48d6b3872514134fb7617669746f2e7275"
+    "server": "mt.nowabst.net",
+    "port": 853,
+    "secret": "7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU",
+    "url": "tg://proxy?server=mt.nowabst.net&port=853&secret=7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU"
   }
 ]
