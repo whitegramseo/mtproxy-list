@@ -1,20 +1,20 @@
 [
   {
-    "server": "geng.etherealvpn.uk",
-    "port": 443,
-    "secret": "eefd6c10517940b3ad79ce5e3d40c9972e617669746f2e7275",
-    "url": "tg://proxy?server=geng.etherealvpn.uk&port=443&secret=eefd6c10517940b3ad79ce5e3d40c9972e617669746f2e7275"
+    "server": "mt.nowabst.net",
+    "port": 853,
+    "secret": "7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU",
+    "url": "tg://proxy?server=mt.nowabst.net&port=853&secret=7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU"
   },
   {
-    "server": "proxy46.arixo.shop",
-    "port": 443,
-    "secret": "eef77eebc21b12355a1323f135cecd7e35617669746f2e7275",
-    "url": "tg://proxy?server=proxy46.arixo.shop&port=443&secret=eef77eebc21b12355a1323f135cecd7e35617669746f2e7275"
+    "server": "mtp.nowabst.net",
+    "port": 853,
+    "secret": "7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU",
+    "url": "tg://proxy?server=mtp.nowabst.net&port=853&secret=7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU"
   },
   {
-    "server": "93.77.181.195",
-    "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=93.77.181.195&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "server": "gw.nowabst.net",
+    "port": 853,
+    "secret": "7mEE1f2TbEkwl48CJxZt6qlhZHMueDUucnU",
+    "url": "tg://proxy?server=gw.nowabst.net&port=853&secret=7mEE1f2TbEkwl48CJxZt6qlhZHMueDUucnU"
   }
 ]
