@@ -1,20 +1,20 @@
 [
   {
-    "server": "mt.nowabst.net",
-    "port": 853,
-    "secret": "7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU",
-    "url": "tg://proxy?server=mt.nowabst.net&port=853&secret=7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU"
+    "server": "get.utkanos.life",
+    "port": 443,
+    "secret": "ee9657c0f5d3500ab1649000fcd8a0ad816765742e75746b616e6f732e6c696665",
+    "url": "tg://proxy?server=get.utkanos.life&port=443&secret=ee9657c0f5d3500ab1649000fcd8a0ad816765742e75746b616e6f732e6c696665"
   },
   {
-    "server": "mtp.nowabst.net",
-    "port": 853,
-    "secret": "7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU",
-    "url": "tg://proxy?server=mtp.nowabst.net&port=853&secret=7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU"
+    "server": "fast.garden-troll.life",
+    "port": 443,
+    "secret": "eec90c608f031e8b582a2047afce34175f666173742e67617264656e2d74726f6c6c2e6c696665",
+    "url": "tg://proxy?server=fast.garden-troll.life&port=443&secret=eec90c608f031e8b582a2047afce34175f666173742e67617264656e2d74726f6c6c2e6c696665"
   },
   {
-    "server": "gw.nowabst.net",
-    "port": 853,
-    "secret": "7mEE1f2TbEkwl48CJxZt6qlhZHMueDUucnU",
-    "url": "tg://proxy?server=gw.nowabst.net&port=853&secret=7mEE1f2TbEkwl48CJxZt6qlhZHMueDUucnU"
+    "server": "rudomain.info",
+    "port": 443,
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   }
 ]
