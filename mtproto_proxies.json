@@ -1,20 +1,20 @@
 [
   {
-    "server": "portal.malevich7.top",
+    "server": "proxy58.arixo.shop",
     "port": 443,
-    "secret": "ee485df0201883028a6eb46b55fd937b4f706f7274616c2e6d616c6576696368372e746f70",
-    "url": "tg://proxy?server=portal.malevich7.top&port=443&secret=ee485df0201883028a6eb46b55fd937b4f706f7274616c2e6d616c6576696368372e746f70"
+    "secret": "ee8edad608bde1fdeff595d0075818341b617669746f2e7275",
+    "url": "tg://proxy?server=proxy58.arixo.shop&port=443&secret=ee8edad608bde1fdeff595d0075818341b617669746f2e7275"
   },
   {
-    "server": "edge.rknwatch.digital",
+    "server": "93.77.191.135",
     "port": 443,
-    "secret": "eed0f9c2e89d0ec7e0c52dadb85149c3a7656467652e726b6e77617463682e6469676974616c",
-    "url": "tg://proxy?server=edge.rknwatch.digital&port=443&secret=eed0f9c2e89d0ec7e0c52dadb85149c3a7656467652e726b6e77617463682e6469676974616c"
+    "secret": "ee2adf378e4dda51ba74fcdfa375e9ef1a617669746f2e7275",
+    "url": "tg://proxy?server=93.77.191.135&port=443&secret=ee2adf378e4dda51ba74fcdfa375e9ef1a617669746f2e7275"
   },
   {
-    "server": "167.233.54.153",
+    "server": "51.250.12.63",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=167.233.54.153&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=51.250.12.63&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
 ]
