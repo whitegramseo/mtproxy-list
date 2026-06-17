@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy58.arixo.shop",
+    "server": "cdn.toconvel.digital",
     "port": 443,
-    "secret": "ee8edad608bde1fdeff595d0075818341b617669746f2e7275",
-    "url": "tg://proxy?server=proxy58.arixo.shop&port=443&secret=ee8edad608bde1fdeff595d0075818341b617669746f2e7275"
+    "secret": "eeddeeeeb0dda28d2a517ff1c71036f2c663646e2e746f636f6e76656c2e6469676974616c",
+    "url": "tg://proxy?server=cdn.toconvel.digital&port=443&secret=eeddeeeeb0dda28d2a517ff1c71036f2c663646e2e746f636f6e76656c2e6469676974616c"
   },
   {
-    "server": "93.77.191.135",
+    "server": "secure.medhata.org",
     "port": 443,
-    "secret": "ee2adf378e4dda51ba74fcdfa375e9ef1a617669746f2e7275",
-    "url": "tg://proxy?server=93.77.191.135&port=443&secret=ee2adf378e4dda51ba74fcdfa375e9ef1a617669746f2e7275"
+    "secret": "ee7304893354c81b4c1ed4fc4716f838007365637572652e6d6564686174612e6f7267",
+    "url": "tg://proxy?server=secure.medhata.org&port=443&secret=ee7304893354c81b4c1ed4fc4716f838007365637572652e6d6564686174612e6f7267"
   },
   {
-    "server": "51.250.12.63",
-    "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=51.250.12.63&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "server": "stand-for-iran.ir.mausjakaqd.info",
+    "port": 88,
+    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=stand-for-iran.ir.mausjakaqd.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   }
 ]
