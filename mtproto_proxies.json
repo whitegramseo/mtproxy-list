@@ -1,20 +1,20 @@
 [
   {
-    "server": "103.161.35.23",
+    "server": "login.klyuch1k.org",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "ee7fe48cfdec0ea3ef252cabc2fadda0206c6f67696e2e6b6c79756368316b2e6f7267",
+    "url": "tg://proxy?server=login.klyuch1k.org&port=443&secret=ee7fe48cfdec0ea3ef252cabc2fadda0206c6f67696e2e6b6c79756368316b2e6f7267"
   },
   {
-    "server": "mtp.nowabst.net",
-    "port": 853,
-    "secret": "7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU",
-    "url": "tg://proxy?server=mtp.nowabst.net&port=853&secret=7oLOH4SvQDPMfnsCEGm-PVthZHMueDUucnU"
+    "server": "edge.rknwatch.digital",
+    "port": 443,
+    "secret": "ee9e8767a28148936ae7e50eb9b0689a49656467652e726b6e77617463682e6469676974616c",
+    "url": "tg://proxy?server=edge.rknwatch.digital&port=443&secret=ee9e8767a28148936ae7e50eb9b0689a49656467652e726b6e77617463682e6469676974616c"
   },
   {
-    "server": "mt.nowabst.net",
-    "port": 853,
-    "secret": "7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU",
-    "url": "tg://proxy?server=mt.nowabst.net&port=853&secret=7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU"
+    "server": "iran.mother.ir.jetish.info",
+    "port": 88,
+    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=iran.mother.ir.jetish.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
   }
 ]
