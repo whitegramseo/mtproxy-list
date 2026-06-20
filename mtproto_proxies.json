@@ -1,20 +1,20 @@
 [
   {
-    "server": "zinova.co.uk",
+    "server": "cdn.toconvel.digital",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=zinova.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee40e625d3286a6e8aeab9fa83bea77e1763646e2e746f636f6e76656c2e6469676974616c",
+    "url": "tg://proxy?server=cdn.toconvel.digital&port=443&secret=ee40e625d3286a6e8aeab9fa83bea77e1763646e2e746f636f6e76656c2e6469676974616c"
   },
   {
-    "server": "kha8shen.co.uk",
+    "server": "secure.medhata.org",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=kha8shen.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee5e2b1fd30d641d0a1a5f8dbf932d8ce57365637572652e6d6564686174612e6f7267",
+    "url": "tg://proxy?server=secure.medhata.org&port=443&secret=ee5e2b1fd30d641d0a1a5f8dbf932d8ce57365637572652e6d6564686174612e6f7267"
   },
   {
-    "server": "167.233.48.222",
+    "server": "www2.nilmart.ir",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=167.233.48.222&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=www2.nilmart.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   }
 ]
