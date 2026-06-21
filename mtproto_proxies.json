@@ -1,20 +1,20 @@
 [
   {
-    "server": "ns2.what-ever.co.uk",
+    "server": "cdn.savelyev.click",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=ns2.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+    "secret": "ee96c7c43d46625840bd7b75721a74a43063646e2e736176656c7965762e636c69636b",
+    "url": "tg://proxy?server=cdn.savelyev.click&port=443&secret=ee96c7c43d46625840bd7b75721a74a43063646e2e736176656c7965762e636c69636b"
   },
   {
-    "server": "ns1.what-ever.co.uk",
+    "server": "secure.gorbushkin.click",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=ns1.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+    "secret": "eecab4484829951a99c587564657b51ad37365637572652e676f72627573686b696e2e636c69636b",
+    "url": "tg://proxy?server=secure.gorbushkin.click&port=443&secret=eecab4484829951a99c587564657b51ad37365637572652e676f72627573686b696e2e636c69636b"
   },
   {
-    "server": "bale-ai.vingardium.co.uk",
+    "server": "kha8shen.co.uk",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=bale-ai.vingardium.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=kha8shen.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
 ]
