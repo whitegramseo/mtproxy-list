@@ -1,20 +1,20 @@
 [
   {
-    "server": "link.mishkalapy.life",
-    "port": 443,
-    "secret": "ee80d2a0b89c37faf98e5a7f4d1e7faed56c696e6b2e6d6973686b616c6170792e6c696665",
-    "url": "tg://proxy?server=link.mishkalapy.life&port=443&secret=ee80d2a0b89c37faf98e5a7f4d1e7faed56c696e6b2e6d6973686b616c6170792e6c696665"
-  },
-  {
-    "server": "cloud.neoqua.pro",
-    "port": 443,
-    "secret": "eef570e529904a0963c6bf64b2f0eea428636c6f75642e6e656f7175612e70726f",
-    "url": "tg://proxy?server=cloud.neoqua.pro&port=443&secret=eef570e529904a0963c6bf64b2f0eea428636c6f75642e6e656f7175612e70726f"
-  },
-  {
-    "server": "zinova.co.uk",
+    "server": "kha8shen.co.uk",
     "port": 443,
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=zinova.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "url": "tg://proxy?server=kha8shen.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+    "server": "34.51.255.77",
+    "port": 443,
+    "secret": "dd111304d9c2b55a043efd8139aaf51ef5",
+    "url": "tg://proxy?server=34.51.255.77&port=443&secret=dd111304d9c2b55a043efd8139aaf51ef5"
+  },
+  {
+    "server": "mc-ssh.t-proxyru.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   }
 ]
