@@ -1,20 +1,20 @@
 [
   {
-    "server": "link.mishkalapy.life",
+    "server": "login.klyuch1k.org",
     "port": 443,
-    "secret": "ee80d2a0b89c37faf98e5a7f4d1e7faed56c696e6b2e6d6973686b616c6170792e6c696665",
-    "url": "tg://proxy?server=link.mishkalapy.life&port=443&secret=ee80d2a0b89c37faf98e5a7f4d1e7faed56c696e6b2e6d6973686b616c6170792e6c696665"
+    "secret": "ee62ae22cb0b6c1eb6a62d54ed50ec6c886c6f67696e2e6b6c79756368316b2e6f7267",
+    "url": "tg://proxy?server=login.klyuch1k.org&port=443&secret=ee62ae22cb0b6c1eb6a62d54ed50ec6c886c6f67696e2e6b6c79756368316b2e6f7267"
   },
   {
-    "server": "cloud.neoqua.pro",
+    "server": "edge.rknwatch.digital",
     "port": 443,
-    "secret": "eef570e529904a0963c6bf64b2f0eea428636c6f75642e6e656f7175612e70726f",
-    "url": "tg://proxy?server=cloud.neoqua.pro&port=443&secret=eef570e529904a0963c6bf64b2f0eea428636c6f75642e6e656f7175612e70726f"
+    "secret": "ee397bf98c6a764847422230903659df80656467652e726b6e77617463682e6469676974616c",
+    "url": "tg://proxy?server=edge.rknwatch.digital&port=443&secret=ee397bf98c6a764847422230903659df80656467652e726b6e77617463682e6469676974616c"
   },
   {
-    "server": "zinova.co.uk",
+    "server": "kha8shen.co.uk",
     "port": 443,
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=zinova.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "url": "tg://proxy?server=kha8shen.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
 ]
