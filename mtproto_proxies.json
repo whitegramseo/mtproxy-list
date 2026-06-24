@@ -1,20 +1,20 @@
 [
   {
-    "server": "tg.nowabst.net",
-    "port": 853,
-    "secret": "eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275",
-    "url": "tg://proxy?server=tg.nowabst.net&port=853&secret=eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275"
+    "server": "34.51.192.156",
+    "port": 443,
+    "secret": "dd99c304c8857034be7df934a6e5a95032",
+    "url": "tg://proxy?server=34.51.192.156&port=443&secret=dd99c304c8857034be7df934a6e5a95032"
   },
   {
-    "server": "link.nowabst.net",
-    "port": 853,
-    "secret": "ee1bbdcdcfd200974bb999813180a127386164732e78352e7275",
-    "url": "tg://proxy?server=link.nowabst.net&port=853&secret=ee1bbdcdcfd200974bb999813180a127386164732e78352e7275"
+    "server": "5.75.155.1",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=5.75.155.1&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "googel.alo-otp.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=googel.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "65.109.247.142",
+    "port": 85,
+    "secret": "FgMBAgABAAH8AxOG4kw63Q",
+    "url": "tg://proxy?server=65.109.247.142&port=85&secret=FgMBAgABAAH8AxOG4kw63Q"
   }
 ]
