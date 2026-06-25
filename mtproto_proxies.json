@@ -1,20 +1,20 @@
 [
   {
-    "server": "login.kerfilia.info",
-    "port": 6775,
-    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
+    "server": "65.108.126.206",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=65.108.126.206&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "get.utkanos.life",
+    "server": "103.161.35.23",
     "port": 443,
-    "secret": "ee50bc25d9708e2abc9d39ff7c654de9a26765742e75746b616e6f732e6c696665",
-    "url": "tg://proxy?server=get.utkanos.life&port=443&secret=ee50bc25d9708e2abc9d39ff7c654de9a26765742e75746b616e6f732e6c696665"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "fast.garden-troll.life",
+    "server": "34.51.192.156",
     "port": 443,
-    "secret": "ee0c3f91dda87adc073a65d989972871ec666173742e67617264656e2d74726f6c6c2e6c696665",
-    "url": "tg://proxy?server=fast.garden-troll.life&port=443&secret=ee0c3f91dda87adc073a65d989972871ec666173742e67617264656e2d74726f6c6c2e6c696665"
+    "secret": "dd99c304c8857034be7df934a6e5a95032",
+    "url": "tg://proxy?server=34.51.192.156&port=443&secret=dd99c304c8857034be7df934a6e5a95032"
   }
 ]
