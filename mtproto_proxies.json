@@ -1,20 +1,20 @@
 [
   {
-    "server": "cdn.toconvel.digital",
+    "server": "34.51.227.196",
     "port": 443,
-    "secret": "ee8914fddd76fcf81589e32f7044f2ef3c63646e2e746f636f6e76656c2e6469676974616c",
-    "url": "tg://proxy?server=cdn.toconvel.digital&port=443&secret=ee8914fddd76fcf81589e32f7044f2ef3c63646e2e746f636f6e76656c2e6469676974616c"
+    "secret": "dd3cec606d9be26a99756789121ce87239",
+    "url": "tg://proxy?server=34.51.227.196&port=443&secret=dd3cec606d9be26a99756789121ce87239"
   },
   {
-    "server": "87.120.216.254",
+    "server": "logs.jinxandjack.co.uk",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=87.120.216.254&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "138.124.33.176",
+    "server": "fast.garden-troll.life",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=138.124.33.176&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "secret": "ee0c3f91dda87adc073a65d989972871ec666173742e67617264656e2d74726f6c6c2e6c696665",
+    "url": "tg://proxy?server=fast.garden-troll.life&port=443&secret=ee0c3f91dda87adc073a65d989972871ec666173742e67617264656e2d74726f6c6c2e6c696665"
   }
 ]
