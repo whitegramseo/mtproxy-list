@@ -1,20 +1,20 @@
 [
   {
-    "server": "65.108.126.206",
+    "server": "ad2.arixo.shop",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.108.126.206&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70",
+    "url": "tg://proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
   },
   {
-    "server": "103.161.35.23",
+    "server": "ethereal1.arixo.shop",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "eed38044efdfe3e067bbe3e6a683a07de4657468657265616c312e617269786f2e73686f70",
+    "url": "tg://proxy?server=ethereal1.arixo.shop&port=443&secret=eed38044efdfe3e067bbe3e6a683a07de4657468657265616c312e617269786f2e73686f70"
   },
   {
-    "server": "34.51.192.156",
+    "server": "proxy6.chunkycorp.shop",
     "port": 443,
-    "secret": "dd99c304c8857034be7df934a6e5a95032",
-    "url": "tg://proxy?server=34.51.192.156&port=443&secret=dd99c304c8857034be7df934a6e5a95032"
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=proxy6.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
 ]
