@@ -1,20 +1,20 @@
 [
   {
-    "server": "best-sellerst.co.uk",
+    "server": "o.turboproxy.pro",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=best-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476",
+    "url": "tg://proxy?server=o.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476"
   },
   {
-    "server": "proxy8.chunkycorp.shop",
+    "server": "tw.turboproxy.pro",
     "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=proxy8.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "secret": "ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476",
+    "url": "tg://proxy?server=tw.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476"
   },
   {
-    "server": "ad1.arixo.shop",
+    "server": "th.turboproxy.pro",
     "port": 443,
-    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70",
-    "url": "tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
+    "secret": "ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476",
+    "url": "tg://proxy?server=th.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476"
   }
 ]
