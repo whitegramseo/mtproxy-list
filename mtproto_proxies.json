@@ -1,20 +1,20 @@
 [
   {
-    "server": "br.kingproxynewdomailasiatech.ink",
-    "port": 22,
-    "secret": "dd79e7010200010007f0030386e24c3add",
-    "url": "tg://proxy?server=br.kingproxynewdomailasiatech.ink&port=22&secret=dd79e7010200010007f0030386e24c3add"
+    "server": "135.181.129.178",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=135.181.129.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "wan.asiaadomainsshatelhamrahaval.co.uk",
+    "server": "92.246.87.243",
     "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=wan.asiaadomainsshatelhamrahaval.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=92.246.87.243&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "mail.muffinnoliershatelcomingsoon.co.uk",
+    "server": "34.6.97.246",
     "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=mail.muffinnoliershatelcomingsoon.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+    "secret": "dde15c0efa2f77bf7378cb3dc8cea5ddde",
+    "url": "tg://proxy?server=34.6.97.246&port=443&secret=dde15c0efa2f77bf7378cb3dc8cea5ddde"
   }
 ]
