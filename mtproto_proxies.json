@@ -1,20 +1,20 @@
 [
   {
-    "server": "109.122.198.203",
+    "server": "34.7.181.135",
+    "port": 443,
+    "secret": "ddebf4e93d8565ca5d242efe5aa70822c3",
+    "url": "tg://proxy?server=34.7.181.135&port=443&secret=ddebf4e93d8565ca5d242efe5aa70822c3"
+  },
+  {
+    "server": "tanzibjf.club",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=109.122.198.203&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "url": "tg://proxy?server=tanzibjf.club&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "node.nowabst.net",
-    "port": 853,
-    "secret": "eef17eaf287401413739814ccc05a709a66164732e78352e7275",
-    "url": "tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275"
-  },
-  {
-    "server": "br.nowabst.net",
-    "port": 853,
-    "secret": "ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275",
-    "url": "tg://proxy?server=br.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275"
+    "server": "95.85.230.56",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=95.85.230.56&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   }
 ]
