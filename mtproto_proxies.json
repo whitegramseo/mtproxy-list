@@ -1,20 +1,20 @@
 [
   {
-    "server": "109.122.198.203",
+    "server": "portal.balalaika.click",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=109.122.198.203&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "secret": "eed9b57dfbf5b124dd877540301c89c774706f7274616c2e62616c616c61696b612e636c69636b",
+    "url": "tg://proxy?server=portal.balalaika.click&port=443&secret=eed9b57dfbf5b124dd877540301c89c774706f7274616c2e62616c616c61696b612e636c69636b"
   },
   {
-    "server": "node.nowabst.net",
-    "port": 853,
-    "secret": "eef17eaf287401413739814ccc05a709a66164732e78352e7275",
-    "url": "tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275"
+    "server": "go.antitspu.com",
+    "port": 443,
+    "secret": "ee6217919fd71929ed6ab41f8d01e20298676f2e616e7469747370752e636f6d",
+    "url": "tg://proxy?server=go.antitspu.com&port=443&secret=ee6217919fd71929ed6ab41f8d01e20298676f2e616e7469747370752e636f6d"
   },
   {
-    "server": "br.nowabst.net",
-    "port": 853,
-    "secret": "ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275",
-    "url": "tg://proxy?server=br.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275"
+    "server": "login.kerfilia.info",
+    "port": 6775,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
   }
 ]
