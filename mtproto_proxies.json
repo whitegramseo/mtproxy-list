@@ -1,20 +1,20 @@
 [
   {
-    "server": "coffee.sattarbox.co.uk",
+    "server": "mc-ssh.t-proxyru.info",
     "port": 25565,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=coffee.sattarbox.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "login.klyuch1k.org",
+    "server": "so-cpu.co.uk",
     "port": 443,
-    "secret": "eecabbd4d9fd4481bbb66bcaf9f424d7c56c6f67696e2e6b6c79756368316b2e6f7267",
-    "url": "tg://proxy?server=login.klyuch1k.org&port=443&secret=eecabbd4d9fd4481bbb66bcaf9f424d7c56c6f67696e2e6b6c79756368316b2e6f7267"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=so-cpu.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "edge.rknwatch.digital",
+    "server": "cdn.savelyev.click",
     "port": 443,
-    "secret": "ee7af7548a786b6603566172b91f413637656467652e726b6e77617463682e6469676974616c",
-    "url": "tg://proxy?server=edge.rknwatch.digital&port=443&secret=ee7af7548a786b6603566172b91f413637656467652e726b6e77617463682e6469676974616c"
+    "secret": "ee16fa5356dcb833ae6b28d954fb70e08263646e2e736176656c7965762e636c69636b",
+    "url": "tg://proxy?server=cdn.savelyev.click&port=443&secret=ee16fa5356dcb833ae6b28d954fb70e08263646e2e736176656c7965762e636c69636b"
   }
 ]
