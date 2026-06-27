@@ -1,20 +1,20 @@
 [
   {
-    "server": "fresh.t-proxy.info",
+    "server": "portal.malevich7.top",
+    "port": 443,
+    "secret": "eec81c41c38a9c5f7dee946eb5392d760f706f7274616c2e6d616c6576696368372e746f70",
+    "url": "tg://proxy?server=portal.malevich7.top&port=443&secret=eec81c41c38a9c5f7dee946eb5392d760f706f7274616c2e6d616c6576696368372e746f70"
+  },
+  {
+    "server": "gorbeye-7000-sale.asiaadomainsshatelhamrahaval.co.uk",
+    "port": 443,
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=gorbeye-7000-sale.asiaadomainsshatelhamrahaval.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+  },
+  {
+    "server": "moh.kingproxynewdomailasiatech.ink",
     "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-    "server": "rudomain.info",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-    "server": "login.klyuch1k.org",
-    "port": 443,
-    "secret": "eec9a190b323e85637c2cd236cc7b544216c6f67696e2e6b6c79756368316b2e6f7267",
-    "url": "tg://proxy?server=login.klyuch1k.org&port=443&secret=eec9a190b323e85637c2cd236cc7b544216c6f67696e2e6b6c79756368316b2e6f7267"
+    "secret": "FgMBAgABAAH8AxOG4kw63Q",
+    "url": "tg://proxy?server=moh.kingproxynewdomailasiatech.ink&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q"
   }
 ]
