@@ -1,20 +1,20 @@
 [
   {
-    "server": "edge.rknwatch.digital",
-    "port": 443,
-    "secret": "ee1f46fcc7e9b3991677f71d2c1cb2ac92656467652e726b6e77617463682e6469676974616c",
-    "url": "tg://proxy?server=edge.rknwatch.digital&port=443&secret=ee1f46fcc7e9b3991677f71d2c1cb2ac92656467652e726b6e77617463682e6469676974616c"
+    "server": "fresh.t-proxy.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "login.klyuch1k.org",
+    "server": "rudomain.info",
     "port": 443,
-    "secret": "eec9a190b323e85637c2cd236cc7b544216c6f67696e2e6b6c79756368316b2e6f7267",
-    "url": "tg://proxy?server=login.klyuch1k.org&port=443&secret=eec9a190b323e85637c2cd236cc7b544216c6f67696e2e6b6c79756368316b2e6f7267"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "ge.nowabst.net",
+    "server": "pl.nowabst.net",
     "port": 853,
-    "secret": "ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d",
-    "url": "tg://proxy?server=ge.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d"
+    "secret": "ee82ce1f84af4033cc7e7b021069be3d5b766b2e636f6d",
+    "url": "tg://proxy?server=pl.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b766b2e636f6d"
   }
 ]
