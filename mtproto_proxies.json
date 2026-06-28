@@ -1,20 +1,20 @@
 [
   {
-    "server": "138.124.33.176",
+    "server": "ru1.loveproxy.xyz",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=138.124.33.176&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "secret": "ee10a9bbc28226bf8b41915af388cd4eb562726f777365722e79616e6465782e7275",
+    "url": "tg://proxy?server=ru1.loveproxy.xyz&port=443&secret=ee10a9bbc28226bf8b41915af388cd4eb562726f777365722e79616e6465782e7275"
   },
   {
-    "server": "tanzibjf.club",
+    "server": "ru2.loveproxy.xyz",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=tanzibjf.club&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "secret": "ee10a9bbc28226bf8b41915af388cd4eb562726f777365722e79616e6465782e7275",
+    "url": "tg://proxy?server=ru2.loveproxy.xyz&port=443&secret=ee10a9bbc28226bf8b41915af388cd4eb562726f777365722e79616e6465782e7275"
   },
   {
-    "server": "109.122.198.203",
+    "server": "www2.acientirani-uor4.ir",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=109.122.198.203&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+    "url": "tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   }
 ]
