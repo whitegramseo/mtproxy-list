@@ -1,20 +1,20 @@
 [
   {
-    "server": "link.freetg.pw",
+    "server": "138.124.33.176",
     "port": 443,
-    "secret": "ee1d89eb222800da9e0dca07e51883b2916c696e6b2e6672656574672e7077",
-    "url": "tg://proxy?server=link.freetg.pw&port=443&secret=ee1d89eb222800da9e0dca07e51883b2916c696e6b2e6672656574672e7077"
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=138.124.33.176&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "strait-of-hormuz.ir.jursdheks.info",
-    "port": 88,
-    "secret": "ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=strait-of-hormuz.ir.jursdheks.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d"
+    "server": "tanzibjf.club",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=tanzibjf.club&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "full-vasl.ir-xyz.gdhbvjshjrf.info",
-    "port": 88,
-    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=full-vasl.ir-xyz.gdhbvjshjrf.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+    "server": "109.122.198.203",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=109.122.198.203&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   }
 ]
