@@ -1,20 +1,20 @@
 [
   {
-    "server": "ftp.jinxandjack.co.uk",
-    "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+    "server": "fresh.t-proxy.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "webhook.darkmoon.ir",
+    "server": "rudomain.info",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=webhook.darkmoon.ir&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "login.klyuch1k.org",
+    "server": "portal.balalaika.click",
     "port": 443,
-    "secret": "eec9a190b323e85637c2cd236cc7b544216c6f67696e2e6b6c79756368316b2e6f7267",
-    "url": "tg://proxy?server=login.klyuch1k.org&port=443&secret=eec9a190b323e85637c2cd236cc7b544216c6f67696e2e6b6c79756368316b2e6f7267"
+    "secret": "ee6a119e12f7d82d45b226b5e48e85c3c5706f7274616c2e62616c616c61696b612e636c69636b",
+    "url": "tg://proxy?server=portal.balalaika.click&port=443&secret=ee6a119e12f7d82d45b226b5e48e85c3c5706f7274616c2e62616c616c61696b612e636c69636b"
   }
 ]
