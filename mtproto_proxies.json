@@ -1,20 +1,20 @@
 [
   {
-    "server": "net.freetg.pw",
+    "server": "proxy21.chunkycorp.shop",
     "port": 443,
-    "secret": "ee83fa4fde388bf7da767bf4b9333fc8526e65742e6672656574672e7077",
-    "url": "tg://proxy?server=net.freetg.pw&port=443&secret=ee83fa4fde388bf7da767bf4b9333fc8526e65742e6672656574672e7077"
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=proxy21.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-    "server": "best-sellerst.co.uk",
+    "server": "ad1.arixo.shop",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=best-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70",
+    "url": "tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
-    "server": "app.kvakzon.top",
+    "server": "b8b8e0dc.etherealvpn.uk",
     "port": 443,
-    "secret": "ee5b0fbf6320bd9abf4c494f0a5e5d36a16170702e6b76616b7a6f6e2e746f70",
-    "url": "tg://proxy?server=app.kvakzon.top&port=443&secret=ee5b0fbf6320bd9abf4c494f0a5e5d36a16170702e6b76616b7a6f6e2e746f70"
+    "secret": "ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b",
+    "url": "tg://proxy?server=b8b8e0dc.etherealvpn.uk&port=443&secret=ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b"
   }
 ]
