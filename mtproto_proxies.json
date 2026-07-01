@@ -1,20 +1,20 @@
 [
   {
-    "server": "mc-ssh.t-proxyru.info",
+    "server": "fresh.t-proxy.info",
     "port": 25565,
     "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "b8rta.co.uk",
+    "server": "rudomain.info",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=b8rta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "go.antitspu.com",
+    "server": "secure.medhata.org",
     "port": 443,
-    "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d",
-    "url": "tg://proxy?server=go.antitspu.com&port=443&secret=eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
+    "secret": "ee424a5d237af49be4515bb005582791217365637572652e6d6564686174612e6f7267",
+    "url": "tg://proxy?server=secure.medhata.org&port=443&secret=ee424a5d237af49be4515bb005582791217365637572652e6d6564686174612e6f7267"
   }
 ]
