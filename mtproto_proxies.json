@@ -1,20 +1,20 @@
 [
   {
-    "server": "link.mishkalapy.life",
+    "server": "www2.acientirani-uor4.ir",
     "port": 443,
-    "secret": "ee4b6b1de597b3b682aadd9133cd774fee6c696e6b2e6d6973686b616c6170792e6c696665",
-    "url": "tg://proxy?server=link.mishkalapy.life&port=443&secret=ee4b6b1de597b3b682aadd9133cd774fee6c696e6b2e6d6973686b616c6170792e6c696665"
+    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+    "url": "tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-    "server": "cloud.neoqua.pro",
+    "server": "get.utkanos.life",
     "port": 443,
-    "secret": "ee7a5a372eecfa1dbada9b42e7d5cd5521636c6f75642e6e656f7175612e70726f",
-    "url": "tg://proxy?server=cloud.neoqua.pro&port=443&secret=ee7a5a372eecfa1dbada9b42e7d5cd5521636c6f75642e6e656f7175612e70726f"
+    "secret": "eef09a7a4c51b6bc6caf4d3134b312b0f56765742e75746b616e6f732e6c696665",
+    "url": "tg://proxy?server=get.utkanos.life&port=443&secret=eef09a7a4c51b6bc6caf4d3134b312b0f56765742e75746b616e6f732e6c696665"
   },
   {
-    "server": "fish.babysharkollah.co.uk",
+    "server": "fast.garden-troll.life",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "url": "tg://proxy?server=fish.babysharkollah.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+    "secret": "ee42859b29c8b90b4c2002356811271472666173742e67617264656e2d74726f6c6c2e6c696665",
+    "url": "tg://proxy?server=fast.garden-troll.life&port=443&secret=ee42859b29c8b90b4c2002356811271472666173742e67617264656e2d74726f6c6c2e6c696665"
   }
 ]
