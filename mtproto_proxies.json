@@ -1,20 +1,20 @@
 [
   {
-    "server": "path.nolags.pw",
-    "port": 443,
-    "secret": "dd7f1ae1d85e061ebd20bd97a022322053",
-    "url": "tg://proxy?server=path.nolags.pw&port=443&secret=dd7f1ae1d85e061ebd20bd97a022322053"
+    "server": "moh.kingproxynewdomailasiatech.ink",
+    "port": 25565,
+    "secret": "FgMBAgABAAH8AxOG4kw63Q",
+    "url": "tg://proxy?server=moh.kingproxynewdomailasiatech.ink&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q"
   },
   {
-    "server": "rudomain.info",
+    "server": "ftp.asiaadomainsshatelhamrahaval.co.uk",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=ftp.asiaadomainsshatelhamrahaval.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "bo9ss.co.uk",
+    "server": "cdn.savelyev.click",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee5098400982be6b8f6bf938e483f64dd463646e2e736176656c7965762e636c69636b",
+    "url": "tg://proxy?server=cdn.savelyev.click&port=443&secret=ee5098400982be6b8f6bf938e483f64dd463646e2e736176656c7965762e636c69636b"
   }
 ]
