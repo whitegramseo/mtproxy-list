@@ -1,20 +1,20 @@
 [
   {
-    "server": "logs.jinxandjack.co.uk",
+    "server": "swag.caxero.ru",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+    "url": "tg://proxy?server=swag.caxero.ru&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
-    "server": "ftp.jinxandjack.co.uk",
+    "server": "fas8t.co.uk",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=fas8t.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "cdn.mowork.ru",
+    "server": "136.113.246.143",
     "port": 443,
-    "secret": "eececef6563bce080cccda8dcc61cedbf6617669746f2e7275",
-    "url": "tg://proxy?server=cdn.mowork.ru&port=443&secret=eececef6563bce080cccda8dcc61cedbf6617669746f2e7275"
+    "secret": "dd76503102a8d65f5870239cb5c54689e5",
+    "url": "tg://proxy?server=136.113.246.143&port=443&secret=dd76503102a8d65f5870239cb5c54689e5"
   }
 ]
