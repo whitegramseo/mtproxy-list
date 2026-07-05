@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy.garden-troll.life",
+    "server": "87.120.108.165",
     "port": 443,
-    "secret": "eee9b3ba71e9986a0601aaf9d8ec29b57c70726f78792e67617264656e2d74726f6c6c2e6c696665",
-    "url": "tg://proxy?server=proxy.garden-troll.life&port=443&secret=eee9b3ba71e9986a0601aaf9d8ec29b57c70726f78792e67617264656e2d74726f6c6c2e6c696665"
+    "secret": "cbea07affc92833d14e5df783496a82a",
+    "url": "tg://proxy?server=87.120.108.165&port=443&secret=cbea07affc92833d14e5df783496a82a"
   },
   {
-    "server": "api.medhata.org",
-    "port": 443,
-    "secret": "eef93ad4b307071b377519e77642bc4dbe6170692e6d6564686174612e6f7267",
-    "url": "tg://proxy?server=api.medhata.org&port=443&secret=eef93ad4b307071b377519e77642bc4dbe6170692e6d6564686174612e6f7267"
+    "server": "googel.alo-otp.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=googel.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "should.be.wake.up.ir.yfdhjderkig.info",
-    "port": 88,
-    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=should.be.wake.up.ir.yfdhjderkig.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
+    "server": "s01.neo-trading.org",
+    "port": 443,
+    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275",
+    "url": "tg://proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275"
   }
 ]
