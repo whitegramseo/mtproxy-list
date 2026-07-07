@@ -1,20 +1,20 @@
 [
   {
-    "server": "gate.klyuch1k.org",
+    "server": "s01.neo-trading.org",
     "port": 443,
-    "secret": "eeae941a76ec4acf04faabaf8a24571080676174652e6b6c79756368316b2e6f7267",
-    "url": "tg://proxy?server=gate.klyuch1k.org&port=443&secret=eeae941a76ec4acf04faabaf8a24571080676174652e6b6c79756368316b2e6f7267"
+    "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275",
+    "url": "tg://proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275"
   },
   {
-    "server": "mirror.malevich7.top",
+    "server": "s02.neo-trading.org",
     "port": 443,
-    "secret": "ee291d58b9456c5824c8675ad904b2386e6d6972726f722e6d616c6576696368372e746f70",
-    "url": "tg://proxy?server=mirror.malevich7.top&port=443&secret=ee291d58b9456c5824c8675ad904b2386e6d6972726f722e6d616c6576696368372e746f70"
+    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+    "url": "tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   },
   {
-    "server": "ocean.babysharkollah.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ocean.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "server": "s03.neo-trading.org",
+    "port": 443,
+    "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275",
+    "url": "tg://proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
   }
 ]
