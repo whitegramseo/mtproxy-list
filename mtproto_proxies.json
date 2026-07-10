@@ -1,20 +1,20 @@
 [
   {
-    "server": "s1.24starsmarket.ru",
+    "server": "s1.postpulse.space",
     "port": 443,
-    "secret": "ee84e22723bf0f87e3838be933e7b91bd973312e323473746172736d61726b65742e7275",
-    "url": "tg://proxy?server=s1.24starsmarket.ru&port=443&secret=ee84e22723bf0f87e3838be933e7b91bd973312e323473746172736d61726b65742e7275"
+    "secret": "ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70",
+    "url": "tg://proxy?server=s1.postpulse.space&port=443&secret=ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70"
   },
   {
-    "server": "around.caxero.ru",
+    "server": "coffee.chunkystars.ru",
     "port": 443,
     "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-    "url": "tg://proxy?server=around.caxero.ru&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f"
+    "url": "tg://proxy?server=coffee.chunkystars.ru&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
-    "server": "aerie.sosun4ik.top",
+    "server": "sisu.proxytales.life",
     "port": 443,
     "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "url": "tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
 ]
