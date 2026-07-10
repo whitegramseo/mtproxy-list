@@ -1,20 +1,20 @@
 [
   {
-    "server": "adieu.shmelproxy.top",
+    "server": "chelipa.co.uk",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=chelipa.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+    "server": "idyll.shmelproxy.top",
     "port": 443,
     "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "url": "tg://proxy?server=idyll.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-    "server": "clitor.waycdn.ru",
+    "server": "f71493c5.koshkaproxy.shop",
     "port": 443,
-    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-    "url": "tg://proxy?server=clitor.waycdn.ru&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f"
-  },
-  {
-    "server": "ad1.arixo.shop",
-    "port": 443,
-    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70",
-    "url": "tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
+    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
+    "url": "tg://proxy?server=f71493c5.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   }
 ]
