@@ -1,20 +1,20 @@
 [
   {
-    "server": "s6.postpulse.space",
-    "port": 443,
-    "secret": "ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70",
-    "url": "tg://proxy?server=s6.postpulse.space&port=443&secret=ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70"
+    "server": "best.ping.ir.hdhdhfdrde.info",
+    "port": 88,
+    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=best.ping.ir.hdhdhfdrde.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "gloam.shmelproxy.top",
-    "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=gloam.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-    "server": "6208454e.koshkaproxy.shop",
+    "server": "aa027d01.koshkaproxy.shop",
     "port": 443,
     "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "url": "tg://proxy?server=6208454e.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+    "url": "tg://proxy?server=aa027d01.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+    "server": "tarn.proxytales.life",
+    "port": 443,
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=tarn.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
 ]
