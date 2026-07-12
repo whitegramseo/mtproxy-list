@@ -1,20 +1,20 @@
 [
   {
-    "server": "mirror.balalaika.click",
+    "server": "35.204.159.194",
     "port": 443,
-    "secret": "ee204fd0f2f4584c289c6aa284e46ed6406d6972726f722e62616c616c61696b612e636c69636b",
-    "url": "tg://proxy?server=mirror.balalaika.click&port=443&secret=ee204fd0f2f4584c289c6aa284e46ed6406d6972726f722e62616c616c61696b612e636c69636b"
+    "secret": "dd9cea7850eb43fd1838c435737914ec29",
+    "url": "tg://proxy?server=35.204.159.194&port=443&secret=dd9cea7850eb43fd1838c435737914ec29"
   },
   {
-    "server": "net.antitspu.com",
-    "port": 443,
-    "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d",
-    "url": "tg://proxy?server=net.antitspu.com&port=443&secret=ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
+    "server": "mc-ssh.t-proxyru.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "go.antitspu.com",
+    "server": "openhostings.co.uk",
     "port": 443,
-    "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d",
-    "url": "tg://proxy?server=go.antitspu.com&port=443&secret=eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=openhostings.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   }
 ]
