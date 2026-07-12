@@ -1,20 +1,20 @@
 [
   {
-    "server": "paid1.arixo.shop",
+    "server": "phloe.slarkfat.icu",
     "port": 443,
-    "secret": "eec54c7a89cf194572ed8d7c8ba8867dc770616964312e617269786f2e73686f70",
-    "url": "tg://proxy?server=paid1.arixo.shop&port=443&secret=eec54c7a89cf194572ed8d7c8ba8867dc770616964312e617269786f2e73686f70"
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-    "server": "www2.acientirani-uor4.ir",
+    "server": "edge2.guardora.pro",
     "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-    "url": "tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+    "url": "tg://proxy?server=edge2.guardora.pro&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   },
   {
-    "server": "ethereal5.arixo.shop",
+    "server": "edge4.guardora.pro",
     "port": 443,
-    "secret": "ee60e9cad19900bfefdbd122d82dfcd3d9657468657265616c352e617269786f2e73686f70",
-    "url": "tg://proxy?server=ethereal5.arixo.shop&port=443&secret=ee60e9cad19900bfefdbd122d82dfcd3d9657468657265616c352e617269786f2e73686f70"
+    "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+    "url": "tg://proxy?server=edge4.guardora.pro&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f"
   }
 ]
