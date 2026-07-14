@@ -1,20 +1,20 @@
 [
   {
-    "server": "best-sellerst.co.uk",
+    "server": "link.mishkalapy.life",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=best-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "eebf409b0c0013edc77b19fd55f79a22fc6c696e6b2e6d6973686b616c6170792e6c696665",
+    "url": "tg://proxy?server=link.mishkalapy.life&port=443&secret=eebf409b0c0013edc77b19fd55f79a22fc6c696e6b2e6d6973686b616c6170792e6c696665"
   },
   {
-    "server": "bo9ss.co.uk",
+    "server": "node.mishkalapy.life",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee04949e5deca5d7c98d4bdc309bdb4f406e6f64652e6d6973686b616c6170792e6c696665",
+    "url": "tg://proxy?server=node.mishkalapy.life&port=443&secret=ee04949e5deca5d7c98d4bdc309bdb4f406e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
-    "server": "edge.librava.click",
+    "server": "cloud.neoqua.pro",
     "port": 443,
-    "secret": "eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b",
-    "url": "tg://proxy?server=edge.librava.click&port=443&secret=eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b"
+    "secret": "ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f",
+    "url": "tg://proxy?server=cloud.neoqua.pro&port=443&secret=ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f"
   }
 ]
