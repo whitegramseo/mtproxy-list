@@ -1,20 +1,20 @@
 [
   {
-    "server": "s5.postpulse.space",
+    "server": "best-sellerst.co.uk",
     "port": 443,
-    "secret": "ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70",
-    "url": "tg://proxy?server=s5.postpulse.space&port=443&secret=ee846d23933361faa6211c7ac6765023be6164322e617269786f2e73686f70"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=best-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "wisp.slarkfat.icu",
+    "server": "bo9ss.co.uk",
     "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=wisp.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "b2c591e7.koshkaproxy.shop",
+    "server": "edge.librava.click",
     "port": 443,
-    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "url": "tg://proxy?server=b2c591e7.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+    "secret": "eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b",
+    "url": "tg://proxy?server=edge.librava.click&port=443&secret=eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b"
   }
 ]
