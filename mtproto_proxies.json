@@ -1,20 +1,20 @@
 [
   {
-    "server": "mirror.balalaika.click",
+    "server": "webhook.what-ever.co.uk",
     "port": 443,
-    "secret": "ee204fd0f2f4584c289c6aa284e46ed6406d6972726f722e62616c616c61696b612e636c69636b",
-    "url": "tg://proxy?server=mirror.balalaika.click&port=443&secret=ee204fd0f2f4584c289c6aa284e46ed6406d6972726f722e62616c616c61696b612e636c69636b"
+    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "go.antitspu.com",
+    "server": "ftp.jinxandjack.co.uk",
     "port": 443,
-    "secret": "eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d",
-    "url": "tg://proxy?server=go.antitspu.com&port=443&secret=eedec8518ddb0fd2fb190d6e8ede49e581676f2e616e7469747370752e636f6d"
+    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "net.antitspu.com",
+    "server": "api.groundfloorsolutions.co.uk",
     "port": 443,
-    "secret": "ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d",
-    "url": "tg://proxy?server=net.antitspu.com&port=443&secret=ee7430e87bc3324e17e44d00c033f428946e65742e616e7469747370752e636f6d"
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=api.groundfloorsolutions.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   }
 ]
