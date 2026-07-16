@@ -1,20 +1,20 @@
 [
   {
-    "server": "vagon.belotfelipo.co.uk",
+    "server": "yrf2.data-edge.fyi",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "url": "tg://proxy?server=vagon.belotfelipo.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+    "secret": "ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275",
+    "url": "tg://proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275"
   },
   {
-    "server": "whale.babysharkollah.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=whale.babysharkollah.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "server": "212.8.229.241",
+    "port": 443,
+    "secret": "eedae109a913467127a2779a47a04080b77275747562652e7275",
+    "url": "tg://proxy?server=212.8.229.241&port=443&secret=eedae109a913467127a2779a47a04080b77275747562652e7275"
   },
   {
-    "server": "edge.librava.click",
+    "server": "mt1.ddproxy.xyz",
     "port": 443,
-    "secret": "eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b",
-    "url": "tg://proxy?server=edge.librava.click&port=443&secret=eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b"
+    "secret": "ee7af7516b15e94579eee7ba8aac58d3aa706574726f766963682e7275",
+    "url": "tg://proxy?server=mt1.ddproxy.xyz&port=443&secret=ee7af7516b15e94579eee7ba8aac58d3aa706574726f766963682e7275"
   }
 ]
