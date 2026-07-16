@@ -1,20 +1,20 @@
 [
   {
-    "server": "yrf2.data-edge.fyi",
+    "server": "subobdoa.co.uk",
     "port": 443,
-    "secret": "ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275",
-    "url": "tg://proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=subobdoa.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "212.8.229.241",
+    "server": "fas8t.co.uk",
     "port": 443,
-    "secret": "eedae109a913467127a2779a47a04080b77275747562652e7275",
-    "url": "tg://proxy?server=212.8.229.241&port=443&secret=eedae109a913467127a2779a47a04080b77275747562652e7275"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=fas8t.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "mt1.ddproxy.xyz",
+    "server": "tga06b32d7.koshkaproxy.shop",
     "port": 443,
-    "secret": "ee7af7516b15e94579eee7ba8aac58d3aa706574726f766963682e7275",
-    "url": "tg://proxy?server=mt1.ddproxy.xyz&port=443&secret=ee7af7516b15e94579eee7ba8aac58d3aa706574726f766963682e7275"
+    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
+    "url": "tg://proxy?server=tga06b32d7.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   }
 ]
