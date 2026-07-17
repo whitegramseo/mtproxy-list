@@ -1,20 +1,20 @@
 [
   {
-    "server": "ad3.arixo.shop",
-    "port": 443,
-    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70",
-    "url": "tg://proxy?server=ad3.arixo.shop&port=443&secret=ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
-  },
-  {
-    "server": "syzygy.sosun4ik.top",
+    "server": "sisu.proxytales.life",
     "port": 443,
     "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "url": "tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-    "server": "tg62940547.koshkaproxy.shop",
+    "server": "tgad2d9795.koshkaproxy.shop",
     "port": 443,
     "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "url": "tg://proxy?server=tg62940547.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+    "url": "tg://proxy?server=tgad2d9795.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+  },
+  {
+    "server": "ad4.arixo.shop",
+    "port": 443,
+    "secret": "eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70",
+    "url": "tg://proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70"
   }
 ]
