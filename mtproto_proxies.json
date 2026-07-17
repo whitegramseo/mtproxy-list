@@ -1,20 +1,20 @@
 [
   {
-    "server": "stars.tg-proxy.fun",
-    "port": 6443,
-    "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-    "url": "tg://proxy?server=stars.tg-proxy.fun&port=6443&secret=a545c35eb2bdfa1a93df5ebe69957120"
+    "server": "tga06b32d7.koshkaproxy.shop",
+    "port": 443,
+    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
+    "url": "tg://proxy?server=tga06b32d7.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   },
   {
-    "server": "turbo.tg-proxy.fun",
-    "port": 9443,
-    "secret": "a545c35eb2bdfa1a93df5ebe69957120",
-    "url": "tg://proxy?server=turbo.tg-proxy.fun&port=9443&secret=a545c35eb2bdfa1a93df5ebe69957120"
+    "server": "ad2.arixo.shop",
+    "port": 443,
+    "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70",
+    "url": "tg://proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
   },
   {
-    "server": "fighter-man.ir-proxy.manege-desktop-for.co.im",
-    "port": 4443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=fighter-man.ir-proxy.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "skein.chunkycorp.shop",
+    "port": 443,
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
 ]
