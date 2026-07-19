@@ -1,20 +1,20 @@
 [
   {
-    "server": "mizanesgh.info",
+    "server": "www2.acientirani-uor4.ir",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=mizanesgh.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+    "url": "tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
   },
   {
-    "server": "lashboy.muzanesghy.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "2ca164.zipline.cc",
+    "port": 443,
+    "secret": "ee5ab264a139bb00bd82c48212db75f9b33263613136342e7a69706c696e652e6363",
+    "url": "tg://proxy?server=2ca164.zipline.cc&port=443&secret=ee5ab264a139bb00bd82c48212db75f9b33263613136342e7a69706c696e652e6363"
   },
   {
-    "server": "new7.mizanmizanesgh.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "8b8659.dashcdn.org",
+    "port": 443,
+    "secret": "eef5404c614fe4f253fab9088ec1eb39213862383635392e6461736863646e2e6f7267",
+    "url": "tg://proxy?server=8b8659.dashcdn.org&port=443&secret=eef5404c614fe4f253fab9088ec1eb39213862383635392e6461736863646e2e6f7267"
   }
 ]
