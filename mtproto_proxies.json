@@ -1,20 +1,20 @@
 [
   {
-    "server": "www2.acientirani-uor4.ir",
+    "server": "medblock.fit",
     "port": 443,
-    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-    "url": "tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+    "secret": "ee42c68d1f568a3ce918f926dd7d1283c66d6564626c6f636b2e666974",
+    "url": "tg://proxy?server=medblock.fit&port=443&secret=ee42c68d1f568a3ce918f926dd7d1283c66d6564626c6f636b2e666974"
   },
   {
-    "server": "2ca164.zipline.cc",
+    "server": "neo-vpn.ink",
     "port": 443,
-    "secret": "ee5ab264a139bb00bd82c48212db75f9b33263613136342e7a69706c696e652e6363",
-    "url": "tg://proxy?server=2ca164.zipline.cc&port=443&secret=ee5ab264a139bb00bd82c48212db75f9b33263613136342e7a69706c696e652e6363"
+    "secret": "ee941827d00b169bd4df5fc7d8dc06d0ad6e656f2d76706e2e696e6b",
+    "url": "tg://proxy?server=neo-vpn.ink&port=443&secret=ee941827d00b169bd4df5fc7d8dc06d0ad6e656f2d76706e2e696e6b"
   },
   {
-    "server": "8b8659.dashcdn.org",
+    "server": "fleethop.online",
     "port": 443,
-    "secret": "eef5404c614fe4f253fab9088ec1eb39213862383635392e6461736863646e2e6f7267",
-    "url": "tg://proxy?server=8b8659.dashcdn.org&port=443&secret=eef5404c614fe4f253fab9088ec1eb39213862383635392e6461736863646e2e6f7267"
+    "secret": "eee5cdbc9072c35bb42691c201135f0fdd666c656574686f702e6f6e6c696e65",
+    "url": "tg://proxy?server=fleethop.online&port=443&secret=eee5cdbc9072c35bb42691c201135f0fdd666c656574686f702e6f6e6c696e65"
   }
 ]
