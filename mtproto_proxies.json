@@ -1,20 +1,20 @@
 [
   {
-    "server": "cloud.neoqua.pro",
-    "port": 443,
-    "secret": "ee17a8c39b61cada586d48df4c790bc178636c6f75642e6e656f7175612e70726f",
-    "url": "tg://proxy?server=cloud.neoqua.pro&port=443&secret=ee17a8c39b61cada586d48df4c790bc178636c6f75642e6e656f7175612e70726f"
-  },
-  {
-    "server": "relay.neoqua.pro",
-    "port": 443,
-    "secret": "ee368216360fa09c0c83149537f4ff23b972656c61792e6e656f7175612e70726f",
-    "url": "tg://proxy?server=relay.neoqua.pro&port=443&secret=ee368216360fa09c0c83149537f4ff23b972656c61792e6e656f7175612e70726f"
-  },
-  {
-    "server": "relaywise.co.uk",
+    "server": "bo9ss.co.uk",
     "port": 443,
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=relaywise.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "url": "tg://proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+    "server": "beest-sellerst.co.uk",
+    "port": 443,
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=beest-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "95.85.237.7",
+    "port": 14305,
+    "secret": "dd36d988a8d13716c2c3aa9e90b7a8b18a",
+    "url": "tg://proxy?server=95.85.237.7&port=14305&secret=dd36d988a8d13716c2c3aa9e90b7a8b18a"
   }
 ]
