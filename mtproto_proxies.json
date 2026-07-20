@@ -1,20 +1,20 @@
 [
   {
-    "server": "194.120.230.26",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=194.120.230.26&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "server": "fresh.t-proxy.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "103.161.35.23",
+    "server": "opeenhostings.co.uk",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=opeenhostings.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "medblock.fit",
+    "server": "proxy.fluxvpnguard.ru",
     "port": 443,
-    "secret": "ee748fdca0d7e8f6f2cfb02ec7837b40016d6564626c6f636b2e666974",
-    "url": "tg://proxy?server=medblock.fit&port=443&secret=ee748fdca0d7e8f6f2cfb02ec7837b40016d6564626c6f636b2e666974"
+    "secret": "ee0a9b43ea17eff45e518fa360979998e770726f78792e666c757876706e67756172642e7275",
+    "url": "tg://proxy?server=proxy.fluxvpnguard.ru&port=443&secret=ee0a9b43ea17eff45e518fa360979998e770726f78792e666c757876706e67756172642e7275"
   }
 ]
