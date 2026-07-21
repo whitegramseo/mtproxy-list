@@ -1,20 +1,20 @@
 [
   {
-    "server": "one1.mtproxygram.lol",
-    "port": 443,
-    "secret": "ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275",
-    "url": "tg://proxy?server=one1.mtproxygram.lol&port=443&secret=ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275"
+    "server": "super.sub-ploter.co.uk",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=super.sub-ploter.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-    "server": "one2.mtproxygram.lol",
-    "port": 443,
-    "secret": "ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275",
-    "url": "tg://proxy?server=one2.mtproxygram.lol&port=443&secret=ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275"
+    "server": "blond.basicscotch.co.uk",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=blond.basicscotch.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-    "server": "one1.mtproxygram.lol",
-    "port": 443,
-    "secret": "dd563dc88ae5d1c70b18d01472f77a9699",
-    "url": "tg://proxy?server=one1.mtproxygram.lol&port=443&secret=dd563dc88ae5d1c70b18d01472f77a9699"
+    "server": "mc-ssh.t-proxyru.info",
+    "port": 25565,
+    "secret": "7hBEYoISSb16xRkTAiDCXQljZG4ueWVrdGFuZXQuY29t",
+    "url": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=7hBEYoISSb16xRkTAiDCXQljZG4ueWVrdGFuZXQuY29t"
   }
 ]
