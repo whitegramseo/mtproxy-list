@@ -1,20 +1,20 @@
 [
   {
-    "server": "link.freetg.pw",
+    "server": "rudomain.info",
     "port": 443,
-    "secret": "ee4c0aaae1a7ff2d9e33412599353250fb6c696e6b2e6672656574672e7077",
-    "url": "tg://proxy?server=link.freetg.pw&port=443&secret=ee4c0aaae1a7ff2d9e33412599353250fb6c696e6b2e6672656574672e7077"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "net.freetg.pw",
+    "server": "br8ta.co.uk",
     "port": 443,
-    "secret": "eefb41e71c9c52d0c2214fd3d3545fdaf76e65742e6672656574672e7077",
-    "url": "tg://proxy?server=net.freetg.pw&port=443&secret=eefb41e71c9c52d0c2214fd3d3545fdaf76e65742e6672656574672e7077"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "fighter-man.ir-proxy.manege-desktop-for.co.im",
-    "port": 4443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=fighter-man.ir-proxy.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "proxy.lodkirmm.ru",
+    "port": 8443,
+    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275",
+    "url": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
   }
 ]
