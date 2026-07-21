@@ -1,20 +1,20 @@
 [
   {
-    "server": "ftp.asiaadomainsshatelhamrahaval.co.uk",
+    "server": "link.freetg.pw",
     "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=ftp.asiaadomainsshatelhamrahaval.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+    "secret": "ee4c0aaae1a7ff2d9e33412599353250fb6c696e6b2e6672656574672e7077",
+    "url": "tg://proxy?server=link.freetg.pw&port=443&secret=ee4c0aaae1a7ff2d9e33412599353250fb6c696e6b2e6672656574672e7077"
   },
   {
-    "server": "168.119.161.251",
+    "server": "net.freetg.pw",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=168.119.161.251&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "eefb41e71c9c52d0c2214fd3d3545fdaf76e65742e6672656574672e7077",
+    "url": "tg://proxy?server=net.freetg.pw&port=443&secret=eefb41e71c9c52d0c2214fd3d3545fdaf76e65742e6672656574672e7077"
   },
   {
-    "server": "main.muffinnoliershatelcomingsoon.co.uk",
-    "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=main.muffinnoliershatelcomingsoon.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+    "server": "fighter-man.ir-proxy.manege-desktop-for.co.im",
+    "port": 4443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=fighter-man.ir-proxy.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
