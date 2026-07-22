@@ -1,20 +1,20 @@
 [
   {
-    "server": "one1.mtproxygram.lol",
+    "server": "webhook.vingardium.co.uk",
     "port": 443,
-    "secret": "ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275",
-    "url": "tg://proxy?server=one1.mtproxygram.lol&port=443&secret=ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275"
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-    "server": "one2.mtproxygram.lol",
-    "port": 443,
-    "secret": "ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275",
-    "url": "tg://proxy?server=one2.mtproxygram.lol&port=443&secret=ee563dc88ae5d1c70b18d01472f77a969962726f777365722e79616e6465782e7275"
+    "server": "downlod.forzajuve.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=downlod.forzajuve.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "one1.mtproxygram.lol",
-    "port": 443,
-    "secret": "dd563dc88ae5d1c70b18d01472f77a9699",
-    "url": "tg://proxy?server=one1.mtproxygram.lol&port=443&secret=dd563dc88ae5d1c70b18d01472f77a9699"
+    "server": "download.forzajuve.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=download.forzajuve.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
