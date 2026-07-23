@@ -1,20 +1,20 @@
 [
   {
-    "server": "tgb92cf27d.koshkaproxy.shop",
+    "server": "mtproxy.nolags.pw",
     "port": 443,
-    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "url": "tg://proxy?server=tgb92cf27d.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+    "secret": "dd8b89db666c463cce92d4aa6ace95f840",
+    "url": "tg://proxy?server=mtproxy.nolags.pw&port=443&secret=dd8b89db666c463cce92d4aa6ace95f840"
   },
   {
-    "server": "skein.chunkycorp.shop",
+    "server": "168.119.161.251",
     "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=168.119.161.251&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "ad2.arixo.shop",
+    "server": "main.muffinnoliershatelcomingsoon.co.uk",
     "port": 443,
-    "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70",
-    "url": "tg://proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=main.muffinnoliershatelcomingsoon.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   }
 ]
