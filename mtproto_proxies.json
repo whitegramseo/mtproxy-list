@@ -1,20 +1,20 @@
 [
   {
-    "server": "beest-sellerst.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=beest-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "paydar.goooalir.co.uk",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=paydar.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "bo9ss.co.uk",
-    "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "server": "soheil.goooalir.co.uk",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "34.12.229.246",
-    "port": 443,
-    "secret": "dd2bc98ec562627d4d23f303a558febf39",
-    "url": "tg://proxy?server=34.12.229.246&port=443&secret=dd2bc98ec562627d4d23f303a558febf39"
+    "server": "should.be.wake.up.ir.yfdhjderkig.info",
+    "port": 88,
+    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=should.be.wake.up.ir.yfdhjderkig.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   }
 ]
