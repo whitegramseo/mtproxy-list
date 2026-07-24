@@ -1,20 +1,20 @@
 [
   {
-    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
-    "port": 4443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-    "server": "fighter-man.ir-proxy.manege-desktop-for.co.im",
-    "port": 4443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=fighter-man.ir-proxy.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-    "server": "welcome.v6n.tech",
+    "server": "relaywise.co.uk",
     "port": 443,
-    "secret": "eea6484f075c2288e653a8e720280712687777772e626f6f6b696e672e636f6d",
-    "url": "tg://proxy?server=welcome.v6n.tech&port=443&secret=eea6484f075c2288e653a8e720280712687777772e626f6f6b696e672e636f6d"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=relaywise.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+    "server": "pathory.co.uk",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+    "server": "chelipa.co.uk",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=chelipa.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
 ]
