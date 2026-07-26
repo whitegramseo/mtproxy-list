@@ -1,20 +1,20 @@
 [
   {
-    "server": "options.nolags.pw",
+    "server": "mtproto.workingproxy.xyz",
     "port": 443,
-    "secret": "dd1cfd25e7607e8ede7cc49b925165728a",
-    "url": "tg://proxy?server=options.nolags.pw&port=443&secret=dd1cfd25e7607e8ede7cc49b925165728a"
+    "secret": "dd28d1629617423db1e80a7b4a00de6032",
+    "url": "tg://proxy?server=mtproto.workingproxy.xyz&port=443&secret=dd28d1629617423db1e80a7b4a00de6032"
   },
   {
-    "server": "googel.alo-otp.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=googel.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "opeenhostings.co.uk",
+    "port": 443,
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=opeenhostings.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "fresh.t-proxy.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "zon-b0z.co.uk",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=zon-b0z.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
 ]
