@@ -1,20 +1,20 @@
 [
   {
-    "server": "edge.librava.click",
+    "server": "web.asiaadomainsshatelhamrahaval.co.uk",
     "port": 443,
-    "secret": "eea12fcf17bd87579f5063dfb4c28e4761656467652e6c6962726176612e636c69636b",
-    "url": "tg://proxy?server=edge.librava.click&port=443&secret=eea12fcf17bd87579f5063dfb4c28e4761656467652e6c6962726176612e636c69636b"
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=web.asiaadomainsshatelhamrahaval.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "link.freetg.pw",
+    "server": "ftp.asiaadomainsshatelhamrahaval.co.uk",
     "port": 443,
-    "secret": "ee0130a860a634590d543496ced923a18a6c696e6b2e6672656574672e7077",
-    "url": "tg://proxy?server=link.freetg.pw&port=443&secret=ee0130a860a634590d543496ced923a18a6c696e6b2e6672656574672e7077"
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=ftp.asiaadomainsshatelhamrahaval.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "f1.car-race.co.uk",
+    "server": "wan.asiaadomainsshatelhamrahaval.co.uk",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "url": "tg://proxy?server=f1.car-race.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=wan.asiaadomainsshatelhamrahaval.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   }
 ]
