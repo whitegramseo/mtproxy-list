@@ -1,20 +1,20 @@
 [
   {
-    "server": "connect.workingproxy.xyz",
-    "port": 443,
-    "secret": "ddcf4b420258503f6f189db7d39f597b4e",
-    "url": "tg://proxy?server=connect.workingproxy.xyz&port=443&secret=ddcf4b420258503f6f189db7d39f597b4e"
-  },
-  {
-    "server": "bo9ss.co.uk",
+    "server": "fas8t.co.uk",
     "port": 443,
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "url": "tg://proxy?server=fas8t.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "beest-sellerst.co.uk",
+    "server": "subobdoa.co.uk",
     "port": 443,
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=beest-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "url": "tg://proxy?server=subobdoa.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "84.201.161.56",
+    "port": 443,
+    "secret": "ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=84.201.161.56&port=443&secret=ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d"
   }
 ]
