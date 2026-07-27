@@ -1,20 +1,20 @@
 [
   {
-    "server": "fas8t.co.uk",
+    "server": "portal.malevich7.top",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=fas8t.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee8490b6674d39b57e64c61185f341b742706f7274616c2e6d616c6576696368372e746f70",
+    "url": "tg://proxy?server=portal.malevich7.top&port=443&secret=ee8490b6674d39b57e64c61185f341b742706f7274616c2e6d616c6576696368372e746f70"
   },
   {
-    "server": "subobdoa.co.uk",
+    "server": "go.pelmeshka.top",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=subobdoa.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "eeaa6a6fdb00cbaf8a0c257e6736ece98f676f2e70656c6d6573686b612e746f70",
+    "url": "tg://proxy?server=go.pelmeshka.top&port=443&secret=eeaa6a6fdb00cbaf8a0c257e6736ece98f676f2e70656c6d6573686b612e746f70"
   },
   {
-    "server": "84.201.161.56",
+    "server": "server.nl-arvancloud.co.uk",
     "port": 443,
-    "secret": "ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=84.201.161.56&port=443&secret=ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d"
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   }
 ]
