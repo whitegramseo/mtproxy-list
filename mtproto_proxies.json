@@ -1,20 +1,20 @@
 [
   {
-    "server": "fas8t.co.uk",
+    "server": "app.rknwatch.digital",
+    "port": 443,
+    "secret": "ee2a830e2b3d40853e9799515a616d3f4d6170702e726b6e77617463682e6469676974616c",
+    "url": "tg://proxy?server=app.rknwatch.digital&port=443&secret=ee2a830e2b3d40853e9799515a616d3f4d6170702e726b6e77617463682e6469676974616c"
+  },
+  {
+    "server": "cdn.savelyev.click",
+    "port": 443,
+    "secret": "ee47db8cfb73a38af6c54d8976432e265863646e2e736176656c7965762e636c69636b",
+    "url": "tg://proxy?server=cdn.savelyev.click&port=443&secret=ee47db8cfb73a38af6c54d8976432e265863646e2e736176656c7965762e636c69636b"
+  },
+  {
+    "server": "pathory.co.uk",
     "port": 443,
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=fas8t.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-    "server": "subobdoa.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=subobdoa.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-    "server": "84.201.161.56",
-    "port": 443,
-    "secret": "ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=84.201.161.56&port=443&secret=ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d"
+    "url": "tg://proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
 ]
