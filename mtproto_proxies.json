@@ -1,20 +1,20 @@
 [
   {
-    "server": "br8ta.co.uk",
-    "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "server": "62.238.40.18",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=62.238.40.18&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "rudomain.info",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=rudomain.info&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "46.225.26.227",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=46.225.26.227&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "portal.balalaika.click",
+    "server": "esmchiy.ir",
     "port": 443,
-    "secret": "ee3c7b046d6a7b00b2c910cd755314eb2e706f7274616c2e62616c616c61696b612e636c69636b",
-    "url": "tg://proxy?server=portal.balalaika.click&port=443&secret=ee3c7b046d6a7b00b2c910cd755314eb2e706f7274616c2e62616c616c61696b612e636c69636b"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=esmchiy.ir&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
