@@ -1,20 +1,20 @@
 [
   {
-    "server": "downlload.forzajuve.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=downlload.forzajuve.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "fleethop.online",
+    "port": 443,
+    "secret": "ee7b65b9f92173a83dcd4d1c5b8c1031f7666c656574686f702e6f6e6c696e65",
+    "url": "tg://proxy?server=fleethop.online&port=443&secret=ee7b65b9f92173a83dcd4d1c5b8c1031f7666c656574686f702e6f6e6c696e65"
   },
   {
-    "server": "download.strawberrybarn.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=download.strawberrybarn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "fleethop.org",
+    "port": 443,
+    "secret": "ee5963ce7d4a7f471c330778c419c0b19e666c656574686f702e6f7267",
+    "url": "tg://proxy?server=fleethop.org&port=443&secret=ee5963ce7d4a7f471c330778c419c0b19e666c656574686f702e6f7267"
   },
   {
-    "server": "mt.nowabst.net",
-    "port": 853,
-    "secret": "ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d",
-    "url": "tg://proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d"
+    "server": "downloaad.forzajuve.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=downloaad.forzajuve.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
