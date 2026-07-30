@@ -1,20 +1,20 @@
 [
   {
-    "server": "lashboy.muzanesghy.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "fleethop.online",
+    "port": 443,
+    "secret": "ee7b65b9f92173a83dcd4d1c5b8c1031f7666c656574686f702e6f6e6c696e65",
+    "url": "tg://proxy?server=fleethop.online&port=443&secret=ee7b65b9f92173a83dcd4d1c5b8c1031f7666c656574686f702e6f6e6c696e65"
   },
   {
-    "server": "new7.mizanmizanesgh.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "fleethop.org",
+    "port": 443,
+    "secret": "ee5963ce7d4a7f471c330778c419c0b19e666c656574686f702e6f7267",
+    "url": "tg://proxy?server=fleethop.org&port=443&secret=ee5963ce7d4a7f471c330778c419c0b19e666c656574686f702e6f7267"
   },
   {
-    "server": "r1.balebale.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=r1.balebale.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "downloaad.forzajuve.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=downloaad.forzajuve.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
