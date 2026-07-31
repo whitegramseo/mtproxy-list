@@ -1,20 +1,20 @@
 [
   {
-    "server": "lashboy.muzanesghy.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "portal.malevich7.top",
+    "port": 443,
+    "secret": "ee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70",
+    "url": "tg://proxy?server=portal.malevich7.top&port=443&secret=ee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70"
   },
   {
-    "server": "new7.mizanmizanesgh.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "app.librava.click",
+    "port": 443,
+    "secret": "eea1eceac9a9088b02d582d0ca99d9365e6170702e6c6962726176612e636c69636b",
+    "url": "tg://proxy?server=app.librava.click&port=443&secret=eea1eceac9a9088b02d582d0ca99d9365e6170702e6c6962726176612e636c69636b"
   },
   {
-    "server": "r1.balebale.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=r1.balebale.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "mirror.malevich7.top",
+    "port": 443,
+    "secret": "ee8a3854e4a2195faa6e10297354425e3e6d6972726f722e6d616c6576696368372e746f70",
+    "url": "tg://proxy?server=mirror.malevich7.top&port=443&secret=ee8a3854e4a2195faa6e10297354425e3e6d6972726f722e6d616c6576696368372e746f70"
   }
 ]
