@@ -1,20 +1,20 @@
 [
   {
-    "server": "downlload.forzajuve.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=downlload.forzajuve.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "node.mishkalapy.life",
+    "port": 443,
+    "secret": "ee75d9c434c4709d2c8f218a8a0c86b9b86e6f64652e6d6973686b616c6170792e6c696665",
+    "url": "tg://proxy?server=node.mishkalapy.life&port=443&secret=ee75d9c434c4709d2c8f218a8a0c86b9b86e6f64652e6d6973686b616c6170792e6c696665"
   },
   {
-    "server": "download.strawberrybarn.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=download.strawberrybarn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "relay.neoqua.pro",
+    "port": 443,
+    "secret": "ee435cece0e7e4d6eed7bcce13ab6e03ca72656c61792e6e656f7175612e70726f",
+    "url": "tg://proxy?server=relay.neoqua.pro&port=443&secret=ee435cece0e7e4d6eed7bcce13ab6e03ca72656c61792e6e656f7175612e70726f"
   },
   {
-    "server": "mt.nowabst.net",
-    "port": 853,
-    "secret": "ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d",
-    "url": "tg://proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d"
+    "server": "app.what-ever.co.uk",
+    "port": 443,
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   }
 ]
