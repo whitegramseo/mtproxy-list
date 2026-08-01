@@ -1,20 +1,20 @@
 [
   {
-    "server": "mirror.balalaika.click",
+    "server": "31.77.170.81",
     "port": 443,
-    "secret": "eea0398370ab267aa0164231325beb48866d6972726f722e62616c616c61696b612e636c69636b",
-    "url": "tg://proxy?server=mirror.balalaika.click&port=443&secret=eea0398370ab267aa0164231325beb48866d6972726f722e62616c616c61696b612e636c69636b"
+    "secret": "0ba74e43242b21bcd12a344e514de930",
+    "url": "tg://proxy?server=31.77.170.81&port=443&secret=0ba74e43242b21bcd12a344e514de930"
   },
   {
-    "server": "node.mishkalapy.life",
-    "port": 443,
-    "secret": "ee75d9c434c4709d2c8f218a8a0c86b9b86e6f64652e6d6973686b616c6170792e6c696665",
-    "url": "tg://proxy?server=node.mishkalapy.life&port=443&secret=ee75d9c434c4709d2c8f218a8a0c86b9b86e6f64652e6d6973686b616c6170792e6c696665"
+    "server": "31.77.170.81",
+    "port": 2443,
+    "secret": "ee9e80d7b4d8395848062bf981d13fb3d3706c7567696e732e6a6574627261696e732e636f6d",
+    "url": "tg://proxy?server=31.77.170.81&port=2443&secret=ee9e80d7b4d8395848062bf981d13fb3d3706c7567696e732e6a6574627261696e732e636f6d"
   },
   {
-    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
-    "port": 4443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "googel.alo-otp.info",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=googel.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   }
 ]
