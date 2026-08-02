@@ -1,20 +1,20 @@
 [
   {
-    "server": "view.fleethop.online",
+    "server": "bo9ss.co.uk",
     "port": 443,
-    "secret": "ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65",
-    "url": "tg://proxy?server=view.fleethop.online&port=443&secret=ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "feed.fast-proxy.ink",
+    "server": "beest-sellerst.co.uk",
     "port": 443,
-    "secret": "ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b",
-    "url": "tg://proxy?server=feed.fast-proxy.ink&port=443&secret=ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=beest-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "relay2.best-proxy.ink",
-    "port": 443,
-    "secret": "eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b",
-    "url": "tg://proxy?server=relay2.best-proxy.ink&port=443&secret=eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b"
+    "server": "api.nowabst.net",
+    "port": 853,
+    "secret": "ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d",
+    "url": "tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d"
   }
 ]
