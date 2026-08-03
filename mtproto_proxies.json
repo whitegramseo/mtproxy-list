@@ -1,20 +1,20 @@
 [
   {
-    "server": "chai.mikham.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=chai.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "bastani.mikham.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=bastani.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "ad6.fluxvpnguard.ru",
+    "server": "panel.neo-vpn.ink",
     "port": 443,
-    "secret": "eeb471ae1aa2e8a185ed77a4d024dd3b7f6164362e666c757876706e67756172642e7275",
-    "url": "tg://proxy?server=ad6.fluxvpnguard.ru&port=443&secret=eeb471ae1aa2e8a185ed77a4d024dd3b7f6164362e666c757876706e67756172642e7275"
+    "secret": "eeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b",
+    "url": "tg://proxy?server=panel.neo-vpn.ink&port=443&secret=eeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b"
+  },
+  {
+    "server": "view.fleethop.online",
+    "port": 443,
+    "secret": "ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65",
+    "url": "tg://proxy?server=view.fleethop.online&port=443&secret=ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65"
+  },
+  {
+    "server": "feed.fast-proxy.ink",
+    "port": 443,
+    "secret": "ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b",
+    "url": "tg://proxy?server=feed.fast-proxy.ink&port=443&secret=ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b"
   }
 ]
