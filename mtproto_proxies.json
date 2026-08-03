@@ -1,20 +1,20 @@
 [
   {
-    "server": "subobdoa.co.uk",
+    "server": "panel.neo-vpn.ink",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=subobdoa.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "eeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b",
+    "url": "tg://proxy?server=panel.neo-vpn.ink&port=443&secret=eeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b"
   },
   {
-    "server": "api.nowabst.net",
-    "port": 853,
-    "secret": "ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d",
-    "url": "tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d"
+    "server": "view.fleethop.online",
+    "port": 443,
+    "secret": "ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65",
+    "url": "tg://proxy?server=view.fleethop.online&port=443&secret=ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65"
   },
   {
-    "server": "lab.nowabst.net",
-    "port": 853,
-    "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d",
-    "url": "tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
+    "server": "feed.fast-proxy.ink",
+    "port": 443,
+    "secret": "ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b",
+    "url": "tg://proxy?server=feed.fast-proxy.ink&port=443&secret=ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b"
   }
 ]
