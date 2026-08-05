@@ -1,20 +1,20 @@
 [
   {
-    "server": "fighter-man.ir-proxy.manege-desktop-for.co.im",
-    "port": 4443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=fighter-man.ir-proxy.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "proxy.lodkirmm.ru",
+    "port": 8443,
+    "secret": "ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275",
+    "url": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275"
   },
   {
-    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
+    "server": "damege-in.travel-esf.manege-desktop-for.co.im",
     "port": 4443,
     "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "url": "tg://proxy?server=damege-in.travel-esf.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "82daad.dashcdn.org",
+    "server": "ad2.arixo.shop",
     "port": 443,
-    "secret": "ee43f3418c9f8da7f31ded210fad921f8f3832646161642e6461736863646e2e6f7267",
-    "url": "tg://proxy?server=82daad.dashcdn.org&port=443&secret=ee43f3418c9f8da7f31ded210fad921f8f3832646161642e6461736863646e2e6f7267"
+    "secret": "eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70",
+    "url": "tg://proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70"
   }
 ]
