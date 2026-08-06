@@ -1,20 +1,20 @@
 [
   {
-    "server": "ad4.arixo.shop",
+    "server": "ad6.arixo.shop",
     "port": 443,
-    "secret": "eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70",
-    "url": "tg://proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70"
+    "secret": "ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70",
+    "url": "tg://proxy?server=ad6.arixo.shop&port=443&secret=ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70"
   },
   {
-    "server": "eerie.proxytales.life",
+    "server": "adieu.shmelproxy.top",
     "port": 443,
     "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "url": "tg://proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-    "server": "rudmoain.co.uk",
+    "server": "suodbo.co.uk",
     "port": 443,
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=rudmoain.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "url": "tg://proxy?server=suodbo.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   }
 ]
