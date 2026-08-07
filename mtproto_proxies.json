@@ -1,20 +1,20 @@
 [
   {
-    "server": "500245.hopwire.io",
-    "port": 443,
-    "secret": "ee06342713da7e66863b8d0f70d93d145a3530303234352e686f70776972652e696f",
-    "url": "tg://proxy?server=500245.hopwire.io&port=443&secret=ee06342713da7e66863b8d0f70d93d145a3530303234352e686f70776972652e696f"
+    "server": "blond.basicscotch.co.uk",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=blond.basicscotch.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-    "server": "30a1de.corecdn.net",
+    "server": "bala.hastim.co.uk",
     "port": 443,
-    "secret": "eed6662c1fb60871326543681c1fce09c93330613164652e636f726563646e2e6e6574",
-    "url": "tg://proxy?server=30a1de.corecdn.net&port=443&secret=eed6662c1fb60871326543681c1fce09c93330613164652e636f726563646e2e6e6574"
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "url": "tg://proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   },
   {
-    "server": "c12dfd.vpngate-cloud.net",
+    "server": "phloe.slarkfat.icu",
     "port": 443,
-    "secret": "eed10acacf18fc72b11dc0b166d72a68536331326466642e76706e676174652d636c6f75642e6e6574",
-    "url": "tg://proxy?server=c12dfd.vpngate-cloud.net&port=443&secret=eed10acacf18fc72b11dc0b166d72a68536331326466642e76706e676174652d636c6f75642e6e6574"
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
 ]
