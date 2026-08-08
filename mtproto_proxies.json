@@ -1,20 +1,20 @@
 [
   {
-    "server": "bo0ji.co.uk",
+    "server": "hel-hi.co.uk",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=hel-hi.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "zon-b0z.co.uk",
+    "server": "suodbo.co.uk",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=zon-b0z.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=suodbo.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "zomb0m.co.uk",
+    "server": "mtp1.hlebushek.com",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=zomb0m.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275",
+    "url": "tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
   }
 ]
