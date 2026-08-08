@@ -1,20 +1,20 @@
 [
   {
-    "server": "hel-hi.co.uk",
+    "server": "media1.happtg.org",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=hel-hi.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275",
+    "url": "tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275"
   },
   {
-    "server": "suodbo.co.uk",
+    "server": "media2.happtg.org",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=suodbo.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275",
+    "url": "tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
   },
   {
-    "server": "mtp1.hlebushek.com",
+    "server": "media3.happtg.org",
     "port": 443,
-    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275",
-    "url": "tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
+    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275",
+    "url": "tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
   }
 ]
