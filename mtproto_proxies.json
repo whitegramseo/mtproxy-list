@@ -1,20 +1,20 @@
 [
   {
-    "server": "new7.mizanmizanesgh.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "mizaneshgh2.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "live.best-proxy.ink",
+    "server": "cdn1.legacdn.com",
     "port": 443,
-    "secret": "eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b",
-    "url": "tg://proxy?server=live.best-proxy.ink&port=443&secret=eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b"
+    "secret": "eea990d0794c43c68cdd51caea31e4e957706574726f766963682e7275",
+    "url": "tg://proxy?server=cdn1.legacdn.com&port=443&secret=eea990d0794c43c68cdd51caea31e4e957706574726f766963682e7275"
+  },
+  {
+    "server": "cdn2.legacdn.com",
+    "port": 443,
+    "secret": "ee4746d4ee69873099c9d0abd64656c261706574726f766963682e7275",
+    "url": "tg://proxy?server=cdn2.legacdn.com&port=443&secret=ee4746d4ee69873099c9d0abd64656c261706574726f766963682e7275"
+  },
+  {
+    "server": "lashboy.muzanesghy.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
