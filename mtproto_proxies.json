@@ -1,20 +1,20 @@
 [
   {
-    "server": "zilch.chunkycorp.shop",
-    "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-    "server": "ad5.arixo.shop",
-    "port": 443,
-    "secret": "ee995469d4d5a3221f69a1cc24d1cafa506164322e617269786f2e73686f70",
-    "url": "tg://proxy?server=ad5.arixo.shop&port=443&secret=ee995469d4d5a3221f69a1cc24d1cafa506164322e617269786f2e73686f70"
-  },
-  {
-    "server": "naro.guguli.co.uk",
+    "server": "ving.mozitop.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=naro.guguli.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "puot.mozitop.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "mio.mozitop.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
