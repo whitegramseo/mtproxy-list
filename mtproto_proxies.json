@@ -1,20 +1,20 @@
 [
   {
-    "server": "ardesvpn1.ru",
-    "port": 8443,
-    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-    "url": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-  },
-  {
-    "server": "lashboy.muzanesghy.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "cdn1.legacdn.com",
+    "server": "6997f5.swift-cdn.net",
     "port": 443,
-    "secret": "eea990d0794c43c68cdd51caea31e4e957706574726f766963682e7275",
-    "url": "tg://proxy?server=cdn1.legacdn.com&port=443&secret=eea990d0794c43c68cdd51caea31e4e957706574726f766963682e7275"
+    "secret": "ee77da8983d77f29210da791d3a3ace4ce3639393766352e73776966742d63646e2e6e6574",
+    "url": "tg://proxy?server=6997f5.swift-cdn.net&port=443&secret=ee77da8983d77f29210da791d3a3ace4ce3639393766352e73776966742d63646e2e6e6574"
+  },
+  {
+    "server": "023abb.vpngate-cloud.net",
+    "port": 443,
+    "secret": "ee7b867e2553478b4434adbed1539ebed23032336162622e76706e676174652d636c6f75642e6e6574",
+    "url": "tg://proxy?server=023abb.vpngate-cloud.net&port=443&secret=ee7b867e2553478b4434adbed1539ebed23032336162622e76706e676174652d636c6f75642e6e6574"
+  },
+  {
+    "server": "cdf419.mtpfast.com",
+    "port": 443,
+    "secret": "ee83c4a8430423b9e487366817979d585a6364663431392e6d7470666173742e636f6d",
+    "url": "tg://proxy?server=cdf419.mtpfast.com&port=443&secret=ee83c4a8430423b9e487366817979d585a6364663431392e6d7470666173742e636f6d"
   }
 ]
