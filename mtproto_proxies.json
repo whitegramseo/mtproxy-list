@@ -1,20 +1,20 @@
 [
   {
-    "server": "65.21.227.204",
+    "server": "data.fast-proxy.ink",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.21.227.204&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b",
+    "url": "tg://proxy?server=data.fast-proxy.ink&port=443&secret=eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
   },
   {
-    "server": "168.119.142.41",
+    "server": "live.best-proxy.ink",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=168.119.142.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b",
+    "url": "tg://proxy?server=live.best-proxy.ink&port=443&secret=eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b"
   },
   {
-    "server": "95.217.193.214",
+    "server": "gw.medblock.ink",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=95.217.193.214&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "ee41e23c396b97e4e44caaed70ec230b3e67772e6d6564626c6f636b2e696e6b",
+    "url": "tg://proxy?server=gw.medblock.ink&port=443&secret=ee41e23c396b97e4e44caaed70ec230b3e67772e6d6564626c6f636b2e696e6b"
   }
 ]
