@@ -1,20 +1,20 @@
 [
   {
-    "server": "6997f5.swift-cdn.net",
+    "server": "phloe.slarkfat.icu",
     "port": 443,
-    "secret": "ee77da8983d77f29210da791d3a3ace4ce3639393766352e73776966742d63646e2e6e6574",
-    "url": "tg://proxy?server=6997f5.swift-cdn.net&port=443&secret=ee77da8983d77f29210da791d3a3ace4ce3639393766352e73776966742d63646e2e6e6574"
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-    "server": "023abb.vpngate-cloud.net",
+    "server": "ad3.arixo.shop",
     "port": 443,
-    "secret": "ee7b867e2553478b4434adbed1539ebed23032336162622e76706e676174652d636c6f75642e6e6574",
-    "url": "tg://proxy?server=023abb.vpngate-cloud.net&port=443&secret=ee7b867e2553478b4434adbed1539ebed23032336162622e76706e676174652d636c6f75642e6e6574"
+    "secret": "ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70",
+    "url": "tg://proxy?server=ad3.arixo.shop&port=443&secret=ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70"
   },
   {
-    "server": "cdf419.mtpfast.com",
-    "port": 443,
-    "secret": "ee83c4a8430423b9e487366817979d585a6364663431392e6d7470666173742e636f6d",
-    "url": "tg://proxy?server=cdf419.mtpfast.com&port=443&secret=ee83c4a8430423b9e487366817979d585a6364663431392e6d7470666173742e636f6d"
+    "server": "new.nchnch.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=new.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
