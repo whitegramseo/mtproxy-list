@@ -1,20 +1,20 @@
 [
   {
-    "server": "mtp.webvirt.cloud",
+    "server": "ea3c6c.corecdn.net",
     "port": 443,
-    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-    "url": "tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
+    "secret": "ee52fa8e5c1961625448de597771c488b86561336336632e636f726563646e2e6e6574",
+    "url": "tg://proxy?server=ea3c6c.corecdn.net&port=443&secret=ee52fa8e5c1961625448de597771c488b86561336336632e636f726563646e2e6e6574"
   },
   {
-    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
-    "port": 4443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "5e7add.netgate.io",
+    "port": 443,
+    "secret": "ee2f250bd9810927ad35f39e8fdbadb2633565376164642e6e6574676174652e696f",
+    "url": "tg://proxy?server=5e7add.netgate.io&port=443&secret=ee2f250bd9810927ad35f39e8fdbadb2633565376164642e6e6574676174652e696f"
   },
   {
-    "server": "fighter-man.ir-proxy.manege-desktop-for.co.im",
-    "port": 4443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=fighter-man.ir-proxy.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "38663e.nodeflare.net",
+    "port": 443,
+    "secret": "ee4c9af30cd07adc37b46f74b793d598d93338363633652e6e6f6465666c6172652e6e6574",
+    "url": "tg://proxy?server=38663e.nodeflare.net&port=443&secret=ee4c9af30cd07adc37b46f74b793d598d93338363633652e6e6f6465666c6172652e6e6574"
   }
 ]
