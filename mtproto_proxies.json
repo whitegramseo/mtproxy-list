@@ -1,20 +1,20 @@
 [
   {
-    "server": "zon-b0z.co.uk",
-    "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=zon-b0z.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "server": "dev.nowabst.net",
+    "port": 853,
+    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d",
+    "url": "tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
   },
   {
-    "server": "bo0ji.co.uk",
+    "server": "rudmoain.co.uk",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=rudmoain.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "79.137.196.223",
-    "port": 12443,
-    "secret": "eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d",
-    "url": "tg://proxy?server=79.137.196.223&port=12443&secret=eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d"
+    "server": "speed-speed.co.uk",
+    "port": 443,
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=speed-speed.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   }
 ]
