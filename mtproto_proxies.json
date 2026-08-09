@@ -1,20 +1,20 @@
 [
   {
-    "server": "ea3c6c.corecdn.net",
+    "server": "rudmoain.co.uk",
     "port": 443,
-    "secret": "ee52fa8e5c1961625448de597771c488b86561336336632e636f726563646e2e6e6574",
-    "url": "tg://proxy?server=ea3c6c.corecdn.net&port=443&secret=ee52fa8e5c1961625448de597771c488b86561336336632e636f726563646e2e6e6574"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=rudmoain.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "5e7add.netgate.io",
+    "server": "speed-speed.co.uk",
     "port": 443,
-    "secret": "ee2f250bd9810927ad35f39e8fdbadb2633565376164642e6e6574676174652e696f",
-    "url": "tg://proxy?server=5e7add.netgate.io&port=443&secret=ee2f250bd9810927ad35f39e8fdbadb2633565376164642e6e6574676174652e696f"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=speed-speed.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "38663e.nodeflare.net",
+    "server": "wisp.slarkfat.icu",
     "port": 443,
-    "secret": "ee4c9af30cd07adc37b46f74b793d598d93338363633652e6e6f6465666c6172652e6e6574",
-    "url": "tg://proxy?server=38663e.nodeflare.net&port=443&secret=ee4c9af30cd07adc37b46f74b793d598d93338363633652e6e6f6465666c6172652e6e6574"
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=wisp.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
 ]
