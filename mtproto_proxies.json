@@ -1,20 +1,20 @@
 [
   {
-    "server": "smile.workingproxy.xyz",
+    "server": "proxy1.fluxvpnguard.ru",
     "port": 443,
-    "secret": "dd6767547c5dd848f55281e391e0153eae",
-    "url": "tg://proxy?server=smile.workingproxy.xyz&port=443&secret=dd6767547c5dd848f55281e391e0153eae"
+    "secret": "1a2b3c4d5e6f708192a3b4c5d6e7f809",
+    "url": "tg://proxy?server=proxy1.fluxvpnguard.ru&port=443&secret=1a2b3c4d5e6f708192a3b4c5d6e7f809"
   },
   {
-    "server": "ving.mozitop.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "eu.fluxvpnguard.ru",
+    "port": 443,
+    "secret": "9f8e7d6c5b4a392817160504030201ab",
+    "url": "tg://proxy?server=eu.fluxvpnguard.ru&port=443&secret=9f8e7d6c5b4a392817160504030201ab"
   },
   {
-    "server": "puot.mozitop.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "fast.fluxvpnguard.ru",
+    "port": 443,
+    "secret": "abcdef1234567890fedcba0987654321",
+    "url": "tg://proxy?server=fast.fluxvpnguard.ru&port=443&secret=abcdef1234567890fedcba0987654321"
   }
 ]
