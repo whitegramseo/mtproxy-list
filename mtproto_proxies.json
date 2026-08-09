@@ -1,20 +1,20 @@
 [
   {
-    "server": "please.workingproxy.xyz",
+    "server": "mtp1.hlebushek.com",
     "port": 443,
-    "secret": "dd82072d16cfe4355b088c61cd897d0533",
-    "url": "tg://proxy?server=please.workingproxy.xyz&port=443&secret=dd82072d16cfe4355b088c61cd897d0533"
+    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275",
+    "url": "tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
   },
   {
-    "server": "data.fast-proxy.ink",
+    "server": "mtp2.hlebushek.com",
     "port": 443,
-    "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b",
-    "url": "tg://proxy?server=data.fast-proxy.ink&port=443&secret=eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
+    "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275",
+    "url": "tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
   },
   {
-    "server": "live.best-proxy.ink",
+    "server": "mtp3.hlebushek.com",
     "port": 443,
-    "secret": "eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b",
-    "url": "tg://proxy?server=live.best-proxy.ink&port=443&secret=eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b"
+    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275",
+    "url": "tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
   }
 ]
