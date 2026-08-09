@@ -1,20 +1,20 @@
 [
   {
-    "server": "31.hide.newflamingodomain.co.uk",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "sync.fleethop.online",
+    "port": 443,
+    "secret": "ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65",
+    "url": "tg://proxy?server=sync.fleethop.online&port=443&secret=ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65"
   },
   {
-    "server": "41.hide.newflamingodomain.co.uk",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "data.fast-proxy.ink",
+    "port": 443,
+    "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b",
+    "url": "tg://proxy?server=data.fast-proxy.ink&port=443&secret=eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
   },
   {
-    "server": "m.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk",
-    "port": 80,
-    "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ==",
-    "url": "tg://proxy?server=m.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk&port=80&secret=7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
+    "server": "live.best-proxy.ink",
+    "port": 443,
+    "secret": "eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b",
+    "url": "tg://proxy?server=live.best-proxy.ink&port=443&secret=eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b"
   }
 ]
