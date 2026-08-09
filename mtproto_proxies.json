@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy1.fluxvpnguard.ru",
-    "port": 443,
-    "secret": "1a2b3c4d5e6f708192a3b4c5d6e7f809",
-    "url": "tg://proxy?server=proxy1.fluxvpnguard.ru&port=443&secret=1a2b3c4d5e6f708192a3b4c5d6e7f809"
+    "server": "31.hide.newflamingodomain.co.uk",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "eu.fluxvpnguard.ru",
-    "port": 443,
-    "secret": "9f8e7d6c5b4a392817160504030201ab",
-    "url": "tg://proxy?server=eu.fluxvpnguard.ru&port=443&secret=9f8e7d6c5b4a392817160504030201ab"
+    "server": "41.hide.newflamingodomain.co.uk",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "fast.fluxvpnguard.ru",
-    "port": 443,
-    "secret": "abcdef1234567890fedcba0987654321",
-    "url": "tg://proxy?server=fast.fluxvpnguard.ru&port=443&secret=abcdef1234567890fedcba0987654321"
+    "server": "m.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk",
+    "port": 80,
+    "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ==",
+    "url": "tg://proxy?server=m.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk&port=80&secret=7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
   }
 ]
