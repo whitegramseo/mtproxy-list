@@ -1,20 +1,20 @@
 [
   {
-    "server": "sorry.workingproxy.xyz",
+    "server": "happy.whiteproxy.baby",
     "port": 443,
-    "secret": "dd2fea54ae589357ef6657bf0c057a593a",
-    "url": "tg://proxy?server=sorry.workingproxy.xyz&port=443&secret=dd2fea54ae589357ef6657bf0c057a593a"
+    "secret": "ddf1284a8137961061b01ca4ace364b422",
+    "url": "tg://proxy?server=happy.whiteproxy.baby&port=443&secret=ddf1284a8137961061b01ca4ace364b422"
   },
   {
-    "server": "lor.barhousefarm.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=lor.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "zon-b0z.co.uk",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=zon-b0z.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "kurd.tryzub-it.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=kurd.tryzub-it.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "bo0ji.co.uk",
+    "port": 443,
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
 ]
