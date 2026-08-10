@@ -1,20 +1,20 @@
 [
   {
-    "server": "happy.whiteproxy.baby",
+    "server": "mtp1.hlebushek.com",
     "port": 443,
-    "secret": "ddf1284a8137961061b01ca4ace364b422",
-    "url": "tg://proxy?server=happy.whiteproxy.baby&port=443&secret=ddf1284a8137961061b01ca4ace364b422"
+    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275",
+    "url": "tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
   },
   {
-    "server": "zon-b0z.co.uk",
+    "server": "mtp2.hlebushek.com",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=zon-b0z.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275",
+    "url": "tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
   },
   {
-    "server": "bo0ji.co.uk",
+    "server": "mtp3.hlebushek.com",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275",
+    "url": "tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
   }
 ]
