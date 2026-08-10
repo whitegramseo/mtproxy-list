@@ -1,20 +1,20 @@
 [
   {
-    "server": "edge2.kvakzon.top",
-    "port": 443,
-    "secret": "eed6962c6820fac66c942ad857b7072ae265646765322e6b76616b7a6f6e2e746f70",
-    "url": "tg://proxy?server=edge2.kvakzon.top&port=443&secret=eed6962c6820fac66c942ad857b7072ae265646765322e6b76616b7a6f6e2e746f70"
+    "server": "79.137.196.223",
+    "port": 14443,
+    "secret": "ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d",
+    "url": "tg://proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d"
   },
   {
-    "server": "node2.kvakzon.top",
-    "port": 443,
-    "secret": "eed8ddbd288df6384bafd70313afa19dd56e6f6465322e6b76616b7a6f6e2e746f70",
-    "url": "tg://proxy?server=node2.kvakzon.top&port=443&secret=eed8ddbd288df6384bafd70313afa19dd56e6f6465322e6b76616b7a6f6e2e746f70"
-  },
-  {
-    "server": "severjadid.co.uk",
+    "server": "new7.mizanmizanesgh.co.uk",
     "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "url": "tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+  },
+  {
+    "server": "mizaneshgh2.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
