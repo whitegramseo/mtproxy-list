@@ -1,20 +1,20 @@
 [
   {
-    "server": "mtp1.hlebushek.com",
+    "server": "love.neverspy.online",
     "port": 443,
-    "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275",
-    "url": "tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275"
+    "secret": "ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=love.neverspy.online&port=443&secret=ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d"
   },
   {
-    "server": "mtp2.hlebushek.com",
-    "port": 443,
-    "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275",
-    "url": "tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275"
+    "server": "beer.crona-extra.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=beer.crona-extra.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "mtp3.hlebushek.com",
-    "port": 443,
-    "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275",
-    "url": "tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d99ff91b706574726f766963682e7275"
+    "server": "bastani.mikham.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=bastani.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   }
 ]
