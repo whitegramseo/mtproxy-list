@@ -1,20 +1,20 @@
 [
   {
-    "server": "noise.hajikalashatelservieshamrahavalcandy.co.uk",
-    "port": 80,
-    "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ==",
-    "url": "tg://proxy?server=noise.hajikalashatelservieshamrahavalcandy.co.uk&port=80&secret=7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
-  },
-  {
-    "server": "avavavavav.mohearn.co.uk",
+    "server": "edge2.kvakzon.top",
     "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=avavavavav.mohearn.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+    "secret": "eed6962c6820fac66c942ad857b7072ae265646765322e6b76616b7a6f6e2e746f70",
+    "url": "tg://proxy?server=edge2.kvakzon.top&port=443&secret=eed6962c6820fac66c942ad857b7072ae265646765322e6b76616b7a6f6e2e746f70"
   },
   {
-    "server": "1.hide.newflamingodomain.co.uk",
-    "port": 8443,
+    "server": "node2.kvakzon.top",
+    "port": 443,
+    "secret": "eed8ddbd288df6384bafd70313afa19dd56e6f6465322e6b76616b7a6f6e2e746f70",
+    "url": "tg://proxy?server=node2.kvakzon.top&port=443&secret=eed8ddbd288df6384bafd70313afa19dd56e6f6465322e6b76616b7a6f6e2e746f70"
+  },
+  {
+    "server": "severjadid.co.uk",
+    "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "url": "tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
