@@ -1,20 +1,20 @@
 [
   {
-    "server": "love.neverspy.online",
+    "server": "zon-b0z.co.uk",
     "port": 443,
-    "secret": "ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=love.neverspy.online&port=443&secret=ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=zon-b0z.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "beer.crona-extra.co.uk",
+    "server": "premium.speed-benz.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=beer.crona-extra.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "bastani.mikham.co.uk",
+    "server": "uptime.speed-benz.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=bastani.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
