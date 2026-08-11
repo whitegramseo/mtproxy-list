@@ -1,20 +1,20 @@
 [
   {
-    "server": "something.nolagsproxy.space",
+    "server": "api2.kvakzon.top",
     "port": 443,
-    "secret": "ddc37865906f67acf72c1ec56241721d56",
-    "url": "tg://proxy?server=something.nolagsproxy.space&port=443&secret=ddc37865906f67acf72c1ec56241721d56"
+    "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70",
+    "url": "tg://proxy?server=api2.kvakzon.top&port=443&secret=eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
   },
   {
-    "server": "suodbo.co.uk",
+    "server": "cdn2.kvakzon.top",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=suodbo.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "eed885bc652307c8aefb476d484c87b5be63646e322e6b76616b7a6f6e2e746f70",
+    "url": "tg://proxy?server=cdn2.kvakzon.top&port=443&secret=eed885bc652307c8aefb476d484c87b5be63646e322e6b76616b7a6f6e2e746f70"
   },
   {
-    "server": "hel-hi.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=hel-hi.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "new1.ugtd8sxxcyt.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=new1.ugtd8sxxcyt.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
