@@ -1,20 +1,20 @@
 [
   {
-    "server": "zon-b0z.co.uk",
-    "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=zon-b0z.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "server": "fighter-man.ir-proxy.manege-desktop-for.co.im",
+    "port": 4443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=fighter-man.ir-proxy.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "ops2ops.co.uk",
-    "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=ops2ops.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
+    "port": 4443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "skein.chunkycorp.shop",
-    "port": 8443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "server": "gate.24starsmarket.ru",
+    "port": 443,
+    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275",
+    "url": "tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
   }
 ]
