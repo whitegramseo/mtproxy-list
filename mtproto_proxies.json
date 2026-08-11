@@ -1,20 +1,20 @@
 [
   {
-    "server": "api2.kvakzon.top",
+    "server": "mtp.webvirt.cloud",
     "port": 443,
-    "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70",
-    "url": "tg://proxy?server=api2.kvakzon.top&port=443&secret=eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "url": "tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
   },
   {
-    "server": "cdn2.kvakzon.top",
+    "server": "zon-b0z.co.uk",
     "port": 443,
-    "secret": "eed885bc652307c8aefb476d484c87b5be63646e322e6b76616b7a6f6e2e746f70",
-    "url": "tg://proxy?server=cdn2.kvakzon.top&port=443&secret=eed885bc652307c8aefb476d484c87b5be63646e322e6b76616b7a6f6e2e746f70"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=zon-b0z.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "new1.ugtd8sxxcyt.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=new1.ugtd8sxxcyt.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "uptime.speed-benz.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
