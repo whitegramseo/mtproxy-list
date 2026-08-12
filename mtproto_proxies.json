@@ -1,20 +1,20 @@
 [
   {
-    "server": "ardesvpn1.ru",
-    "port": 8443,
-    "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-    "url": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    "server": "speed2.luna-tun.site",
+    "port": 443,
+    "secret": "ee6e53ed117b401c54bc880b545089e6276f7a6f6e2e7275",
+    "url": "tg://proxy?server=speed2.luna-tun.site&port=443&secret=ee6e53ed117b401c54bc880b545089e6276f7a6f6e2e7275"
   },
   {
-    "server": "41.hide.newflamingodomain.co.uk",
-    "port": 8443,
+    "server": "mizaneshgh2.co.uk",
+    "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "url": "tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "31.hide.newflamingodomain.co.uk",
-    "port": 8443,
+    "server": "lashboy.muzanesghy.co.uk",
+    "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "url": "tg://proxy?server=lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
