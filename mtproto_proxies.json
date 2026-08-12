@@ -1,20 +1,20 @@
 [
   {
-    "server": "hub.neo-vpn.ink",
-    "port": 443,
-    "secret": "eea29dda982c54198f00ea8d440fa6f8ce6875622e6e656f2d76706e2e696e6b",
-    "url": "tg://proxy?server=hub.neo-vpn.ink&port=443&secret=eea29dda982c54198f00ea8d440fa6f8ce6875622e6e656f2d76706e2e696e6b"
+    "server": "ccc.horizon555.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "sync.fleethop.online",
-    "port": 443,
-    "secret": "ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65",
-    "url": "tg://proxy?server=sync.fleethop.online&port=443&secret=ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65"
+    "server": "one.horizon555.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "data.fast-proxy.ink",
-    "port": 443,
-    "secret": "eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b",
-    "url": "tg://proxy?server=data.fast-proxy.ink&port=443&secret=eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b"
+    "server": "ooo.horizon555.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=ooo.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
