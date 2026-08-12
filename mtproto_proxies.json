@@ -1,20 +1,20 @@
 [
   {
-    "server": "opeenhostings.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=opeenhostings.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "nyakawai.shop",
+    "port": 2053,
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=nyakawai.shop&port=2053&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-    "server": "beest-sellerst.co.uk",
+    "server": "gate.24starsmarket.ru",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=beest-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275",
+    "url": "tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
   },
   {
-    "server": "proxy.lodkirmm.ru",
+    "server": "delbar.wrenshire.co.uk",
     "port": 8443,
-    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-    "url": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=delbar.wrenshire.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
