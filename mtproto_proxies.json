@@ -1,20 +1,20 @@
 [
   {
-    "server": "opeenhostings.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=opeenhostings.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "king-of-the-world.ir.bishdhaep.info",
+    "port": 88,
+    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=king-of-the-world.ir.bishdhaep.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "speed-speed.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=speed-speed.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "best.ping.ir.hdhdhfdrde.info",
+    "port": 88,
+    "secret": "ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=best.ping.ir.hdhdhfdrde.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "beest-sellerst.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=beest-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "lab.nowabst.net",
+    "port": 853,
+    "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d",
+    "url": "tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
   }
 ]
