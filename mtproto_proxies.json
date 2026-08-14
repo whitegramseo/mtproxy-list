@@ -1,20 +1,20 @@
 [
   {
-    "server": "webhook.what-ever.co.uk",
+    "server": "srv.medblock.fit",
     "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "url": "tg://proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+    "secret": "eeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974",
+    "url": "tg://proxy?server=srv.medblock.fit&port=443&secret=eeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974"
   },
   {
-    "server": "ftp.jinxandjack.co.uk",
+    "server": "hub.neo-vpn.ink",
     "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "url": "tg://proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+    "secret": "eea29dda982c54198f00ea8d440fa6f8ce6875622e6e656f2d76706e2e696e6b",
+    "url": "tg://proxy?server=hub.neo-vpn.ink&port=443&secret=eea29dda982c54198f00ea8d440fa6f8ce6875622e6e656f2d76706e2e696e6b"
   },
   {
-    "server": "webhook.vingardium.co.uk",
+    "server": "sync.fleethop.online",
     "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "url": "tg://proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+    "secret": "ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65",
+    "url": "tg://proxy?server=sync.fleethop.online&port=443&secret=ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65"
   }
 ]
