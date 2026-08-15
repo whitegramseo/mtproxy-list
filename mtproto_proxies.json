@@ -1,20 +1,20 @@
 [
   {
-    "server": "65.21.227.204",
+    "server": "love.neverspy.online",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.21.227.204&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=love.neverspy.online&port=443&secret=ee24b3e49b9d33101f2c34e5e893bd90d17777772e6d6963726f736f66742e636f6d"
   },
   {
-    "server": "65.108.126.199",
+    "server": "nevspy.corph.ru",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.108.126.199&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "eeb84c4dd66de8cfc70f103d43748431ec7777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=nevspy.corph.ru&port=443&secret=eeb84c4dd66de8cfc70f103d43748431ec7777772e6d6963726f736f66742e636f6d"
   },
   {
-    "server": "65.21.205.41",
+    "server": "starstg.neverspy.tech",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.21.205.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "eee19ef78b188ec248d8187c787a46ccca647a656e2e7275",
+    "url": "tg://proxy?server=starstg.neverspy.tech&port=443&secret=eee19ef78b188ec248d8187c787a46ccca647a656e2e7275"
   }
 ]
