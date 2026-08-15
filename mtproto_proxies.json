@@ -1,20 +1,20 @@
 [
   {
-    "server": "lab.nowabst.net",
-    "port": 853,
-    "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d",
-    "url": "tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
-  },
-  {
-    "server": "scott.startnetwork.shop",
+    "server": "fast.barhousefarm.co.uk",
     "port": 443,
-    "secret": "dda700feed03536024f619edce4247c18a",
-    "url": "tg://proxy?server=scott.startnetwork.shop&port=443&secret=dda700feed03536024f619edce4247c18a"
+    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
+    "url": "tg://proxy?server=fast.barhousefarm.co.uk&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
-    "server": "uptime.speed-benz.co.uk",
+    "server": "31.hide.newflamingodomain.co.uk",
     "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+  },
+  {
+    "server": "yeke-jahan.mohearn.co.uk",
+    "port": 443,
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=yeke-jahan.mohearn.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   }
 ]
