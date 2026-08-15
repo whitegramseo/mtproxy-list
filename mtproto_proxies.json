@@ -1,20 +1,20 @@
 [
   {
-    "server": "premium.speed-benz.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "scott.startnetwork.shop",
+    "port": 443,
+    "secret": "dda700feed03536024f619edce4247c18a",
+    "url": "tg://proxy?server=scott.startnetwork.shop&port=443&secret=dda700feed03536024f619edce4247c18a"
   },
   {
-    "server": "dns.speed-benz.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "jeremy.helloworld.surf",
+    "port": 443,
+    "secret": "dd5a369539630cf83a6c2a9a9af2c1cd95",
+    "url": "tg://proxy?server=jeremy.helloworld.surf&port=443&secret=dd5a369539630cf83a6c2a9a9af2c1cd95"
   },
   {
-    "server": "uptime.speed-benz.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
+    "port": 4443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
