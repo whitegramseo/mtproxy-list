@@ -1,20 +1,20 @@
 [
   {
-    "server": "opeenhostings.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=opeenhostings.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "lab.nowabst.net",
+    "port": 853,
+    "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d",
+    "url": "tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
   },
   {
-    "server": "speed-speed.co.uk",
+    "server": "scott.startnetwork.shop",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=speed-speed.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "dda700feed03536024f619edce4247c18a",
+    "url": "tg://proxy?server=scott.startnetwork.shop&port=443&secret=dda700feed03536024f619edce4247c18a"
   },
   {
-    "server": "beest-sellerst.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=beest-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "uptime.speed-benz.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
