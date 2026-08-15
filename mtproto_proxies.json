@@ -1,20 +1,20 @@
 [
   {
-    "server": "gamerpr.cfd",
-    "port": 8880,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=gamerpr.cfd&port=8880&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
+    "port": 4443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "node.easyproxy.cfd",
-    "port": 443,
-    "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664",
-    "url": "tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
-  },
-  {
-    "server": "null.wrenshire.co.uk",
+    "server": "me.wrenshire.co.uk",
     "port": 8443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=null.wrenshire.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=me.wrenshire.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "delbar.wrenshire.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=delbar.wrenshire.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
