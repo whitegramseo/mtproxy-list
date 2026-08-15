@@ -1,20 +1,20 @@
 [
   {
-    "server": "ethereal11.arixo.shop",
+    "server": "65.21.227.204",
     "port": 443,
-    "secret": "7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A",
-    "url": "tg://proxy?server=ethereal11.arixo.shop&port=443&secret=7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=65.21.227.204&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "lab.nowabst.net",
-    "port": 853,
-    "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d",
-    "url": "tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
+    "server": "65.108.126.199",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=65.108.126.199&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "opeenhostings.co.uk",
+    "server": "65.21.205.41",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=opeenhostings.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=65.21.205.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
