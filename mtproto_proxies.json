@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy.lodkirmm.ru",
-    "port": 8443,
-    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-    "url": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
-  },
-  {
-    "server": "dis.connectina.co.uk",
+    "server": "turk.dasy2k1.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=dis.connectina.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "url": "tg://proxy?server=turk.dasy2k1.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "iran.connectina.co.uk",
+    "server": "my-iran.dinocol.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=iran.connectina.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "url": "tg://proxy?server=my-iran.dinocol.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+    "server": "kurd.tryzub-it.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=kurd.tryzub-it.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
