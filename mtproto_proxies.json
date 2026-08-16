@@ -1,20 +1,20 @@
 [
   {
-    "server": "benz.mohearn.co.uk",
-    "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=benz.mohearn.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+    "server": "cdn2.medhata.org",
+    "port": 2443,
+    "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267",
+    "url": "tg://proxy?server=cdn2.medhata.org&port=2443&secret=ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
   },
   {
-    "server": "41.hide.newflamingodomain.co.uk",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "api2.medhata.org",
+    "port": 2443,
+    "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267",
+    "url": "tg://proxy?server=api2.medhata.org&port=2443&secret=ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
   },
   {
-    "server": "god-mode-on.peachsoft.co.uk",
+    "server": "family.helloworld.surf",
     "port": 443,
-    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
-    "url": "tg://proxy?server=god-mode-on.peachsoft.co.uk&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
+    "secret": "dd7571474542ef491179322488d73d1ffc",
+    "url": "tg://proxy?server=family.helloworld.surf&port=443&secret=dd7571474542ef491179322488d73d1ffc"
   }
 ]
