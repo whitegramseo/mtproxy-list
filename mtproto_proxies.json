@@ -1,20 +1,20 @@
 [
   {
-    "server": "135.181.74.154",
+    "server": "nyakawai.shop",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=135.181.74.154&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=nyakawai.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-    "server": "yarypple.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=yarypple.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "gate.24starsmarket.ru",
+    "port": 443,
+    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275",
+    "url": "tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
   },
   {
-    "server": "rootssh2.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=rootssh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "s02.neo-trading.org",
+    "port": 443,
+    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+    "url": "tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
   }
 ]
