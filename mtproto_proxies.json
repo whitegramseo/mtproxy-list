@@ -1,20 +1,20 @@
 [
   {
-    "server": "484732.proxyhub.co",
-    "port": 443,
-    "secret": "ee5de76052d3430f237337281a95e9cea23438343733322e70726f78796875622e636f",
-    "url": "tg://proxy?server=484732.proxyhub.co&port=443&secret=ee5de76052d3430f237337281a95e9cea23438343733322e70726f78796875622e636f"
+    "server": "api.nowabst.net",
+    "port": 853,
+    "secret": "ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d",
+    "url": "tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d"
   },
   {
-    "server": "d438cd.nodeflare.net",
-    "port": 443,
-    "secret": "ee9b614f2a8f633f582b011b71dba760966434333863642e6e6f6465666c6172652e6e6574",
-    "url": "tg://proxy?server=d438cd.nodeflare.net&port=443&secret=ee9b614f2a8f633f582b011b71dba760966434333863642e6e6f6465666c6172652e6e6574"
+    "server": "dev.nowabst.net",
+    "port": 853,
+    "secret": "ee54079943a5db4dc9163650c09dfc806d766b2e636f6d",
+    "url": "tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d"
   },
   {
-    "server": "b8af0e.hopwire.io",
-    "port": 443,
-    "secret": "ee9983e26fda53ed1459d75e3ff9dec9c56238616630652e686f70776972652e696f",
-    "url": "tg://proxy?server=b8af0e.hopwire.io&port=443&secret=ee9983e26fda53ed1459d75e3ff9dec9c56238616630652e686f70776972652e696f"
+    "server": "lab.nowabst.net",
+    "port": 853,
+    "secret": "eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d",
+    "url": "tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d"
   }
 ]
