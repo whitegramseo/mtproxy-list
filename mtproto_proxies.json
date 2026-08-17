@@ -1,20 +1,20 @@
 [
   {
-    "server": "1.hide.newflamingodomain.co.uk",
-    "port": 8443,
+    "server": "mizaneshgh2.co.uk",
+    "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "url": "tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "21.hide.newflamingodomain.co.uk",
-    "port": 8443,
+    "server": "lashboy.muzanesghy.co.uk",
+    "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "url": "tg://proxy?server=lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "fast.barhousefarm.co.uk",
-    "port": 443,
-    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
-    "url": "tg://proxy?server=fast.barhousefarm.co.uk&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
+    "server": "new7.mizanmizanesgh.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
