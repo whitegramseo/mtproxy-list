@@ -1,20 +1,20 @@
 [
   {
-    "server": "googel.alo-otp.info",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=googel.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
+    "port": 4443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "new.bestbattle.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=new.bestbattle.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "beam.whitelist.cyou",
+    "port": 443,
+    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75",
+    "url": "tg://proxy?server=beam.whitelist.cyou&port=443&secret=ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
   },
   {
-    "server": "akb.bestbattle.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=akb.bestbattle.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "nyakawai.shop",
+    "port": 443,
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=nyakawai.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   }
 ]
