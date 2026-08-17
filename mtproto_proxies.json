@@ -1,20 +1,20 @@
 [
   {
-    "server": "mizaneshgh2.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "484732.proxyhub.co",
+    "port": 443,
+    "secret": "ee5de76052d3430f237337281a95e9cea23438343733322e70726f78796875622e636f",
+    "url": "tg://proxy?server=484732.proxyhub.co&port=443&secret=ee5de76052d3430f237337281a95e9cea23438343733322e70726f78796875622e636f"
   },
   {
-    "server": "lashboy.muzanesghy.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "d438cd.nodeflare.net",
+    "port": 443,
+    "secret": "ee9b614f2a8f633f582b011b71dba760966434333863642e6e6f6465666c6172652e6e6574",
+    "url": "tg://proxy?server=d438cd.nodeflare.net&port=443&secret=ee9b614f2a8f633f582b011b71dba760966434333863642e6e6f6465666c6172652e6e6574"
   },
   {
-    "server": "new7.mizanmizanesgh.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "b8af0e.hopwire.io",
+    "port": 443,
+    "secret": "ee9983e26fda53ed1459d75e3ff9dec9c56238616630652e686f70776972652e696f",
+    "url": "tg://proxy?server=b8af0e.hopwire.io&port=443&secret=ee9983e26fda53ed1459d75e3ff9dec9c56238616630652e686f70776972652e696f"
   }
 ]
