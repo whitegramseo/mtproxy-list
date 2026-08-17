@@ -1,20 +1,20 @@
 [
   {
-    "server": "edge.catsproxy.shop",
+    "server": "cdn5.cdnwave.org",
     "port": 443,
-    "secret": "ee77e833a4cf612b12af5c86614cc5291a656467652e6361747370726f78792e73686f70",
-    "url": "tg://proxy?server=edge.catsproxy.shop&port=443&secret=ee77e833a4cf612b12af5c86614cc5291a656467652e6361747370726f78792e73686f70"
+    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275",
+    "url": "tg://proxy?server=cdn5.cdnwave.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
   },
   {
-    "server": "gamerpr.cfd",
+    "server": "media.happtg.org",
     "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "secret": "eed9cf709eb48bb5a37471fba84864bd7e766b2e7275",
+    "url": "tg://proxy?server=media.happtg.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275"
   },
   {
-    "server": "sioms.co.uk",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "s3.assetflux.org",
+    "port": 443,
+    "secret": "ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275",
+    "url": "tg://proxy?server=s3.assetflux.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275"
   }
 ]
