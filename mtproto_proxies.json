@@ -1,20 +1,20 @@
 [
   {
-    "server": "irancell-mci-rightell-adsl.konstruktion.co.uk",
+    "server": "t.meow-network.com",
     "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "url": "tg://proxy?server=irancell-mci-rightell-adsl.konstruktion.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
+    "url": "tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
   },
   {
-    "server": "irancell-mci-rightell-adsl.mr-moo.co.uk",
+    "server": "peak.helloworld.surf",
     "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "url": "tg://proxy?server=irancell-mci-rightell-adsl.mr-moo.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+    "secret": "ddae7a078698a9289137599c9762db5d65",
+    "url": "tg://proxy?server=peak.helloworld.surf&port=443&secret=ddae7a078698a9289137599c9762db5d65"
   },
   {
-    "server": "runserver.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=runserver.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "api.nowabst.net",
+    "port": 853,
+    "secret": "ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d",
+    "url": "tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d"
   }
 ]
