@@ -1,20 +1,20 @@
 [
   {
-    "server": "media10.happtg.org",
-    "port": 443,
-    "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275",
-    "url": "tg://proxy?server=media10.happtg.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
+    "server": "79.137.196.223",
+    "port": 13443,
+    "secret": "eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d",
+    "url": "tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d"
   },
   {
-    "server": "media7.happtg.org",
+    "server": "iran-download.mr-moo.co.uk",
     "port": 443,
-    "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
-    "url": "tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275"
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=iran-download.mr-moo.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   },
   {
-    "server": "media9.happtg.org",
+    "server": "last.konstruktion.co.uk",
     "port": 443,
-    "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275",
-    "url": "tg://proxy?server=media9.happtg.org&port=443&secret=ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275"
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=last.konstruktion.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   }
 ]
