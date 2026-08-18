@@ -1,20 +1,20 @@
 [
   {
-    "server": "edge.catsproxy.shop",
+    "server": "benz.mohearn.co.uk",
     "port": 443,
-    "secret": "ee77e833a4cf612b12af5c86614cc5291a656467652e6361747370726f78792e73686f70",
-    "url": "tg://proxy?server=edge.catsproxy.shop&port=443&secret=ee77e833a4cf612b12af5c86614cc5291a656467652e6361747370726f78792e73686f70"
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=benz.mohearn.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   },
   {
-    "server": "gamerpr.cfd",
+    "server": "god-mode-on.peachsoft.co.uk",
     "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
+    "url": "tg://proxy?server=god-mode-on.peachsoft.co.uk&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
-    "server": "sioms.co.uk",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "41.hide.newflamingodomain.co.uk",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
