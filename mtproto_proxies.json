@@ -1,20 +1,20 @@
 [
   {
-    "server": "1edbb7.swift-cdn.net",
+    "server": "edge.catsproxy.shop",
     "port": 443,
-    "secret": "ee97e8cdb42a1ef4bb9c492b907e8cbc6b3165646262372e73776966742d63646e2e6e6574",
-    "url": "tg://proxy?server=1edbb7.swift-cdn.net&port=443&secret=ee97e8cdb42a1ef4bb9c492b907e8cbc6b3165646262372e73776966742d63646e2e6e6574"
+    "secret": "ee77e833a4cf612b12af5c86614cc5291a656467652e6361747370726f78792e73686f70",
+    "url": "tg://proxy?server=edge.catsproxy.shop&port=443&secret=ee77e833a4cf612b12af5c86614cc5291a656467652e6361747370726f78792e73686f70"
   },
   {
-    "server": "df2ccf.corecdn.net",
+    "server": "gamerpr.cfd",
     "port": 443,
-    "secret": "eef7a78d6c6eeb3db1c0bff127b7b0f4656466326363662e636f726563646e2e6e6574",
-    "url": "tg://proxy?server=df2ccf.corecdn.net&port=443&secret=eef7a78d6c6eeb3db1c0bff127b7b0f4656466326363662e636f726563646e2e6e6574"
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
   },
   {
-    "server": "9251e9.dashcdn.org",
-    "port": 443,
-    "secret": "ee4c707c8e5e29062b255bc5f4543a4d963932353165392e6461736863646e2e6f7267",
-    "url": "tg://proxy?server=9251e9.dashcdn.org&port=443&secret=ee4c707c8e5e29062b255bc5f4543a4d963932353165392e6461736863646e2e6f7267"
+    "server": "sioms.co.uk",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   }
 ]
