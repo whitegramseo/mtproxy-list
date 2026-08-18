@@ -1,20 +1,20 @@
 [
   {
-    "server": "sioms.co.uk",
+    "server": "node.easyproxy.cfd",
+    "port": 443,
+    "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664",
+    "url": "tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
+  },
+  {
+    "server": "megaconnect.click",
+    "port": 443,
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=megaconnect.click&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+    "server": "fresh.t-proxy.info",
     "port": 25565,
     "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-    "server": "6adf24.linkwave.io",
-    "port": 443,
-    "secret": "ee20e961e9cce4da79d95e399b07edadc13661646632342e6c696e6b776176652e696f",
-    "url": "tg://proxy?server=6adf24.linkwave.io&port=443&secret=ee20e961e9cce4da79d95e399b07edadc13661646632342e6c696e6b776176652e696f"
-  },
-  {
-    "server": "cc5f7a.linkwave.io",
-    "port": 443,
-    "secret": "ee600e30d332011af975a42edaba929ecd6363356637612e6c696e6b776176652e696f",
-    "url": "tg://proxy?server=cc5f7a.linkwave.io&port=443&secret=ee600e30d332011af975a42edaba929ecd6363356637612e6c696e6b776176652e696f"
+    "url": "tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   }
 ]
