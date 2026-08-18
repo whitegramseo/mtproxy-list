@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxtstar.live",
+    "server": "1edbb7.swift-cdn.net",
     "port": 443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=proxtstar.live&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+    "secret": "ee97e8cdb42a1ef4bb9c492b907e8cbc6b3165646262372e73776966742d63646e2e6e6574",
+    "url": "tg://proxy?server=1edbb7.swift-cdn.net&port=443&secret=ee97e8cdb42a1ef4bb9c492b907e8cbc6b3165646262372e73776966742d63646e2e6e6574"
   },
   {
-    "server": "gate.24starsmarket.ru",
+    "server": "df2ccf.corecdn.net",
     "port": 443,
-    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275",
-    "url": "tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
+    "secret": "eef7a78d6c6eeb3db1c0bff127b7b0f4656466326363662e636f726563646e2e6e6574",
+    "url": "tg://proxy?server=df2ccf.corecdn.net&port=443&secret=eef7a78d6c6eeb3db1c0bff127b7b0f4656466326363662e636f726563646e2e6e6574"
   },
   {
-    "server": "opps.runserver.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=opps.runserver.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "9251e9.dashcdn.org",
+    "port": 443,
+    "secret": "ee4c707c8e5e29062b255bc5f4543a4d963932353165392e6461736863646e2e6f7267",
+    "url": "tg://proxy?server=9251e9.dashcdn.org&port=443&secret=ee4c707c8e5e29062b255bc5f4543a4d963932353165392e6461736863646e2e6f7267"
   }
 ]
