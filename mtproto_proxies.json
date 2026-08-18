@@ -1,20 +1,20 @@
 [
   {
-    "server": "benz.mohearn.co.uk",
-    "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=benz.mohearn.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+    "server": "sioms.co.uk",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "god-mode-on.peachsoft.co.uk",
+    "server": "6adf24.linkwave.io",
     "port": 443,
-    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
-    "url": "tg://proxy?server=god-mode-on.peachsoft.co.uk&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
+    "secret": "ee20e961e9cce4da79d95e399b07edadc13661646632342e6c696e6b776176652e696f",
+    "url": "tg://proxy?server=6adf24.linkwave.io&port=443&secret=ee20e961e9cce4da79d95e399b07edadc13661646632342e6c696e6b776176652e696f"
   },
   {
-    "server": "41.hide.newflamingodomain.co.uk",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "cc5f7a.linkwave.io",
+    "port": 443,
+    "secret": "ee600e30d332011af975a42edaba929ecd6363356637612e6c696e6b776176652e696f",
+    "url": "tg://proxy?server=cc5f7a.linkwave.io&port=443&secret=ee600e30d332011af975a42edaba929ecd6363356637612e6c696e6b776176652e696f"
   }
 ]
