@@ -1,20 +1,20 @@
 [
   {
-    "server": "api2.medhata.org",
-    "port": 2443,
-    "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267",
-    "url": "tg://proxy?server=api2.medhata.org&port=2443&secret=ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
-  },
-  {
-    "server": "cdn2.medhata.org",
-    "port": 2443,
-    "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267",
-    "url": "tg://proxy?server=cdn2.medhata.org&port=2443&secret=ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
-  },
-  {
-    "server": "turk.dasy2k1.co.uk",
+    "server": "iran.pcspeedyfix.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=turk.dasy2k1.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "url": "tg://proxy?server=iran.pcspeedyfix.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+    "server": "iran.yhge.co.uk",
+    "port": 443,
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=iran.yhge.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+    "server": "irancell-mci-rightell-adsl.mr-moo.co.uk",
+    "port": 443,
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=irancell-mci-rightell-adsl.mr-moo.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   }
 ]
