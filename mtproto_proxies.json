@@ -1,20 +1,20 @@
 [
   {
-    "server": "2e89dd.swift-cdn.net",
-    "port": 443,
-    "secret": "eeb8f5ea85920054511cbb1c19f1baf3553265383964642e73776966742d63646e2e6e6574",
-    "url": "tg://proxy?server=2e89dd.swift-cdn.net&port=443&secret=eeb8f5ea85920054511cbb1c19f1baf3553265383964642e73776966742d63646e2e6e6574"
+    "server": "moon.injast.co.im",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=moon.injast.co.im&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "8d4f7d.hopwire.io",
-    "port": 443,
-    "secret": "ee8b118ed33b275628fba750798779726d3864346637642e686f70776972652e696f",
-    "url": "tg://proxy?server=8d4f7d.hopwire.io&port=443&secret=ee8b118ed33b275628fba750798779726d3864346637642e686f70776972652e696f"
+    "server": "nowin.injast.co.im",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=nowin.injast.co.im&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "82bf77.edgelink.org",
+    "server": "salam.bacheha.com",
     "port": 443,
-    "secret": "ee718aeb2009c4b1f64d5c389bbb0e61563832626637372e656467656c696e6b2e6f7267",
-    "url": "tg://proxy?server=82bf77.edgelink.org&port=443&secret=ee718aeb2009c4b1f64d5c389bbb0e61563832626637372e656467656c696e6b2e6f7267"
+    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
+    "url": "tg://proxy?server=salam.bacheha.com&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
   }
 ]
