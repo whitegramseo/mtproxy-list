@@ -1,20 +1,20 @@
 [
   {
-    "server": "moon.injast.co.im",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=moon.injast.co.im&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "nowin.injast.co.im",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=nowin.injast.co.im&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "salam.bacheha.com",
+    "server": "node.easyproxy.cfd",
     "port": 443,
-    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "url": "tg://proxy?server=salam.bacheha.com&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70"
+    "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664",
+    "url": "tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
+  },
+  {
+    "server": "megaconnect.click",
+    "port": 443,
+    "secret": "ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275",
+    "url": "tg://proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275"
+  },
+  {
+    "server": "2e89dd.swift-cdn.net",
+    "port": 443,
+    "secret": "eeb8f5ea85920054511cbb1c19f1baf3553265383964642e73776966742d63646e2e6e6574",
+    "url": "tg://proxy?server=2e89dd.swift-cdn.net&port=443&secret=eeb8f5ea85920054511cbb1c19f1baf3553265383964642e73776966742d63646e2e6e6574"
   }
 ]
