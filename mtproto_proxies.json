@@ -1,20 +1,20 @@
 [
   {
-    "server": "data.utkanos.life",
-    "port": 2443,
-    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
-    "url": "tg://proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
+    "server": "puot.mozitop.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "api2.medhata.org",
-    "port": 2443,
-    "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267",
-    "url": "tg://proxy?server=api2.medhata.org&port=2443&secret=ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
+    "server": "ving.mozitop.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "sioms.co.uk",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "mio.mozitop.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
