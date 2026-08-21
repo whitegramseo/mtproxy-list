@@ -1,20 +1,20 @@
 [
   {
-    "server": "api2.medhata.org",
-    "port": 2443,
-    "secret": "ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267",
-    "url": "tg://proxy?server=api2.medhata.org&port=2443&secret=ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267"
-  },
-  {
-    "server": "cdn2.medhata.org",
-    "port": 2443,
-    "secret": "ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267",
-    "url": "tg://proxy?server=cdn2.medhata.org&port=2443&secret=ee7b9814d423bb50d370214258830fbde063646e322e6d6564686174612e6f7267"
-  },
-  {
-    "server": "hub.savelyev.click",
+    "server": "irancell-mci-rightell-adsl.nowhearthis.co.uk",
     "port": 443,
-    "secret": "ee609a2ad7e277c6eb2dd39767e12777b86875622e736176656c7965762e636c69636b",
-    "url": "tg://proxy?server=hub.savelyev.click&port=443&secret=ee609a2ad7e277c6eb2dd39767e12777b86875622e736176656c7965762e636c69636b"
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=irancell-mci-rightell-adsl.nowhearthis.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+    "server": "irancell-mci-rightell-adsl.pcspeedyfix.co.uk",
+    "port": 443,
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=irancell-mci-rightell-adsl.pcspeedyfix.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+    "server": "iran.mr-moo.co.uk",
+    "port": 443,
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "url": "tg://proxy?server=iran.mr-moo.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
   }
 ]
