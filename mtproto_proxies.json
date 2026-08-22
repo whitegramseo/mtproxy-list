@@ -1,20 +1,20 @@
 [
   {
-    "server": "135.181.129.162",
+    "server": "t.meow-network.com",
     "port": 443,
-    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=135.181.129.162&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
+    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
+    "url": "tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
   },
   {
-    "server": "65.108.126.199",
+    "server": "65.21.222.229",
+    "port": 443,
+    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=65.21.222.229&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "65.21.205.41",
     "port": 443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.108.126.199&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-    "server": "65.21.227.199",
-    "port": 443,
-    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=65.21.227.199&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
+    "url": "tg://proxy?server=65.21.205.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
