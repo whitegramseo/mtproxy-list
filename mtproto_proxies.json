@@ -1,20 +1,20 @@
 [
   {
-    "server": "41.hide.newflamingodomain.co.uk",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "flux.lovely.lat",
+    "port": 443,
+    "secret": "ee6f8c7d9193585ada7d22acf074ad6d97666c75782e6c6f76656c792e6c6174",
+    "url": "tg://proxy?server=flux.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d97666c75782e6c6f76656c792e6c6174"
   },
   {
-    "server": "full-vasl.peachsoft.co.uk",
+    "server": "flux.lovely.lat",
     "port": 443,
-    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
-    "url": "tg://proxy?server=full-vasl.peachsoft.co.uk&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
+    "secret": "ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275",
+    "url": "tg://proxy?server=flux.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275"
   },
   {
-    "server": "vasl-sho.mohearn.co.uk",
+    "server": "pulse.lovely.lat",
     "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-    "url": "tg://proxy?server=vasl-sho.mohearn.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
+    "secret": "ee6f8c7d9193585ada7d22acf074ad6d9770756c73652e6c6f76656c792e6c6174",
+    "url": "tg://proxy?server=pulse.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d9770756c73652e6c6f76656c792e6c6174"
   }
 ]
