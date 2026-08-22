@@ -1,20 +1,20 @@
 [
   {
-    "server": "premium.speed-benz.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "max.kimt.click",
+    "port": 443,
+    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+    "url": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
   },
   {
-    "server": "dns.speed-benz.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "kima.rabotaet.online",
+    "port": 443,
+    "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
+    "url": "tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
   },
   {
-    "server": "uptime.speed-benz.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "ethereal11.arixo.shop",
+    "port": 443,
+    "secret": "7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A",
+    "url": "tg://proxy?server=ethereal11.arixo.shop&port=443&secret=7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A"
   }
 ]
