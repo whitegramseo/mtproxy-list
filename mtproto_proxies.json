@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxtstar.live",
-    "port": 443,
-    "secret": "eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275",
-    "url": "tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275"
-  },
-  {
-    "server": "gate.24starsmarket.ru",
-    "port": 443,
-    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275",
-    "url": "tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
-  },
-  {
-    "server": "bfesedv.uk",
+    "server": "severjadid.co.uk",
     "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=bfesedv.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "url": "tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+  },
+  {
+    "server": "rootssh2.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=rootssh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+  },
+  {
+    "server": "yarypple.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=yarypple.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
