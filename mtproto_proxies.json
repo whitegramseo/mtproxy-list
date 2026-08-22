@@ -1,20 +1,20 @@
 [
   {
-    "server": "flux.lovely.lat",
+    "server": "135.181.129.162",
     "port": 443,
-    "secret": "ee6f8c7d9193585ada7d22acf074ad6d97666c75782e6c6f76656c792e6c6174",
-    "url": "tg://proxy?server=flux.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d97666c75782e6c6f76656c792e6c6174"
+    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=135.181.129.162&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "flux.lovely.lat",
+    "server": "65.108.126.199",
     "port": 443,
-    "secret": "ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275",
-    "url": "tg://proxy?server=flux.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d976d2e6265626f6f2e7275"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=65.108.126.199&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "pulse.lovely.lat",
+    "server": "65.21.227.199",
     "port": 443,
-    "secret": "ee6f8c7d9193585ada7d22acf074ad6d9770756c73652e6c6f76656c792e6c6174",
-    "url": "tg://proxy?server=pulse.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d9770756c73652e6c6f76656c792e6c6174"
+    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=65.21.227.199&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
   }
 ]
