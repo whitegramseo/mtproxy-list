@@ -1,20 +1,20 @@
 [
   {
-    "server": "51.250.81.95",
+    "server": "bo0ji.co.uk",
     "port": 443,
-    "secret": "eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974",
-    "url": "tg://proxy?server=51.250.81.95&port=443&secret=eeca9d1ff80c1c1758dc115b7b9a90b7a76d6564626c6f636b2e666974"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "node.easyproxy.cfd",
+    "server": "support.joumalanet.co.uk",
     "port": 443,
-    "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664",
-    "url": "tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
+    "url": "tg://proxy?server=support.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
-    "server": "megaconnect.click",
+    "server": "help.joumalanet.co.uk",
     "port": 443,
-    "secret": "ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275",
-    "url": "tg://proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
+    "url": "tg://proxy?server=help.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   }
 ]
