@@ -1,20 +1,20 @@
 [
   {
-    "server": "support.nettoyou2.co.uk",
+    "server": "kostyanchekloh.lol",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
-    "url": "tg://proxy?server=support.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
+    "secret": "ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275",
+    "url": "tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275"
   },
   {
-    "server": "sioms.co.uk",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "server": "bake.mtproto.baby",
+    "port": 443,
+    "secret": "dde253fcbca6d9dacd57938476d83a4b80",
+    "url": "tg://proxy?server=bake.mtproto.baby&port=443&secret=dde253fcbca6d9dacd57938476d83a4b80"
   },
   {
-    "server": "help.nettoyou2.co.uk",
+    "server": "proxtstar.live",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
-    "url": "tg://proxy?server=help.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
+    "secret": "eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275",
+    "url": "tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275"
   }
 ]
