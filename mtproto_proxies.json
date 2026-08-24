@@ -1,20 +1,20 @@
 [
   {
-    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
-    "port": 4443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "support.nettoyou2.co.uk",
+    "port": 443,
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
+    "url": "tg://proxy?server=support.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
-    "server": "beam.whitelist.cyou",
-    "port": 443,
-    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75",
-    "url": "tg://proxy?server=beam.whitelist.cyou&port=443&secret=ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
+    "server": "sioms.co.uk",
+    "port": 25565,
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "nyakawai.shop",
+    "server": "help.nettoyou2.co.uk",
     "port": 443,
-    "secret": "eefddb26d5047ce1787ece232a57832391617669746f2e7275",
-    "url": "tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275"
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
+    "url": "tg://proxy?server=help.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   }
 ]
