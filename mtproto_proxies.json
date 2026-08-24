@@ -1,20 +1,20 @@
 [
   {
-    "server": "relay.rknsosi.shop",
+    "server": "nyakawai.shop",
     "port": 443,
-    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70",
-    "url": "tg://proxy?server=relay.rknsosi.shop&port=443&secret=ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
+    "secret": "eefddb26d5047ce1787ece232a57832391617669746f2e7275",
+    "url": "tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275"
   },
   {
-    "server": "freeconnect.lol",
+    "server": "beam.whitelist.cyou",
     "port": 443,
-    "secret": "eef7a565db46f8f5bf156054d86db42969617669746f2e7275",
-    "url": "tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275"
+    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75",
+    "url": "tg://proxy?server=beam.whitelist.cyou&port=443&secret=ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
   },
   {
-    "server": "1.hide.newflamingodomain.co.uk",
-    "port": 8443,
+    "server": "new7.mizanmizanesgh.co.uk",
+    "port": 4455,
     "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "url": "tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
