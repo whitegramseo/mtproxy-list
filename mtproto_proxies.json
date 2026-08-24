@@ -1,20 +1,20 @@
 [
   {
-    "server": "x.shmelproxy.top",
+    "server": "relay.rknsosi.shop",
     "port": 443,
-    "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275",
-    "url": "tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
+    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70",
+    "url": "tg://proxy?server=relay.rknsosi.shop&port=443&secret=ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
   },
   {
-    "server": "topproxt.asia",
+    "server": "freeconnect.lol",
     "port": 443,
-    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-    "url": "tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
+    "secret": "eef7a565db46f8f5bf156054d86db42969617669746f2e7275",
+    "url": "tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275"
   },
   {
-    "server": "irancell-mci.ir.gybshdjls.info",
-    "port": 88,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-    "url": "tg://proxy?server=irancell-mci.ir.gybshdjls.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+    "server": "1.hide.newflamingodomain.co.uk",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
