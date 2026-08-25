@@ -1,20 +1,20 @@
 [
   {
-    "server": "way.mtproto.baby",
+    "server": "kostyanchekloh.lol",
     "port": 443,
-    "secret": "dd187b4224150d9b3c9485d133801395be",
-    "url": "tg://proxy?server=way.mtproto.baby&port=443&secret=dd187b4224150d9b3c9485d133801395be"
+    "secret": "ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275",
+    "url": "tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275"
   },
   {
-    "server": "65.21.222.229",
-    "port": 443,
-    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=65.21.222.229&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
+    "server": "41.hide.newflamingodomain.co.uk",
+    "port": 8443,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "135.181.129.162",
+    "server": "mo.mohearn.co.uk",
     "port": 443,
-    "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=135.181.129.162&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "tg://proxy?server=mo.mohearn.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ=="
   }
 ]
