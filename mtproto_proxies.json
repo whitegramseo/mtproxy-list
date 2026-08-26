@@ -1,20 +1,20 @@
 [
   {
-    "server": "haji.biabala.co.uk",
+    "server": "proxtstar.live",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "url": "tg://proxy?server=haji.biabala.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+    "secret": "eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275",
+    "url": "tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275"
   },
   {
-    "server": "mashti.biabala.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=mashti.biabala.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "server": "gate.24starsmarket.ru",
+    "port": 443,
+    "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275",
+    "url": "tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
   },
   {
-    "server": "bo0ji.co.uk",
+    "server": "beam.whitelist.cyou",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75",
+    "url": "tg://proxy?server=beam.whitelist.cyou&port=443&secret=ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
   }
 ]
