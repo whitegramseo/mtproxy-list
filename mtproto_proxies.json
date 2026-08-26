@@ -1,20 +1,20 @@
 [
   {
-    "server": "api2.kvakzon.top",
+    "server": "time.vechnostnet.study",
     "port": 443,
-    "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70",
-    "url": "tg://proxy?server=api2.kvakzon.top&port=443&secret=eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
+    "secret": "dd8c9e3f5343fe86b52d608122e71d8ec7",
+    "url": "tg://proxy?server=time.vechnostnet.study&port=443&secret=dd8c9e3f5343fe86b52d608122e71d8ec7"
   },
   {
-    "server": "support.nettoyou2.co.uk",
+    "server": "bezan-ke.khob-mizani.manege-desktop-for.co.im",
+    "port": 4443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=bezan-ke.khob-mizani.manege-desktop-for.co.im&port=4443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+    "server": "help.nettoyou2.co.uk",
     "port": 443,
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
-    "url": "tg://proxy?server=support.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
-  },
-  {
-    "server": "sioms.co.uk",
-    "port": 25565,
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+    "url": "tg://proxy?server=help.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   }
 ]
