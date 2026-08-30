@@ -1,20 +1,20 @@
 [
   {
-    "server": "ad1.arixo.shop",
-    "port": 443,
-    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70",
-    "url": "tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
-  },
-  {
-    "server": "skein.chunkycorp.shop",
-    "port": 8443,
-    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
-    "url": "tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
-  },
-  {
-    "server": "65.109.208.75",
+    "server": "65.109.211.87",
     "port": 4466,
     "secret": "dd114562821249bd7ac519130220c25d08",
-    "url": "tg://proxy?server=65.109.208.75&port=4466&secret=dd114562821249bd7ac519130220c25d08"
+    "url": "tg://proxy?server=65.109.211.87&port=4466&secret=dd114562821249bd7ac519130220c25d08"
+  },
+  {
+    "server": "ssh.meow0.co.uk",
+    "port": 22,
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "tg://proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+    "server": "65.109.188.175",
+    "port": 4466,
+    "secret": "dd114562821249bd7ac519130220c25d08",
+    "url": "tg://proxy?server=65.109.188.175&port=4466&secret=dd114562821249bd7ac519130220c25d08"
   }
 ]
