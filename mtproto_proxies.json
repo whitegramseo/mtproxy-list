@@ -1,20 +1,20 @@
 [
   {
-    "server": "116.202.189.213",
+    "server": "support.infinityhalo.co.uk",
     "port": 8443,
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "tg://proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=support.infinityhalo.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "116.202.189.239",
-    "port": 8443,
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "tg://proxy?server=116.202.189.239&port=8443&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-    "server": "hel-hi.co.uk",
+    "server": "bo0ji.co.uk",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=hel-hi.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
+    "server": "3a.startnetwork.shop",
+    "port": 443,
+    "secret": "dd69273bcdcdf7e34b2b6d0f9e8386c127",
+    "url": "tg://proxy?server=3a.startnetwork.shop&port=443&secret=dd69273bcdcdf7e34b2b6d0f9e8386c127"
   }
 ]
