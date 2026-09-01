@@ -1,20 +1,20 @@
 [
   {
-    "server": "91.107.174.164",
+    "server": "wow.mtproto.baby",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=91.107.174.164&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "dd0bd7534b498f8d1a15d51475698cad49",
+    "url": "tg://proxy?server=wow.mtproto.baby&port=443&secret=dd0bd7534b498f8d1a15d51475698cad49"
   },
   {
-    "server": "65.21.227.200",
+    "server": "194.120.230.37",
     "port": 443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.21.227.200&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "url": "tg://proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "65.21.83.248",
+    "server": "103.161.35.23",
     "port": 443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "url": "tg://proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
