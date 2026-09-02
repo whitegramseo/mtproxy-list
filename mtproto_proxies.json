@@ -1,20 +1,20 @@
 [
   {
-    "server": "sync.lovely.lat",
+    "server": "t.meow-network.com",
     "port": 443,
-    "secret": "eeaadd88aa9facd454936d0c42dc128e7773796e632e6c6f76656c792e6c6174",
-    "url": "tg://proxy?server=sync.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e7773796e632e6c6f76656c792e6c6174"
+    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
+    "url": "tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
   },
   {
-    "server": "sync.lovely.lat",
-    "port": 443,
-    "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275",
-    "url": "tg://proxy?server=sync.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
+    "server": "kurd.tryzub-it.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=kurd.tryzub-it.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "region.lovely.lat",
-    "port": 443,
-    "secret": "eeaadd88aa9facd454936d0c42dc128e77726567696f6e2e6c6f76656c792e6c6174",
-    "url": "tg://proxy?server=region.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e77726567696f6e2e6c6f76656c792e6c6174"
+    "server": "turk.dasy2k1.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=turk.dasy2k1.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
