@@ -1,20 +1,20 @@
 [
   {
-    "server": "nyakawai.shop",
-    "port": 443,
-    "secret": "eefddb26d5047ce1787ece232a57832391617669746f2e7275",
-    "url": "tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275"
+    "server": "mt2.best-moz.info",
+    "port": 25565,
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "tg://proxy?server=mt2.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
-    "server": "beam.whitelist.cyou",
-    "port": 443,
-    "secret": "ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75",
-    "url": "tg://proxy?server=beam.whitelist.cyou&port=443&secret=ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75"
+    "server": "mt.best-moz.info",
+    "port": 25565,
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "tg://proxy?server=mt.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
-    "server": "65.21.205.13",
+    "server": "max.kimt.click",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.21.205.13&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+    "url": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
   }
 ]
