@@ -1,20 +1,20 @@
 [
   {
-    "server": "ssh2.best-moz.info",
-    "port": 22,
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "tg://proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+    "server": "91.107.140.144",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "ssh.best-moz.info",
-    "port": 22,
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "tg://proxy?server=ssh.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+    "server": "135.181.129.162",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=135.181.129.162&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "bolt.utkanos.life",
-    "port": 2443,
-    "secret": "eefcc4cf72e265ef4e47068bfe3fbd44fb626f6c742e75746b616e6f732e6c696665",
-    "url": "tg://proxy?server=bolt.utkanos.life&port=2443&secret=eefcc4cf72e265ef4e47068bfe3fbd44fb626f6c742e75746b616e6f732e6c696665"
+    "server": "65.109.106.167",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=65.109.106.167&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
