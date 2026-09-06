@@ -1,20 +1,20 @@
 [
   {
-    "server": "reyhoon.shambelile.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=reyhoon.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "sep1.startnetwork.shop",
+    "server": "god-mode-on.peachsoft.co.uk",
     "port": 443,
-    "secret": "ee2cd47959b9ece2cc59b76a4a0c010ae37374726d2e79616e6465782e6e6574",
-    "url": "tg://proxy?server=sep1.startnetwork.shop&port=443&secret=ee2cd47959b9ece2cc59b76a4a0c010ae37374726d2e79616e6465782e6e6574"
+    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
+    "url": "tg://proxy?server=god-mode-on.peachsoft.co.uk&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
-    "server": "uptime.speed-benz.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "deleted.antony-gordon.co.uk",
+    "port": 80,
+    "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
+    "url": "tg://proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s="
+  },
+  {
+    "server": "x.shmelproxy.top",
+    "port": 443,
+    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+    "url": "tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
   }
 ]
