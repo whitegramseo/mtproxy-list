@@ -1,20 +1,20 @@
 [
   {
-    "server": "help.meow0.co.uk",
-    "port": 22,
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "tg://proxy?server=help.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+    "server": "ir.grumpyoldmen.info",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "ssh.meow0.co.uk",
-    "port": 22,
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "tg://proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+    "server": "ir.makkers.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "proxtstar.live",
-    "port": 443,
-    "secret": "eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275",
-    "url": "tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275"
+    "server": "my-iran.vingardium.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=my-iran.vingardium.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
