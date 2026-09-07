@@ -1,20 +1,20 @@
 [
   {
-    "server": "relay.rknsosi.shop",
-    "port": 443,
-    "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70",
-    "url": "tg://proxy?server=relay.rknsosi.shop&port=443&secret=ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
+    "server": "mt.joumalanet.co.uk",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275",
+    "url": "tg://proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275"
   },
   {
-    "server": "freeconnect.lol",
-    "port": 443,
-    "secret": "eef7a565db46f8f5bf156054d86db42969617669746f2e7275",
-    "url": "tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275"
+    "server": "tls.joumalanet.co.uk",
+    "port": 25565,
+    "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275",
+    "url": "tg://proxy?server=tls.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275"
   },
   {
-    "server": "deleted.antony-gordon.co.uk",
-    "port": 80,
-    "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
-    "url": "tg://proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s="
+    "server": "stream.lovely.lat",
+    "port": 443,
+    "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275",
+    "url": "tg://proxy?server=stream.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275"
   }
 ]
