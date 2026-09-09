@@ -1,20 +1,20 @@
 [
   {
-    "server": "t.meow-network.com",
-    "port": 443,
-    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
-    "url": "tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
+    "server": "data.utkanos.life",
+    "port": 2443,
+    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
+    "url": "tg://proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
   },
   {
-    "server": "my-iran.vingardium.co.uk",
+    "server": "shahi.shambelile.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=my-iran.vingardium.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=shahi.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ir.engematica.info",
+    "server": "pesar.nanaz.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   }
 ]
