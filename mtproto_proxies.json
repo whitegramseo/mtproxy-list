@@ -1,20 +1,20 @@
 [
   {
-    "server": "data.utkanos.life",
-    "port": 2443,
-    "secret": "eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665",
-    "url": "tg://proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665"
-  },
-  {
-    "server": "ir.esdata.info",
+    "server": "ir.grumpyoldmen.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.esdata.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "url": "tg://proxy?server=ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "ir.gnutella2.info",
+    "server": "ir.makkers.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.gnutella2.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "url": "tg://proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+    "server": "ir.cheap-ass-domain.info",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.cheap-ass-domain.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
