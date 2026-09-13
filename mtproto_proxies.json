@@ -1,20 +1,20 @@
 [
   {
-    "server": "are-are-are.ir.paeez-amad.info",
-    "port": 88,
-    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-    "url": "tg://proxy?server=are-are-are.ir.paeez-amad.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+    "server": "ad1.arixo.shop",
+    "port": 443,
+    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70",
+    "url": "tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
   },
   {
-    "server": "super-hero-iran.ir.mausjakaqd.info",
+    "server": "skein.chunkycorp.shop",
+    "port": 8443,
+    "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+    "url": "tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+  },
+  {
+    "server": "fasle-zivaye.ir.paeez-amad.info",
     "port": 7443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=super-hero-iran.ir.mausjakaqd.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "t.meow-network.com",
-    "port": 443,
-    "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
-    "url": "tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d"
+    "url": "tg://proxy?server=fasle-zivaye.ir.paeez-amad.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
