@@ -1,20 +1,20 @@
 [
   {
-    "server": "online-iran.ir.awedsj.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=online-iran.ir.awedsj.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "shahi.shambelile.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=shahi.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "best.ir.agrescjarkahdgs.info",
-    "port": 88,
-    "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-    "url": "tg://proxy?server=best.ir.agrescjarkahdgs.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+    "server": "pesar.nanaz.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "fasle-zivaye.ir.paeez-amad.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=fasle-zivaye.ir.paeez-amad.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "ir.envytations.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.envytations.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
