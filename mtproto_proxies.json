@@ -1,20 +1,20 @@
 [
   {
-    "server": "suodbo.co.uk",
+    "server": "30f9e0.mtpfast.com",
     "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=suodbo.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "secret": "ee3452747634e3675ff895e7ff2f1307323330663965302e6d7470666173742e636f6d",
+    "url": "tg://proxy?server=30f9e0.mtpfast.com&port=443&secret=ee3452747634e3675ff895e7ff2f1307323330663965302e6d7470666173742e636f6d"
   },
   {
-    "server": "im.dumaniltd.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "f5fe36.proxyhub.co",
+    "port": 443,
+    "secret": "eea14e59f8fda21c858d772e0fd261ad156635666533362e70726f78796875622e636f",
+    "url": "tg://proxy?server=f5fe36.proxyhub.co&port=443&secret=eea14e59f8fda21c858d772e0fd261ad156635666533362e70726f78796875622e636f"
   },
   {
-    "server": "ir.closcloud.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "a27b0a.hopwire.io",
+    "port": 443,
+    "secret": "ee18f8c3028bf752a74732a9a2fd99ab4d6132376230612e686f70776972652e696f",
+    "url": "tg://proxy?server=a27b0a.hopwire.io&port=443&secret=ee18f8c3028bf752a74732a9a2fd99ab4d6132376230612e686f70776972652e696f"
   }
 ]
