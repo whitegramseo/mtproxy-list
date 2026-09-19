@@ -1,20 +1,20 @@
 [
   {
-    "server": "relay.surfvpn.app",
+    "server": "217.138.215.102",
     "port": 443,
-    "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070",
-    "url": "tg://proxy?server=relay.surfvpn.app&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
+    "secret": "ee8357954a3df5c26e32a7b8a7978c3f107777772e636974696c696e6b2e7275",
+    "url": "tg://proxy?server=217.138.215.102&port=443&secret=ee8357954a3df5c26e32a7b8a7978c3f107777772e636974696c696e6b2e7275"
   },
   {
-    "server": "mio.mozitop.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "176.65.135.69",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "puot.mozitop.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "194.120.230.26",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=194.120.230.26&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
