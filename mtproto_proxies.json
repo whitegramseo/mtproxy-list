@@ -1,20 +1,20 @@
 [
   {
-    "server": "jhndoes.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=jhndoes.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "strait-of-hormuz.ir.jursdheks.info",
+    "server": "ping-khoob.ir.paeez-amad.info",
     "port": 7443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=strait-of-hormuz.ir.jursdheks.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=ping-khoob.ir.paeez-amad.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "persian.gulf.ir.olsjddhf.info",
+    "server": "hamrah.mci.ir.pugfhtrdyted.info",
     "port": 7443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=persian.gulf.ir.olsjddhf.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=hamrah.mci.ir.pugfhtrdyted.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "x.shmelproxy.top",
+    "port": 443,
+    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+    "url": "tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
   }
 ]
