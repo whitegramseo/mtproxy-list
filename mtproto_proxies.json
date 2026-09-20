@@ -1,20 +1,20 @@
 [
   {
-    "server": "ping-khoob.ir.paeez-amad.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ping-khoob.ir.paeez-amad.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "hamrah.mci.ir.pugfhtrdyted.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=hamrah.mci.ir.pugfhtrdyted.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "x.shmelproxy.top",
+    "server": "s5.assetflux.org",
     "port": 443,
-    "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
-    "url": "tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
+    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275",
+    "url": "tg://proxy?server=s5.assetflux.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+  },
+  {
+    "server": "media11.happtg.org",
+    "port": 443,
+    "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275",
+    "url": "tg://proxy?server=media11.happtg.org&port=443&secret=eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
+  },
+  {
+    "server": "cdn12.cdnwave.org",
+    "port": 443,
+    "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275",
+    "url": "tg://proxy?server=cdn12.cdnwave.org&port=443&secret=ee97247322005404a2c7a84d082aace21b686f66662e7275"
   }
 ]
