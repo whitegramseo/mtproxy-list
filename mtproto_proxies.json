@@ -1,20 +1,20 @@
 [
   {
-    "server": "s5.assetflux.org",
+    "server": "cdnpulse.org",
     "port": 443,
-    "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275",
-    "url": "tg://proxy?server=s5.assetflux.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+    "secret": "dd93ca4f625e3fe727f9f3b42abef3fcf6",
+    "url": "tg://proxy?server=cdnpulse.org&port=443&secret=dd93ca4f625e3fe727f9f3b42abef3fcf6"
   },
   {
-    "server": "media11.happtg.org",
-    "port": 443,
-    "secret": "eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275",
-    "url": "tg://proxy?server=media11.happtg.org&port=443&secret=eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275"
+    "server": "ir.closcloud.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "cdn12.cdnwave.org",
+    "server": "bo0ji.co.uk",
     "port": 443,
-    "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275",
-    "url": "tg://proxy?server=cdn12.cdnwave.org&port=443&secret=ee97247322005404a2c7a84d082aace21b686f66662e7275"
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "tg://proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
 ]
