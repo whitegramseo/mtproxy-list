@@ -1,20 +1,20 @@
 [
   {
-    "server": "dns.speed-benz.co.uk",
+    "server": "ir.xeonxu.info",
     "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.xeonxu.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "support.infinityhalo.co.uk",
-    "port": 8443,
+    "server": "public.benzcls.co.uk",
+    "port": 2096,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=support.infinityhalo.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=public.benzcls.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "premium.speed-benz.co.uk",
-    "port": 8443,
+    "server": "iran.miosen.cyou",
+    "port": 2096,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=iran.miosen.cyou&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
