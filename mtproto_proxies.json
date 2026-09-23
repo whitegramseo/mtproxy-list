@@ -1,20 +1,20 @@
 [
   {
-    "server": "jxjxjo.lol",
-    "port": 443,
-    "secret": "865d8256f6769081944d727dc7954720",
-    "url": "tg://proxy?server=jxjxjo.lol&port=443&secret=865d8256f6769081944d727dc7954720"
+    "server": "akenai.tg",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "url": "tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "for.download.ir.zigoraaat.info",
-    "port": 88,
-    "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-    "url": "tg://proxy?server=for.download.ir.zigoraaat.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d"
+    "server": "server.syscloudio.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=server.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "cdnpulse.org",
-    "port": 443,
-    "secret": "dd93ca4f625e3fe727f9f3b42abef3fcf6",
-    "url": "tg://proxy?server=cdnpulse.org&port=443&secret=dd93ca4f625e3fe727f9f3b42abef3fcf6"
+    "server": "nasho.poolaki.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=nasho.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   }
 ]
