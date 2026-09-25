@@ -1,20 +1,20 @@
 [
   {
-    "server": "ir.bazzawill.info",
+    "server": "ir.macauley.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.bazzawill.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "url": "tg://proxy?server=ir.macauley.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "ir.rebol.info",
+    "server": "208.87.242.223",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.rebol.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "url": "tg://proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "ir.gnutella2.info",
+    "server": "ir.envytations.info",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.gnutella2.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "url": "tg://proxy?server=ir.envytations.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
