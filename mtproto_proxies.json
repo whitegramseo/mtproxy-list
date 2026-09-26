@@ -1,20 +1,20 @@
 [
   {
-    "server": "ultra.mishutkin.click",
-    "port": 443,
-    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+    "server": "white.antony-gordon.co.uk",
+    "port": 2096,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=white.antony-gordon.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "honar.saheledarya.co.uk",
-    "port": 8443,
+    "server": "moh2.benzcls.co.uk",
+    "port": 2096,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=honar.saheledarya.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=moh2.benzcls.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "mofid.saheledarya.co.uk",
-    "port": 8443,
+    "server": "moh1.benzcls.co.uk",
+    "port": 2096,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=mofid.saheledarya.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=moh1.benzcls.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
