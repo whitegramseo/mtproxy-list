@@ -1,20 +1,20 @@
 [
   {
-    "server": "connect.mishutkin.click",
-    "port": 443,
-    "secret": "ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=connect.mishutkin.click&port=443&secret=ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d"
-  },
-  {
-    "server": "support.infinityhalo.co.uk",
+    "server": "mofid.saheledarya.co.uk",
     "port": 8443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=support.infinityhalo.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=mofid.saheledarya.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ir.closcloud.co.uk",
+    "server": "honar.saheledarya.co.uk",
     "port": 8443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=honar.saheledarya.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "ajab-sorati-dare-ooh-ooh.moon",
+    "port": 8443,
+    "secret": "dd00000000000000000000000000000000",
+    "url": "tg://proxy?server=ajab-sorati-dare-ooh-ooh.moon&port=8443&secret=dd00000000000000000000000000000000"
   }
 ]
