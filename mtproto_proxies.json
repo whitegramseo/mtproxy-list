@@ -1,20 +1,20 @@
 [
   {
-    "server": "ad1.arixo.shop",
+    "server": "87.58.149.247",
     "port": 443,
-    "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70",
-    "url": "tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70"
+    "secret": "eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d",
+    "url": "tg://proxy?server=87.58.149.247&port=443&secret=eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d"
   },
   {
-    "server": "web.arixo.shop",
+    "server": "212.147.241.136",
     "port": 443,
-    "secret": "27e57f496bbf279605f0198ea6d26067",
-    "url": "tg://proxy?server=web.arixo.shop&port=443&secret=27e57f496bbf279605f0198ea6d26067"
+    "secret": "eeed0542373d8297f689458ff7dd1a4ba87777772e636c6f7564666c6172652e636f6d",
+    "url": "tg://proxy?server=212.147.241.136&port=443&secret=eeed0542373d8297f689458ff7dd1a4ba87777772e636c6f7564666c6172652e636f6d"
   },
   {
-    "server": "95.217.26.76",
+    "server": "shampoo.mikhay.co.uk",
     "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=95.217.26.76&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=shampoo.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   }
 ]
