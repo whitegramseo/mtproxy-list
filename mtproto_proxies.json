@@ -1,20 +1,20 @@
 [
   {
-    "server": "gram.blog",
+    "server": "qeshm.island.ir.igakwvwa.info",
+    "port": 7443,
+    "secret": "1603010200010001fc030386e24c3add",
+    "url": "tg://proxy?server=qeshm.island.ir.igakwvwa.info&port=7443&secret=1603010200010001fc030386e24c3add"
+  },
+  {
+    "server": "ziste-sevom.ir.igakwvwa.info",
+    "port": 7443,
+    "secret": "1603010200010001fc030386e24c3add",
+    "url": "tg://proxy?server=ziste-sevom.ir.igakwvwa.info&port=7443&secret=1603010200010001fc030386e24c3add"
+  },
+  {
+    "server": "akenai.tg",
     "port": 853,
-    "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
-    "url": "tg://proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
-  },
-  {
-    "server": "bo0ji.co.uk",
-    "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "tg://proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-    "server": "ssh.meow0.co.uk",
-    "port": 22,
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "tg://proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "url": "tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   }
 ]
