@@ -1,20 +1,20 @@
 [
   {
-    "server": "fast.mishutkin.click",
+    "server": "5.75.202.65",
     "port": 443,
-    "secret": "eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=fast.mishutkin.click&port=443&secret=eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=5.75.202.65&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "ir.closcloud.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "5.75.194.168",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=5.75.194.168&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "im.dumaniltd.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "5.75.206.230",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=5.75.206.230&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
