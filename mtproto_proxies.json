@@ -1,20 +1,20 @@
 [
   {
-    "server": "qeshm.island.ir.igakwvwa.info",
-    "port": 7443,
-    "secret": "1603010200010001fc030386e24c3add",
-    "url": "tg://proxy?server=qeshm.island.ir.igakwvwa.info&port=7443&secret=1603010200010001fc030386e24c3add"
+    "server": "tazenafas.dingi3.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "45.147.31.252",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=45.147.31.252&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "jadide.mamadali.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "45.147.31.253",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=45.147.31.253&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "vasalshim.mamadgoli.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
