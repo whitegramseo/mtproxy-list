@@ -1,20 +1,20 @@
 [
   {
-    "server": "lavashak.mikhay.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=lavashak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "server": "topproxt.asia",
+    "port": 443,
+    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+    "url": "tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
   },
   {
-    "server": "shampoo.mikhay.co.uk",
+    "server": "ccc.horizon555.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=shampoo.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "akenai.tg",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+    "server": "premium.speed-benz.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
