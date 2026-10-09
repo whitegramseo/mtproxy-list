@@ -1,20 +1,20 @@
 [
   {
-    "server": "kostyanchekloh.lol",
-    "port": 443,
-    "secret": "ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
-    "url": "tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275"
+    "server": "rostam.ir.igakwvwa.info",
+    "port": 7443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=rostam.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ccc.horizon555.co.uk",
-    "port": 8443,
+    "server": "arash-kamangir.ir.igakwvwa.info",
+    "port": 7443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=arash-kamangir.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "premium.speed-benz.co.uk",
-    "port": 8443,
+    "server": "yaghoub.leys.safari.ir.igakwvwa.info",
+    "port": 7443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=yaghoub.leys.safari.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
