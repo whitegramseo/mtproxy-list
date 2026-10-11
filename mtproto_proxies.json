@@ -1,20 +1,20 @@
 [
   {
-    "server": "yaghoub.leys.safari.ir.igakwvwa.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=yaghoub.leys.safari.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "iran.bingi.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=iran.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "web.detourcloak.site",
-    "port": 443,
-    "secret": "dd77fa53c2b5473d4715b2493f8db21eb3",
-    "url": "tg://proxy?server=web.detourcloak.site&port=443&secret=dd77fa53c2b5473d4715b2493f8db21eb3"
+    "server": "persia.bingi.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=persia.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "65.21.227.200",
+    "server": "go.ultraproxy.shop",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.21.227.200&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "dd7781b85253bbbf6c34447d0201c30b60",
+    "url": "tg://proxy?server=go.ultraproxy.shop&port=443&secret=dd7781b85253bbbf6c34447d0201c30b60"
   }
 ]
