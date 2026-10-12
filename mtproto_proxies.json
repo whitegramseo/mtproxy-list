@@ -1,20 +1,20 @@
 [
   {
-    "server": "noway.iraj.trsr57d.co.uk",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=noway.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "qeshm.island.ir.igakwvwa.info",
+    "port": 7443,
+    "secret": "1603010200010001fc030386e24c3add",
+    "url": "tg://proxy?server=qeshm.island.ir.igakwvwa.info&port=7443&secret=1603010200010001fc030386e24c3add"
   },
   {
-    "server": "1.iraj.trsr57d.co.uk",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=1.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "yaghoub.leys.safari.ir.igakwvwa.info",
+    "port": 7443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=yaghoub.leys.safari.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ok.iraj.trsr57d.co.uk",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=ok.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "arash-kamangir.ir.igakwvwa.info",
+    "port": 7443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=arash-kamangir.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
