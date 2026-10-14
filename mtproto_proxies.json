@@ -1,20 +1,20 @@
 [
   {
-    "server": "signal.mtp.mom",
-    "port": 443,
-    "secret": "eeb18bb8c019bf022611a46377e3f0262a6c69746536342e73697465",
-    "url": "tg://proxy?server=signal.mtp.mom&port=443&secret=eeb18bb8c019bf022611a46377e3f0262a6c69746536342e73697465"
+    "server": "akenai.tg",
+    "port": 853,
+    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+    "url": "tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "lite64tg.mtproxy.pw",
-    "port": 443,
-    "secret": "ee90a2fdedffe52c2562934f4d96513b196c69746536342e73697465",
-    "url": "tg://proxy?server=lite64tg.mtproxy.pw&port=443&secret=ee90a2fdedffe52c2562934f4d96513b196c69746536342e73697465"
-  },
-  {
-    "server": "ir-ir.engematica.info",
+    "server": "nfc.neo-duo.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir-ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=nfc.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "persia.bingi.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=persia.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   }
 ]
