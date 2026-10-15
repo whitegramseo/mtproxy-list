@@ -1,20 +1,20 @@
 [
   {
-    "server": "signal.mtp.mom",
-    "port": 443,
-    "secret": "eeb18bb8c019bf022611a46377e3f0262a6c69746536342e73697465",
-    "url": "tg://proxy?server=signal.mtp.mom&port=443&secret=eeb18bb8c019bf022611a46377e3f0262a6c69746536342e73697465"
-  },
-  {
-    "server": "lite64tg.mtproxy.pw",
-    "port": 443,
-    "secret": "ee90a2fdedffe52c2562934f4d96513b196c69746536342e73697465",
-    "url": "tg://proxy?server=lite64tg.mtproxy.pw&port=443&secret=ee90a2fdedffe52c2562934f4d96513b196c69746536342e73697465"
-  },
-  {
-    "server": "ir-ir.naganuma.info",
+    "server": "ving.mozitop.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir-ir.naganuma.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "premium.speed-benz.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "dns.speed-benz.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
