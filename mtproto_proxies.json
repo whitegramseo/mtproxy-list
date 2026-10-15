@@ -1,20 +1,20 @@
 [
   {
-    "server": "65.109.98.231",
+    "server": "topproxt.asia",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+    "url": "tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275"
   },
   {
-    "server": "194.120.230.37",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "server": "jadide.mamadali.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "65.108.123.76",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "server": "vasalshim.mamadgoli.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
