@@ -1,20 +1,20 @@
 [
   {
-    "server": "akenai.tg",
-    "port": 853,
-    "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+    "server": "yaghoub.leys.safari.ir.igakwvwa.info",
+    "port": 7443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=yaghoub.leys.safari.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "176.65.135.69",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "server": "homa.ir.awedsj.info",
+    "port": 7443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=homa.ir.awedsj.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "194.120.230.120",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "server": "daliran-tangestan.ir.aysghfkzcxg.info",
+    "port": 7443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=daliran-tangestan.ir.aysghfkzcxg.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
