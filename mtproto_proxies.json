@@ -1,20 +1,20 @@
 [
   {
-    "server": "ir.simpleelegance-us.info",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "web.arixo.shop",
+    "port": 443,
+    "secret": "dd27e57f496bbf279605f0198ea6d26067",
+    "url": "tg://proxy?server=web.arixo.shop&port=443&secret=dd27e57f496bbf279605f0198ea6d26067"
   },
   {
-    "server": "ir.atcfirealarms.co.uk",
+    "server": "3etare.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.atcfirealarms.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=3etare.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ir.xn--ds-bja.info",
+    "server": "nocloudnew.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=nocloudnew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
