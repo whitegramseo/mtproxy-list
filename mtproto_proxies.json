@@ -1,20 +1,20 @@
 [
   {
-    "server": "tokane46.tidelark.cc",
-    "port": 443,
-    "secret": "eeae5ab45be1bccbba85eec21085b2fd20746f6b616e6534362e746964656c61726b2e6363",
-    "url": "tg://proxy?server=tokane46.tidelark.cc&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd20746f6b616e6534362e746964656c61726b2e6363"
-  },
-  {
-    "server": "mide77.mosswren.vip",
-    "port": 443,
-    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6d69646537372e6d6f73737772656e2e766970",
-    "url": "tg://proxy?server=mide77.mosswren.vip&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6d69646537372e6d6f73737772656e2e766970"
-  },
-  {
-    "server": "ving.mozitop.co.uk",
+    "server": "ir.simpleelegance-us.info",
     "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+    "server": "ir.atcfirealarms.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.atcfirealarms.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+    "server": "ir.xn--ds-bja.info",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
