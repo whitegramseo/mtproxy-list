@@ -1,20 +1,20 @@
 [
   {
-    "server": "web.arixo.shop",
+    "server": "cdnmarina.com",
     "port": 443,
-    "secret": "dd27e57f496bbf279605f0198ea6d26067",
-    "url": "tg://proxy?server=web.arixo.shop&port=443&secret=dd27e57f496bbf279605f0198ea6d26067"
+    "secret": "dd161011f2e6890fb06a45b244c6ff4e7c",
+    "url": "tg://proxy?server=cdnmarina.com&port=443&secret=dd161011f2e6890fb06a45b244c6ff4e7c"
   },
   {
-    "server": "3etare.co.uk",
+    "server": "lavashak.mikhay.co.uk",
     "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=3etare.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=lavashak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "nocloudnew.co.uk",
+    "server": "nasho.poolaki.co.uk",
     "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=nocloudnew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=nasho.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   }
 ]
