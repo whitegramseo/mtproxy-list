@@ -1,20 +1,20 @@
 [
   {
-    "server": "redflag.yazaebalsyadelatproxy.vip",
-    "port": 443,
-    "secret": "eeae5ab45be1bccbba85eec21085b2fd20726564666c61672e79617a616562616c73796164656c617470726f78792e766970",
-    "url": "tg://proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd20726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
+    "server": "tazenafas.dingi3.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "topo15.mosswren.vip",
-    "port": 443,
-    "secret": "ee899032aa75159cc1d735f15e7a0e3a6e746f706f31352e6d6f73737772656e2e766970",
-    "url": "tg://proxy?server=topo15.mosswren.vip&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e746f706f31352e6d6f73737772656e2e766970"
+    "server": "jadide.mamadali.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "darya.saheledarya.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=darya.saheledarya.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "vasalshim.mamadgoli.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
