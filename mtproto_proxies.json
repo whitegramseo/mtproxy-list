@@ -1,20 +1,20 @@
 [
   {
-    "server": "ghoghnoos.ir.awedsj.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ghoghnoos.ir.awedsj.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "max.mishutkin.click",
+    "port": 443,
+    "secret": "ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=max.mishutkin.click&port=443&secret=ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "anahita.ir.awedsj.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=anahita.ir.awedsj.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "usb.neo-duo.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=usb.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "pooran.ir.awedsj.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=pooran.ir.awedsj.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "nfc.neo-duo.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=nfc.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   }
 ]
