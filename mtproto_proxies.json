@@ -1,20 +1,20 @@
 [
   {
-    "server": "delvari.ir.aysghfkzcxg.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=delvari.ir.aysghfkzcxg.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "ultra.mishutkin.click",
+    "port": 443,
+    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "babak-khoramdin.ir.aysghfkzcxg.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=babak-khoramdin.ir.aysghfkzcxg.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "167.233.115.113",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=167.233.115.113&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "kaveh-ahangar.ir.aysghfkzcxg.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=kaveh-ahangar.ir.aysghfkzcxg.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "178.105.201.7",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=178.105.201.7&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
