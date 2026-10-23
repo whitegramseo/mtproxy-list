@@ -1,20 +1,20 @@
 [
   {
-    "server": "0000way.iraj.trsr57d.co.uk",
-    "port": 8443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=0000way.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "333.mtprotonewrunningproxasia.info",
-    "port": 8443,
+    "server": "ariobarzanes.ir.igakwvwa.info",
+    "port": 7443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=333.mtprotonewrunningproxasia.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=ariobarzanes.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ir-ir.ataman.info",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "bozorgmehr.ir.igakwvwa.info",
+    "port": 7443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=bozorgmehr.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "artmis.ir.igakwvwa.info",
+    "port": 7443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=artmis.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
