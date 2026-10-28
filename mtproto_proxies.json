@@ -1,20 +1,20 @@
 [
   {
-    "server": "gram.blog",
-    "port": 853,
-    "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
-    "url": "tg://proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
+    "server": "web.arixo.shop",
+    "port": 443,
+    "secret": "dd27e57f496bbf279605f0198ea6d26067",
+    "url": "tg://proxy?server=web.arixo.shop&port=443&secret=dd27e57f496bbf279605f0198ea6d26067"
   },
   {
-    "server": "mtproxygram.lol",
-    "port": 853,
-    "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65",
-    "url": "tg://proxy?server=mtproxygram.lol&port=853&secret=ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
-  },
-  {
-    "server": "amoo.bingi.co.uk",
+    "server": "usb.neo-duo.co.uk",
     "port": 8443,
     "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=amoo.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=usb.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "nfc.neo-duo.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=nfc.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   }
 ]
