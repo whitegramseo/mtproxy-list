@@ -1,20 +1,20 @@
 [
   {
-    "server": "77.mishutkin.click",
+    "server": "lotoka28.copperwren.click",
     "port": 443,
-    "secret": "eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b",
-    "url": "tg://proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b"
+    "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d6c6f746f6b6132382e636f707065727772656e2e636c69636b",
+    "url": "tg://proxy?server=lotoka28.copperwren.click&port=443&secret=eefd9a9e2ac2851ddc327fe5971e25a87d6c6f746f6b6132382e636f707065727772656e2e636c69636b"
   },
   {
-    "server": "3etare.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=3etare.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "kavi63.fernlark.xyz",
+    "port": 443,
+    "secret": "ee14697011e0c73f03e95d7b6919a2252b6b61766936332e6665726e6c61726b2e78797a",
+    "url": "tg://proxy?server=kavi63.fernlark.xyz&port=443&secret=ee14697011e0c73f03e95d7b6919a2252b6b61766936332e6665726e6c61726b2e78797a"
   },
   {
-    "server": "nocloudnew.co.uk",
+    "server": "speed.runserver.co.uk",
     "port": 8443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=nocloudnew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=speed.runserver.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
