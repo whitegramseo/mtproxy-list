@@ -1,20 +1,20 @@
 [
   {
-    "server": "ir.sherlock049.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir.sherlock049.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-    "server": "darya.saheledarya.co.uk",
+    "server": "3etare.co.uk",
     "port": 8443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=darya.saheledarya.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=3etare.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "aseman.lunavane.co.uk",
+    "server": "nocloudnew.co.uk",
     "port": 8443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=aseman.lunavane.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=nocloudnew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "support.infinityhalo.co.uk",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=support.infinityhalo.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
