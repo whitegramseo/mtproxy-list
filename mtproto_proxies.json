@@ -1,20 +1,20 @@
 [
   {
-    "server": "ultra.mishutkin.click",
+    "server": "kasco.alhosein.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+  },
+  {
+    "server": "tg.wequ.lat",
     "port": 443,
-    "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+    "secret": "0289a13d961b91438fea5069a8097cb3",
+    "url": "tg://proxy?server=tg.wequ.lat&port=443&secret=0289a13d961b91438fea5069a8097cb3"
   },
   {
-    "server": "tazenafas.dingi3.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "jadide.mamadali.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "78.154.103.41",
+    "port": 14525,
+    "secret": "ee57413039fdb20b14e05c0af86bebf7497777772e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=78.154.103.41&port=14525&secret=ee57413039fdb20b14e05c0af86bebf7497777772e676f6f676c652e636f6d"
   }
 ]
