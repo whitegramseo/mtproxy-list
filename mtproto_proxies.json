@@ -1,20 +1,20 @@
 [
   {
-    "server": "tg.proxynet.tech",
-    "port": 443,
-    "secret": "ee6d98b7c125f854c0ac73c588ec9f225864726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=tg.proxynet.tech&port=443&secret=ee6d98b7c125f854c0ac73c588ec9f225864726976652e676f6f676c652e636f6d"
+    "server": "gov.grasic.info",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=gov.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "nasho.poolaki.co.uk",
+    "server": "ir.atcfirealarms.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=nasho.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.atcfirealarms.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "mahi.poolaki.co.uk",
+    "server": "ir.naganuma.info",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=mahi.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir.naganuma.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
