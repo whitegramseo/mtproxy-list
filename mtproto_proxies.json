@@ -1,20 +1,20 @@
 [
   {
-    "server": "kasco.alhosein.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "max.fastprx.top",
+    "port": 443,
+    "secret": "eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "exiscos.co.uk",
+    "server": "boro.poolaki.co.uk",
     "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=exiscos.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=boro.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "termsnal.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=termsnal.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "cdn1.49945664.xyz",
+    "port": 443,
+    "secret": "dd0c038bc74e81ff16fdfff75ef5a92df8",
+    "url": "tg://proxy?server=cdn1.49945664.xyz&port=443&secret=dd0c038bc74e81ff16fdfff75ef5a92df8"
   }
 ]
